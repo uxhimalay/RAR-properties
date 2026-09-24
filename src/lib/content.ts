@@ -31,10 +31,10 @@ export const MENU_LINKS: NavLink[] = [
 export const NAV_CTA = "Enquire";
 
 export const HERO: HeroContent = {
-  headline: ["RAR", "PROPERTIES"],
-  labels: ["Based in Dubai", "Founded by Riyaz"],
+  headline: ["RAR PROPERTIES", ""],
+  labels: ["Based in Dubai", "RAR Properties"],
   paragraph:
-    "Founded and led by Riyaz, RAR Properties helps buyers, investors, and families discover and secure premier residential and commercial properties in and around Dubai.",
+    "RAR Properties helps buyers, investors, and families discover and secure premier residential and commercial properties in and around Dubai.",
   link: { label: "View our work", href: "#work" },
   cta: { label: "Book a visit", href: "#hot-deals" },
   mainImage: "/images/hero-dubai-balcony.jpg",
@@ -90,7 +90,7 @@ export const DEALS_VISIT = {
   /** Visits happen in Dubai, which has no daylight saving, so the offset is fixed. */
   timezone: { label: "GST", utcOffsetMinutes: 240 },
   durationMinutes: 45,
-  place: "At the property, with Riyaz or an RAR consultant",
+  place: "At the property, with an RAR property specialist",
   back: "Back",
   timeLabel: "Visit time",
   noTimesToday: "No times left today",

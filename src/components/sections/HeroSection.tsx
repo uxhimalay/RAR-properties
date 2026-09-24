@@ -146,48 +146,47 @@ function HeroOverlay({ variant }: { variant: "desktop" | "mobile" }) {
       <div aria-hidden className={desktop ? "h-8" : "h-[60px]"} />
 
       {/* Main: brand headline | labels */}
-      <div className={desktop ? "flex w-full items-center justify-between" : "flex w-full flex-col items-start gap-10"}>
-        <h1 className="flex flex-col items-start gap-[10px] font-inter font-semibold uppercase leading-[0.9] tracking-[-0.05em] text-white">
-          <TextReveal
-            as="span"
-            preset="hero-heading"
-            startOnMount
-            delay={INTRO_DELAY}
-            text={HERO.headline[0]}
-            className={desktop ? "block text-[length:clamp(64px,7.8vw,112px)]" : "block text-[length:clamp(40px,14vw,112px)]"}
-          />
-          <TextReveal
-            as="span"
-            preset="hero-heading"
-            startOnMount
-            delay={INTRO_DELAY + 0.19}
-            text={HERO.headline[1]}
-            className={desktop ? "block text-[length:clamp(41px,5vw,72px)]" : "block text-[length:clamp(26px,7.5vw,72px)]"}
-          />
+      <div className={desktop ? "flex w-full items-baseline justify-between gap-8" : "flex w-full flex-col items-start gap-8"}>
+        <h1 className="font-display font-semibold uppercase leading-[0.95] tracking-[-0.03em] text-white">
+          {HERO.headline.filter(Boolean).map((line, i) => (
+            <TextReveal
+              key={`${line}-${i}`}
+              as="span"
+              preset="hero-heading"
+              startOnMount
+              delay={INTRO_DELAY + i * 0.15}
+              text={line}
+              className={desktop ? "block text-[length:clamp(44px,5.5vw,88px)]" : "block text-[length:clamp(36px,10vw,64px)]"}
+            />
+          ))}
         </h1>
 
         <FadeUp
           onMount
           delay={INTRO_DELAY}
-          className={desktop ? "flex w-[500px] max-w-full shrink items-center justify-end gap-5" : "flex w-full items-center justify-between"}
+          className={desktop ? "flex w-auto shrink-0 items-center justify-end gap-4" : "flex w-full items-center justify-between"}
         >
           <span className={`${LABEL_TYPE} text-white`}>{HERO.labels[0]}</span>
-          <span aria-hidden className={`${LABEL_TYPE} text-[var(--color-gold)]`}>
-            {"//"}
-          </span>
-          <span className={`${LABEL_TYPE} text-white`}>{HERO.labels[1]}</span>
+          {HERO.labels[1] && (
+            <>
+              <span aria-hidden className={`${LABEL_TYPE} text-[var(--color-gold)]`}>
+                {"//"}
+              </span>
+              <span className={`${LABEL_TYPE} text-white`}>{HERO.labels[1]}</span>
+            </>
+          )}
         </FadeUp>
       </div>
 
       {/* Secondary: intro paragraph | text link */}
-      <div className={desktop ? "flex w-full items-end justify-between" : "flex w-full flex-col items-start gap-6 pb-10"}>
+      <div className={desktop ? "flex w-full items-end justify-between gap-8" : "flex w-full flex-col items-start gap-6 pb-10"}>
         <TextReveal
           as="p"
           preset="hero-paragraph"
           startOnMount
           delay={INTRO_DELAY}
           text={HERO.paragraph}
-          className={`w-full max-w-[500px] font-inter font-medium leading-[1.4] tracking-[-0.04em] text-[#e6e6e6] ${desktop ? "text-[18px]" : "text-[16px]"}`}
+          className={`w-full max-w-[560px] font-sans font-light leading-[1.65] tracking-normal text-white/90 ${desktop ? "text-[18px]" : "text-[15px]"}`}
         />
         <FadeUp onMount delay={INTRO_DELAY + 0.2}>
           <HeroLinks />

@@ -28,8 +28,8 @@ const subscribeNoop = () => () => {};
 
 const PRESETS = {
   default: { stagger: 0.1, by: "line" as const, duration: 0.45, from: { opacity: 0, y: 20, x: 0, skewX: 0, filter: "blur(2px)" } },
-  "hero-heading": { stagger: 0.19, by: "word" as const, duration: 1.5, from: { opacity: 0, y: 20, x: 5, skewX: 0, filter: "blur(5px)" } },
-  "hero-paragraph": { stagger: 0.025, by: "word" as const, duration: 1.5, from: { opacity: 0, y: 20, x: 0, skewX: 5, filter: "blur(5px)" } },
+  "hero-heading": { stagger: 0.14, by: "word" as const, duration: 1.2, from: { opacity: 0, y: 20, x: 0, skewX: 0, filter: "none" } },
+  "hero-paragraph": { stagger: 0.02, by: "word" as const, duration: 1.2, from: { opacity: 0, y: 14, x: 0, skewX: 0, filter: "none" } },
 };
 
 /**
@@ -78,7 +78,7 @@ export function TextReveal({ text, as: Tag = "span", className, style, preset = 
                   data-word=""
                   className="inline-block will-change-transform"
                   initial={cfg.from}
-                  animate={play ? { opacity: 1, y: 0, x: 0, skewX: 0, filter: "blur(0px)" } : cfg.from}
+                  animate={play ? { opacity: 1, y: 0, x: 0, skewX: 0, filter: "none" } : cfg.from}
                   transition={{ duration: cfg.duration, delay: delay + unit * cfg.stagger, ease: [0.22, 1, 0.36, 1] }}
                 >
                   {w}

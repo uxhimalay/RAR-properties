@@ -6,8 +6,6 @@ import { Instrument_Serif, Onest } from "next/font/google";
 import {
   motion,
   useInView,
-  useMotionTemplate,
-  useMotionValue,
   useReducedMotion,
   useScroll,
   useSpring,
@@ -41,7 +39,7 @@ const sans = Onest({ subsets: ["latin"], weight: ["400", "500", "600"], variable
 const serif = Instrument_Serif({ subsets: ["latin"], weight: "400", style: "italic", variable: "--font-project-serif", display: "swap" });
 
 /* Palette. The golds are the site's own tokens, which is what ties this section to the rest. */
-const BG = "#050505";
+const BG = "#000000";
 const FG = "#F5F5F5";
 const MUTED = "#6B6B72";
 
@@ -64,8 +62,6 @@ const DRIFT_SPRING = { stiffness: 70, damping: 22, mass: 0.6 } as const;
 /** How far the word and the portrait travel across a full pass of the section. */
 const WORD_TRAVEL = 90;
 const PORTRAIT_TRAVEL = 36;
-/** How far the word leans towards the pointer. */
-const MAGNET = 14;
 
 const GUTTER = "px-6 min-[768px]:px-10 min-[1024px]:px-14";
 const EASE_UI = "transition-colors duration-300 ease-[cubic-bezier(0.4,0,0.2,1)]";
@@ -113,26 +109,6 @@ export function StatementSection() {
   const portraitDrift = useSpring(useTransform(scrollYProgress, [0, 1], [-PORTRAIT_TRAVEL, PORTRAIT_TRAVEL]), DRIFT_SPRING);
   const portraitScale = useSpring(useTransform(scrollYProgress, [0, 0.5, 1], [1.06, 1, 1.06]), DRIFT_SPRING);
 
-  /* Pointer: a gold light that follows the cursor, and the word leaning towards it. */
-  const glowX = useSpring(useMotionValue(50), { stiffness: 60, damping: 20 });
-  const glowY = useSpring(useMotionValue(45), { stiffness: 60, damping: 20 });
-  const magnetX = useSpring(useMotionValue(0), { stiffness: 50, damping: 18 });
-  const glow = useMotionTemplate`radial-gradient(38rem 38rem at ${glowX}% ${glowY}%, rgba(201,169,98,0.16), rgba(201,169,98,0.05) 42%, transparent 68%)`;
-
-  const onPointerMove = (e: React.PointerEvent<HTMLElement>) => {
-    if (reduced) return;
-    const r = e.currentTarget.getBoundingClientRect();
-    const px = ((e.clientX - r.left) / r.width) * 100;
-    glowX.set(px);
-    glowY.set(((e.clientY - r.top) / r.height) * 100);
-    magnetX.set(((px - 50) / 50) * MAGNET);
-  };
-  const onPointerLeave = () => {
-    glowX.set(50);
-    glowY.set(45);
-    magnetX.set(0);
-  };
-
   if (!statement.enabled) return null;
 
   const rise = (delay: number) => ({
@@ -148,20 +124,12 @@ export function StatementSection() {
       ref={sectionRef}
       id="about"
       aria-label={statement.word}
-      onPointerMove={onPointerMove}
-      onPointerLeave={onPointerLeave}
       className={`${sans.variable} ${serif.variable} group/section flex min-h-svh w-full flex-col`}
       style={{ backgroundColor: BG, color: FG, fontFamily: STACK_SANS }}
     >
-      {/* the band the page's fixed navigation sits in */}
-      <div aria-hidden="true" className="h-20 w-full shrink-0" />
-
-      <div ref={bodyRef} className="relative min-h-[calc(100svh-5rem)] flex-1 overflow-hidden">
-        {/* the gold light that follows the cursor */}
-        <motion.div aria-hidden="true" className="pointer-events-none absolute inset-0 z-0" style={{ background: reduced ? undefined : glow }} />
-
-        {/* the word, drifting against the scroll and leaning towards the pointer, brought up behind head and shoulders */}
-        <motion.div aria-hidden="true" className="pointer-events-none absolute inset-x-0 top-0 z-0 flex items-start justify-center pt-8 min-[768px]:pt-12 min-[1200px]:pt-16" style={reduced ? undefined : { y: wordDrift, x: magnetX }}>
+      <div ref={bodyRef} className="relative min-h-svh flex-1 overflow-hidden">
+        {/* the word, drifting with scroll, positioned high behind head and shoulders */}
+        <motion.div aria-hidden="true" className="pointer-events-none absolute inset-x-0 top-0 z-0 flex items-start justify-center pt-2 min-[768px]:pt-4 min-[1200px]:pt-6" style={reduced ? undefined : { y: wordDrift }}>
           <span
             className="select-none whitespace-nowrap text-[28vw] font-semibold leading-none tracking-[-0.04em] min-[768px]:text-[22vw]"
             style={{ color: "rgba(201,169,98,0.08)" }}
@@ -200,7 +168,7 @@ export function StatementSection() {
               <h2 className="max-w-3xl text-balance text-[clamp(2rem,5.4vw,5.25rem)] font-semibold leading-[0.95] tracking-[-0.03em]">
                 <Run words={lead} show={show} from={0} />{" "}
                 <span style={{ fontFamily: STACK_SERIF, fontStyle: "italic", fontWeight: 400, color: "var(--color-gold-light)" }}>{statement.heading.italic}</span>{" "}
-                <Run words={tail} show={show} from={0} />
+                <Run words={tail} show={show} from={lead.length + 1} />
               </h2>
             </motion.div>
 

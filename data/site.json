@@ -3,14 +3,14 @@
   "updatedAt": "2026-09-24T06:14:02.611Z",
   "hero": {
     "headline": [
-      "RAR",
-      "PROPERTIES"
+      "RAR PROPERTIES",
+      ""
     ],
     "labels": [
       "Based in Dubai",
-      "Founded by Riyaz"
+      "RAR Properties"
     ],
-    "paragraph": "Founded and led by Riyaz, RAR Properties helps buyers, investors, and families discover and secure premier residential and commercial properties in and around Dubai.",
+    "paragraph": "RAR Properties helps buyers, investors, and families discover and secure premier residential and commercial properties in and around Dubai.",
     "link": {
       "label": "Explore properties",
       "href": "/properties"
@@ -118,7 +118,7 @@
       "leadMinutes": 60,
       "monthsAhead": 6,
       "durationMinutes": 45,
-      "place": "At the property, with Riyaz or an RAR consultant",
+      "place": "At the property, with an RAR property specialist",
       "timezoneLabel": "GST",
       "utcOffsetMinutes": 240
     }
@@ -395,7 +395,7 @@
   },
   "visit": {
     "heading": "Ready to find your Dubai property?",
-    "paragraph": "From waterfront penthouses to private villas, tour premier Dubai properties with Riyaz and the RAR team.",
+    "paragraph": "From waterfront penthouses to private villas, tour premier Dubai properties with the RAR team.",
     "cta": {
       "label": "Book a visit",
       "href": "#hot-deals"

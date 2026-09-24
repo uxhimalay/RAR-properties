@@ -114,37 +114,7 @@ function Marquee({ text, onClick }: { text: string; onClick: () => void }) {
   );
 }
 
-/* ----------------------------------- outlined brand ------------------------------------------ */
 
-/**
- * The brand name as an outline, fitted to the full width like the source's fit-text SVG: a text
- * stretched to the viewBox width, stroke only, the stroke kept at hairline width whatever the scale.
- */
-function OutlineBrand({ text }: { text: string }) {
-  const W = 1000;
-  const H = 124;
-  return (
-    <svg viewBox={`0 0 ${W} ${H}`} className="block h-auto w-full" aria-hidden="true">
-      <text
-        x={W / 2}
-        y={H / 2}
-        textAnchor="middle"
-        dominantBaseline="central"
-        textLength={W}
-        lengthAdjust="spacingAndGlyphs"
-        fontSize={168}
-        fill="none"
-        stroke="rgba(255, 255, 255, 0.45)"
-        strokeWidth={0.7}
-        vectorEffect="non-scaling-stroke"
-        className="font-display uppercase"
-        style={{ letterSpacing: "-0.02em" }}
-      >
-        {text}
-      </text>
-    </svg>
-  );
-}
 
 /* ----------------------------------- footer -------------------------------------------------- */
 
@@ -185,11 +155,6 @@ export function SiteFooter() {
           <a href={`mailto:${CONTACT.email}`} className={CONTACT_LINK}>{CONTACT.email}</a>
           <button type="button" onClick={() => enquiry.open()} className={cn(CONTACT_LINK, "cursor-pointer text-[var(--color-gold)]")}>{footer.marquee} <ArrowNE className="h-3 w-[13px]" /></button>
         </div>
-      </div>
-
-      <div className={`${CONTENT} pb-6 tablet:pb-8`}>
-        <OutlineBrand text={footer.outline} />
-        <span className="sr-only">{footer.outline}</span>
       </div>
 
       {/* Phone stacks these rows, so they are spaced far enough apart that the links' tap areas never overlap. */}
