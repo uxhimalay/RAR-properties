@@ -1,0 +1,15 @@
+# Jekyll configuration to exclude non-Jekyll assets
+include: [".nojekyll"]
+exclude:
+  - docs
+  - src
+  - node_modules
+  - data
+  - public
+  - AGENTS.md
+  - CLAUDE.md
+  - README.md
+  - package.json
+  - package-lock.json
+  - tsconfig.json
+  - next.config.ts
