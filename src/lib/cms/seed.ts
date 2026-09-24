@@ -138,7 +138,7 @@ export function seedContent(): SiteContent {
     },
     statement: {
       enabled: true,
-      word: "ArcSphere",
+      word: "Riyaz",
       heading: { lead: "Dubai addresses chosen for", italic: "how you", tail: "live." },
       paragraph:
         "A Dubai agency for homes, offices, warehouses and villas. We show the thinking behind every shortlist, including the trade-offs we would make ourselves.",
