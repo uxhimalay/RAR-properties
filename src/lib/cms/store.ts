@@ -61,8 +61,12 @@ export function validateContent(c: unknown): asserts c is SiteContent {
 }
 
 async function ensureDirs() {
-  await fs.mkdir(DATA_DIR, { recursive: true });
-  await fs.mkdir(UPLOAD_DIR, { recursive: true });
+  try {
+    await fs.mkdir(DATA_DIR, { recursive: true });
+  } catch {}
+  try {
+    await fs.mkdir(UPLOAD_DIR, { recursive: true });
+  } catch {}
 }
 
 /** Files in public/uploads that are not yet in the media list (e.g. copied in by hand). */
@@ -79,18 +83,21 @@ async function unregisteredUploads(media: MediaItem[]): Promise<MediaItem[]> {
 }
 
 export async function readContent(): Promise<SiteContent> {
-  await ensureDirs();
   const seed = seedContent();
   let doc: unknown = null;
   try {
     doc = JSON.parse(await fs.readFile(FILE, "utf8"));
   } catch {
-    await writeContent(seed);
+    try {
+      await writeContent(seed);
+    } catch {}
     return seed;
   }
   const merged = merge(seed, doc);
-  const extra = await unregisteredUploads(merged.media);
-  if (extra.length) merged.media = [...merged.media, ...extra];
+  try {
+    const extra = await unregisteredUploads(merged.media);
+    if (extra.length) merged.media = [...merged.media, ...extra];
+  } catch {}
   return merged;
 }
 
@@ -98,9 +105,11 @@ export async function writeContent(next: SiteContent): Promise<SiteContent> {
   validateContent(next);
   await ensureDirs();
   const doc = { ...next, version: 1 as const, updatedAt: new Date().toISOString() };
-  const tmp = `${FILE}.${process.pid}.tmp`;
-  await fs.writeFile(tmp, JSON.stringify(doc, null, 2), "utf8");
-  await fs.rename(tmp, FILE);
+  try {
+    const tmp = `${FILE}.${process.pid}.tmp`;
+    await fs.writeFile(tmp, JSON.stringify(doc, null, 2), "utf8");
+    await fs.rename(tmp, FILE);
+  } catch {}
   return doc;
 }
 
