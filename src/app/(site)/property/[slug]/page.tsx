@@ -14,9 +14,9 @@ type Params = { params: Promise<{ slug: string }> };
 export async function generateMetadata({ params }: Params): Promise<Metadata> {
   const { slug } = await params;
   const property = findProperty(await readContent(), slug);
-  if (!property || property.archived) return { title: "Property — ArcSphere" };
+  if (!property || property.archived) return { title: "Property — RAR" };
   return {
-    title: `${property.name}, ${property.community} — ArcSphere`,
+    title: `${property.name}, ${property.community} — RAR`,
     description: `${property.type} in ${property.community}, ${priceLabel(property.priceAed)}. ${property.description}`,
     openGraph: { images: property.images[0] ? [{ url: property.images[0] }] : undefined },
   };

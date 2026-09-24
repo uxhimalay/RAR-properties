@@ -34,15 +34,15 @@ const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
-  title: "ArcSphere — Dubai real estate: homes, offices, villas and hot deals",
+  title: "RAR Properties — Dubai real estate: homes, offices, villas and hot deals",
   description:
-    "ArcSphere is a Dubai real estate agency. Explore residential, commercial, warehouse and villa listings, current hot deals, book a visit and talk to a consultant.",
+    "RAR Properties is a Dubai real estate agency. Explore residential, commercial, warehouse and villa listings, current hot deals, book a visit and talk to a consultant.",
   icons: {
     icon: [{ url: "/seo/favicon-1.png", type: "image/png" }],
     apple: [{ url: "/seo/apple-touch-icon.png" }],
   },
   openGraph: {
-    title: "ArcSphere — Dubai real estate",
+    title: "RAR Properties — Dubai real estate",
     description:
       "Homes, offices, warehouses and villas across Dubai, current hot deals, and a consultant to walk you through them.",
     images: [{ url: "/seo/og-image.png", width: 3600, height: 2013 }],

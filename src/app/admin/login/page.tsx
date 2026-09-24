@@ -25,7 +25,7 @@ export default function AdminLogin() {
     <main className="flex min-h-svh items-center justify-center bg-[#f6f4f0] px-5 text-[var(--color-ink)]">
       <form onSubmit={submit} className="flex w-full max-w-[380px] flex-col gap-6 border border-dashed bg-white p-8" style={{ borderColor: "rgba(79,71,66,0.25)" }}>
         <div className="flex flex-col gap-2">
-          <p className="font-inter text-[11px] font-medium uppercase tracking-[0.44px]" style={{ color: "var(--color-gold-ink)" }}>ArcSphere admin</p>
+          <p className="font-inter text-[11px] font-medium uppercase tracking-[0.44px]" style={{ color: "var(--color-gold-ink)" }}>RAR admin</p>
           <h1 className="font-display text-[28px] font-normal leading-[1.1] tracking-[-0.02em]">Sign in</h1>
           <p className="font-inter text-[13px] font-medium leading-[18px] text-[var(--color-ink-2)]">Enter the passcode to edit the site&rsquo;s content.</p>
         </div>

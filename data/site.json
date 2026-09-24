@@ -3,8 +3,8 @@
   "updatedAt": "2026-09-24T06:14:02.611Z",
   "hero": {
     "headline": [
-      "ARCSPHERE",
-      "STUDIO."
+      "RAR",
+      "PROPERTIES"
     ],
     "labels": [
       "Based in Dubai",
@@ -118,7 +118,7 @@
       "leadMinutes": 60,
       "monthsAhead": 6,
       "durationMinutes": 45,
-      "place": "At the property, with an ArcSphere consultant",
+      "place": "At the property, with an RAR consultant",
       "timezoneLabel": "GST",
       "utcOffsetMinutes": 240
     }
@@ -278,13 +278,13 @@
       {
         "category": "Finish",
         "title": "Interior fit-out",
-        "description": "Furnishing and finishing by ArcSphere's own studio, ready for you or your first tenant.",
+        "description": "Furnishing and finishing by RAR's own studio, ready for you or your first tenant.",
         "image": "/images/hero-side-living.jpg",
         "detail": {
           "title": "Interior fit-out",
           "hours": "Sun - Sat, 9:00 - 19:00",
           "location": "Dubai, UAE",
-          "description": "From a furniture package to a full refit by the studio ArcSphere grew out of, ready for you or your first tenant.",
+          "description": "From a furniture package to a full refit by the studio RAR grew out of, ready for you or your first tenant.",
           "bullets": [
             "Furniture packages for rental-ready units",
             "Kitchen, bathroom and flooring upgrades",
@@ -388,10 +388,10 @@
       "href": "#work"
     },
     "secondary": {
-      "label": "Let\u2019s talk",
+      "label": "Let’s talk",
       "href": "#contact"
     },
-    "image": "/project/statement-portrait.png"
+    "image": "/project/riyaz.png"
   },
   "visit": {
     "heading": "Ready to see it for yourself?",
@@ -440,14 +440,14 @@
       "text": "Want to talk",
       "italic": "property?"
     },
-    "marquee": "Let\u2019s find your place",
-    "outline": "ArcSphere",
-    "copyright": "\u00a9 2026 ArcSphere Real Estate LLC. All rights reserved."
+    "marquee": "Let’s find your place",
+    "outline": "RAR",
+    "copyright": "© 2026 RAR Real Estate LLC. All rights reserved."
   },
   "contact": {
     "phone": "+971 4 000 0000",
     "whatsapp": "+971 50 000 0000",
-    "email": "hello@arcspherestudio.ae",
+    "email": "hello@rarproperties.ae",
     "address": "Marina Plaza, Level 12, Dubai Marina, Dubai",
     "hours": "Sunday to Saturday, 9:00 to 19:00 GST",
     "socials": [

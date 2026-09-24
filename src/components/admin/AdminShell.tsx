@@ -38,7 +38,7 @@ export function AdminShell({ children }: { children: ReactNode }) {
     <div className="flex min-h-svh bg-[#f6f4f0] text-[var(--color-ink)]">
       <aside className="sticky top-0 hidden h-svh w-[232px] shrink-0 flex-col border-r border-dashed bg-white px-5 py-6 tablet:flex" style={{ borderColor: "rgba(79,71,66,0.22)" }}>
         <Link href="/admin" className="mb-8 flex flex-col gap-1 outline-none">
-          <span className="font-inter text-[20px] font-semibold tracking-[-0.03em]">arcsphere.</span>
+          <span className="font-inter text-[20px] font-semibold tracking-[-0.03em]">rar.</span>
           <span className={cn(LABEL, "text-[var(--color-gold-ink)]")}>Content</span>
         </Link>
         <nav aria-label="Admin" className="flex flex-1 flex-col gap-0.5">
@@ -63,7 +63,7 @@ export function AdminShell({ children }: { children: ReactNode }) {
       <div className="flex min-w-0 flex-1 flex-col">
         {/* phone: a compact top bar with a section picker */}
         <div className="flex items-center justify-between gap-3 border-b border-dashed bg-white px-4 py-3 tablet:hidden" style={{ borderColor: "rgba(79,71,66,0.22)" }}>
-          <span className="font-inter text-[18px] font-semibold tracking-[-0.03em]">arcsphere.</span>
+          <span className="font-inter text-[18px] font-semibold tracking-[-0.03em]">rar.</span>
           <select aria-label="Admin section" value={ADMIN_NAV.find((n) => (n.href === "/admin" ? pathname === "/admin" : pathname.startsWith(n.href)))?.href ?? "/admin"} onChange={(e) => router.push(e.target.value)} className="h-9 border border-dashed bg-white px-2 font-inter text-[13px]" style={{ borderColor: "rgba(79,71,66,0.3)" }}>
             {ADMIN_NAV.map((n) => (
               <option key={n.href} value={n.href}>

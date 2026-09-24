@@ -144,7 +144,7 @@ export function seedContent(): SiteContent {
         "A Dubai agency for homes, offices, warehouses and villas. We show the thinking behind every shortlist, including the trade-offs we would make ourselves.",
       cta: { label: "See our work", href: "#work" },
       secondary: { label: "Let\u2019s talk", href: "#contact" },
-      image: "/project/statement-portrait.png",
+      image: "/project/riyaz.png",
     },
     visit: {
       heading: SCATTER_SECTION.heading,

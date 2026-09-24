@@ -181,15 +181,15 @@ export function StatementSection() {
             <motion.div
               className="relative h-full w-auto"
               style={{
-                aspectRatio: "1850 / 1720",
-                WebkitMaskImage: "linear-gradient(to bottom, black 0%, black 58%, transparent 92%)",
-                maskImage: "linear-gradient(to bottom, black 0%, black 58%, transparent 92%)",
+                aspectRatio: "747 / 1024",
+                WebkitMaskImage: "linear-gradient(to bottom, black 0%, black 65%, transparent 95%)",
+                maskImage: "linear-gradient(to bottom, black 0%, black 65%, transparent 95%)",
               }}
               whileHover={reduced ? undefined : { scale: 1.015, y: -8 }}
               transition={{ type: "spring", stiffness: 160, damping: 22 }}
             >
               {statement.image ? (
-                <Image src={statement.image} alt="" fill sizes="(max-width: 768px) 100vw, 100vh" className="object-contain object-top transition-[filter] duration-700 ease-out group-hover/section:brightness-110" />
+                <Image src={statement.image} alt="Riyaz" fill priority sizes="(max-width: 768px) 100vw, 100vh" className="object-contain object-top transition-[filter] duration-700 ease-out group-hover/section:brightness-110" />
               ) : null}
             </motion.div>
           </motion.div>

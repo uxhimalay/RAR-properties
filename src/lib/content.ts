@@ -10,10 +10,10 @@ import type {
   Service,
  AgencyService } from "@/types/content";
 
-export const SITE_NAME = "ArcSphere Studio";
+export const SITE_NAME = "RAR Properties";
 
 /** Nav wordmark: lowercase brand with a trailing period, as on the reference nav. */
-export const NAV_BRAND = "arcsphere.";
+export const NAV_BRAND = "rar.";
 
 /** Links inside the full-width menu that drops down from the "MENU +" button. */
 /** Every entry is an in-page anchor; each id exists on the page (see page.tsx). */
@@ -31,7 +31,7 @@ export const MENU_LINKS: NavLink[] = [
 export const NAV_CTA = "Enquire";
 
 export const HERO: HeroContent = {
-  headline: ["ARCSPHERE", "STUDIO."],
+  headline: ["RAR", "PROPERTIES"],
   labels: ["Based in Dubai", "Since 2014"],
   paragraph:
     "We design residential and commercial spaces that elevate how people live, work, and interact with their environment.",
@@ -90,7 +90,7 @@ export const DEALS_VISIT = {
   /** Visits happen in Dubai, which has no daylight saving, so the offset is fixed. */
   timezone: { label: "GST", utcOffsetMinutes: 240 },
   durationMinutes: 45,
-  place: "At the property, with an ArcSphere consultant",
+  place: "At the property, with an RAR consultant",
   back: "Back",
   timeLabel: "Visit time",
   noTimesToday: "No times left today",
@@ -478,8 +478,8 @@ export const CONTACT = {
   phone: "+971 4 000 0000",
   whatsapp: "+971 50 000 0000",
   emailLabel: "Email",
-  email: "hello@arcspherestudio.ae",
-  emailHref: "mailto:hello@arcspherestudio.ae",
+  email: "hello@rarproperties.ae",
+  emailHref: "mailto:hello@rarproperties.ae",
   socialLabel: "Social Media",
   socials: [
     { name: "InstagramLogo", label: "Instagram", href: "https://www.instagram.com/" },
@@ -548,12 +548,12 @@ export const FOOTER = {
     },
   ] satisfies FooterLinkGroup[],
   iconButtons: [
-    { icon: "mail", label: "hello@arcspherestudio.ae", href: "mailto:hello@arcspherestudio.ae" },
+    { icon: "mail", label: "hello@rarproperties.ae", href: "mailto:hello@rarproperties.ae" },
     { icon: "phone", label: "+971 55 987 6543", href: "tel:+971559876543" },
     { icon: "pin", label: "Dubai, UAE", href: "#" },
   ],
   copyright: "© 2026 Your Architecture Studio. All rights reserved.",
-  runningText: "ArcSphere Studio",
+  runningText: "RAR Properties",
   image: "/images/footer-image.jpg",
 };
 
@@ -609,8 +609,8 @@ export const AGENCY_SERVICES: AgencyService[] = [
   },
   {
     category: "Finish", title: "Interior fit-out", image: "/images/hero-side-living.jpg",
-    description: "Furnishing and finishing by ArcSphere's own studio, ready for you or your first tenant.",
-    detail: { title: "Interior fit-out", hours: SERVICE_HOURS, location: SERVICE_LOCATION, description: "From a furniture package to a full refit by the studio ArcSphere grew out of, ready for you or your first tenant.", bullets: ["Furniture packages for rental-ready units", "Kitchen, bathroom and flooring upgrades", "Developer snagging and defect follow-up", "Fixed-price quotes and timelines", "Handover clean and styling"], summary: "Studios to villas.", price: "From AED 25,000" },
+    description: "Furnishing and finishing by RAR's own studio, ready for you or your first tenant.",
+    detail: { title: "Interior fit-out", hours: SERVICE_HOURS, location: SERVICE_LOCATION, description: "From a furniture package to a full refit by the studio RAR grew out of, ready for you or your first tenant.", bullets: ["Furniture packages for rental-ready units", "Kitchen, bathroom and flooring upgrades", "Developer snagging and defect follow-up", "Fixed-price quotes and timelines", "Handover clean and styling"], summary: "Studios to villas.", price: "From AED 25,000" },
   },
 ];
 
@@ -642,7 +642,7 @@ export const SITE_FOOTER = {
   /** The marquee link opens the enquiry drawer. */
   marquee: { text: "Let\u2019s find your place" },
   /** The huge outlined word at the bottom. */
-  outline: "ArcSphere",
+  outline: "RAR",
   contact: { visit: "Visit us", call: "Call or WhatsApp", email: "Write to us" },
   social: CONTACT.socials.map((s) => ({ label: s.label, href: s.href })),
   backToTop: "Back to top",

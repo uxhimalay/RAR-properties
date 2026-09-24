@@ -22,12 +22,12 @@ async function resolve(params: Params["params"]) {
 
 export async function generateMetadata({ params }: Params): Promise<Metadata> {
   const r = await resolve(params);
-  if (r.bad) return { title: "Properties — ArcSphere" };
+  if (r.bad) return { title: "Properties — RAR" };
   const content = await readContent();
   const count = r.category ? propertiesFor(content, r.category).length : CATEGORIES.reduce((n, c) => n + propertiesFor(content, c).length, 0);
   const what = r.category ? r.category.toLowerCase() : "properties";
   return {
-    title: r.category ? `${r.category} in Dubai — ArcSphere` : "Properties in Dubai — ArcSphere",
+    title: r.category ? `${r.category} in Dubai — RAR` : "Properties in Dubai — RAR",
     description: `${count} ${what} on our books: apartments, villas, offices and warehouses across Dubai, with prices, sizes and handover dates.`,
   };
 }
