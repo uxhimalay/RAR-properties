@@ -621,7 +621,7 @@ export const AGENCY_SERVICES: AgencyService[] = [
  */
 export const SCATTER_SECTION = {
   heading: "Ready to see it for yourself?",
-  paragraph: "From studios to villas, walk the property with us and take your time.",
+  paragraph: "From waterfront penthouses to private villas, walk through the spaces with our team and take your time.",
   cta: { label: "Book a visit", href: "#hot-deals" },
   /** Bottom of the stack first; the last entry sits on top and leaves first. */
   images: [
