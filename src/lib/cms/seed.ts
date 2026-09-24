@@ -139,11 +139,11 @@ export function seedContent(): SiteContent {
     statement: {
       enabled: true,
       word: "Riyaz",
-      heading: { lead: "Dubai addresses chosen for", italic: "how you", tail: "live." },
+      heading: { lead: "Helping you find premier properties in", italic: "and around", tail: "Dubai." },
       paragraph:
-        "A Dubai agency for homes, offices, warehouses and villas. We show the thinking behind every shortlist, including the trade-offs we would make ourselves.",
-      cta: { label: "See our work", href: "#work" },
-      secondary: { label: "Let\u2019s talk", href: "#contact" },
+        "Founded and led by Riyaz, RAR Properties is a dedicated agency helping buyers, investors, and families find the right property in and around Dubai. From luxury villas and waterfront penthouses to prime commercial investments, we provide curated shortlists, verified market intelligence, and hands-on guidance from initial viewing to final deed.",
+      cta: { label: "Explore properties", href: "/properties" },
+      secondary: { label: "Speak with Riyaz", href: "#contact" },
       image: "/project/riyaz.png",
     },
     visit: {

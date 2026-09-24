@@ -160,17 +160,17 @@ export function StatementSection() {
         {/* the gold light that follows the cursor */}
         <motion.div aria-hidden="true" className="pointer-events-none absolute inset-0 z-0" style={{ background: reduced ? undefined : glow }} />
 
-        {/* the word, drifting against the scroll and leaning towards the pointer */}
-        <motion.div aria-hidden="true" className="pointer-events-none absolute inset-0 z-0 flex items-center justify-center" style={reduced ? undefined : { y: wordDrift, x: magnetX }}>
+        {/* the word, drifting against the scroll and leaning towards the pointer, brought up behind head and shoulders */}
+        <motion.div aria-hidden="true" className="pointer-events-none absolute inset-x-0 top-0 z-0 flex items-start justify-center pt-8 min-[768px]:pt-12 min-[1200px]:pt-16" style={reduced ? undefined : { y: wordDrift, x: magnetX }}>
           <span
-            className="select-none whitespace-nowrap text-[26vw] font-semibold leading-none tracking-[-0.05em] min-[768px]:text-[19vw]"
-            style={{ color: "rgba(201,169,98,0.07)" }}
+            className="select-none whitespace-nowrap text-[28vw] font-semibold leading-none tracking-[-0.04em] min-[768px]:text-[22vw]"
+            style={{ color: "rgba(201,169,98,0.08)" }}
           >
             {statement.word}
           </span>
         </motion.div>
 
-        {/* the portrait: entrance on the outside, drift in the middle, hover on the inside */}
+        {/* the portrait: entrance on the outside, drift in the middle, steady without hover effects */}
         <motion.div
           className="absolute inset-0 z-[1] flex items-start justify-center pt-4"
           initial={{ opacity: 0, y: 20 }}
@@ -178,20 +178,18 @@ export function StatementSection() {
           transition={SPRING_IMAGE}
         >
           <motion.div className="relative flex h-full w-auto items-start" style={reduced ? undefined : { y: portraitDrift, scale: portraitScale }}>
-            <motion.div
+            <div
               className="relative h-full w-auto"
               style={{
                 aspectRatio: "747 / 1024",
                 WebkitMaskImage: "linear-gradient(to bottom, black 0%, black 65%, transparent 95%)",
                 maskImage: "linear-gradient(to bottom, black 0%, black 65%, transparent 95%)",
               }}
-              whileHover={reduced ? undefined : { scale: 1.015, y: -8 }}
-              transition={{ type: "spring", stiffness: 160, damping: 22 }}
             >
               {statement.image ? (
-                <Image src={statement.image} alt="Riyaz" fill priority sizes="(max-width: 768px) 100vw, 100vh" className="object-contain object-top transition-[filter] duration-700 ease-out group-hover/section:brightness-110" />
+                <Image src={statement.image} alt="Riyaz" fill priority sizes="(max-width: 768px) 100vw, 100vh" className="object-contain object-top" />
               ) : null}
-            </motion.div>
+            </div>
           </motion.div>
         </motion.div>
 
