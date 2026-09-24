@@ -1,0 +1,1070 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-24T06:14:02.611Z",
+  "hero": {
+    "headline": [
+      "ARCSPHERE",
+      "STUDIO."
+    ],
+    "labels": [
+      "Based in Dubai",
+      "Since 2014"
+    ],
+    "paragraph": "We design residential and commercial spaces that elevate how people live, work, and interact with their environment.",
+    "link": {
+      "label": "View our work",
+      "href": "#work"
+    },
+    "cta": {
+      "label": "Book a visit",
+      "href": "#hot-deals"
+    },
+    "mainImage": "/images/hero-dubai-balcony.jpg",
+    "leftImage": "/images/hero-side-bedroom.jpg",
+    "rightImage": "/images/hero-side-living.jpg"
+  },
+  "work": {
+    "eyebrow": "Selected Work",
+    "heading": "Shaped by How You Live",
+    "subtitle": "Homes and workplaces across Dubai, since 2014.",
+    "link": {
+      "label": "Explore by category",
+      "href": "#categories"
+    },
+    "images": [
+      {
+        "src": "/images/project-home-sofa-dusk.jpg",
+        "alt": "A family together on a sofa by the window as the light goes"
+      },
+      {
+        "src": "/images/project-home-bright-room.jpg",
+        "alt": "Parents and children playing in a bright, open living room"
+      },
+      {
+        "src": "/images/project-home-board-game.jpg",
+        "alt": "A family around a board game on the living room floor"
+      },
+      {
+        "src": "/images/project-home-doorway-reading.jpg",
+        "alt": "A woman reading in a doorway while coffee is made in the kitchen behind"
+      },
+      {
+        "src": "/images/project-home-kitchen-couple.jpg",
+        "alt": "A couple cooking and talking together in their kitchen"
+      },
+      {
+        "src": "/images/project-home-window-mug.jpg",
+        "alt": "A woman with a warm drink on the couch beside a window"
+      }
+    ],
+    "stats": [
+      "RERA-registered brokers",
+      "1,200+ homes sold and let",
+      "AED 2.4bn transacted",
+      "In Dubai since 2014"
+    ],
+    "figure": {
+      "enabled": true,
+      "value": 100,
+      "suffix": "+",
+      "label": "People we have helped find a place they love"
+    }
+  },
+  "categories": {
+    "eyebrow": "Explore our work by category",
+    "heading": "Spaces for every purpose.",
+    "enquiry": {
+      "title": "Nothing quite right?",
+      "text": "Tell us what you are looking for in {category} and we will send matching options within a day.",
+      "cta": "Enquire about {category}"
+    },
+    "viewAll": "See all {count} {category}"
+  },
+  "listings": {
+    "eyebrow": "Every listing",
+    "heading": "Find your place in Dubai.",
+    "subtitle": "Filter by category, status, size and price. Everything on our books, updated as it moves.",
+    "empty": "Nothing matches those filters yet. Widen them, or tell us what you are looking for and we will go and find it."
+  },
+  "deals": {
+    "eyebrow": "Hot deals",
+    "heading": "Limited-time offers on this property.",
+    "propertyId": "p_palm-villa",
+    "photoOverride": null,
+    "visit": {
+      "title": "Book a visit",
+      "description": "Walk the property with us any day this week. Choose a date and we keep it for you, no obligation."
+    },
+    "pricing": {
+      "title": null,
+      "description": "Launch pricing on the remaining units, from 1,200 to 4,800 sq ft.",
+      "sizes": [
+        "1.2k",
+        "1.9k",
+        "2.6k",
+        "3.3k",
+        "4.0k",
+        "4.8k"
+      ]
+    },
+    "gallery": null,
+    "booking": {
+      "slots": [
+        "10:00",
+        "11:30",
+        "14:00",
+        "16:30"
+      ],
+      "leadMinutes": 60,
+      "monthsAhead": 6,
+      "durationMinutes": 45,
+      "place": "At the property, with an ArcSphere consultant",
+      "timezoneLabel": "GST",
+      "utcOffsetMinutes": 240
+    }
+  },
+  "services": {
+    "eyebrow": "Services",
+    "heading": "Everything your property needs, under one roof.",
+    "cta": "Learn more",
+    "items": [
+      {
+        "category": "Buy",
+        "title": "Property sales",
+        "description": "Ready and off-plan homes across Dubai, shortlisted to your brief and negotiated on your behalf.",
+        "image": "/images/deals-feature.jpg",
+        "detail": {
+          "title": "Property sales",
+          "hours": "Sun - Sat, 9:00 - 19:00",
+          "location": "Dubai, UAE",
+          "description": "We shortlist to your brief, arrange the viewings, check the paperwork and negotiate the price and terms for you.",
+          "bullets": [
+            "A shortlist within 48 hours of your brief",
+            "Viewings arranged around your diary",
+            "Title, service charge and developer checks",
+            "Negotiation and offer handling",
+            "Trustee and transfer appointments booked for you"
+          ],
+          "summary": "Ready and off-plan, apartments to villas.",
+          "price": "Buyer pays no fee on off-plan"
+        }
+      },
+      {
+        "category": "Rent",
+        "title": "Leasing",
+        "description": "Long and short lets, listed, shown and signed for you, with tenants vetted before they view.",
+        "image": "/images/deals-bedroom.jpg",
+        "detail": {
+          "title": "Leasing",
+          "hours": "Sun - Sat, 9:00 - 19:00",
+          "location": "Dubai, UAE",
+          "description": "For landlords we list, show and sign; for tenants we find, negotiate and register the contract.",
+          "bullets": [
+            "Professional photography and listing on the major portals",
+            "Tenant vetting before the first viewing",
+            "Ejari registration handled",
+            "Cheque schedule negotiated",
+            "Renewal reminders and rent reviews"
+          ],
+          "summary": "Annual and short lets across Dubai.",
+          "price": "5% of annual rent"
+        }
+      },
+      {
+        "category": "Own",
+        "title": "Property management",
+        "description": "Tenants, maintenance and statements handled end to end, so the asset works while you do not.",
+        "image": "/images/deals-dining.jpg",
+        "detail": {
+          "title": "Property management",
+          "hours": "Sun - Sat, 9:00 - 19:00",
+          "location": "Dubai, UAE",
+          "description": "Everything between the key handover and your monthly statement, for owners in Dubai or abroad.",
+          "bullets": [
+            "Rent collection and arrears follow-up",
+            "24/7 maintenance line with vetted contractors",
+            "Move-in and move-out inspections",
+            "Service charge and DEWA handling",
+            "Monthly statements and annual returns"
+          ],
+          "summary": "For single units and portfolios.",
+          "price": "From 5% of rent"
+        }
+      },
+      {
+        "category": "Finance",
+        "title": "Mortgage advice",
+        "description": "Pre-approval to keys with lenders across the UAE, for residents and overseas buyers alike.",
+        "image": "/images/deals-piano-lounge.jpg",
+        "detail": {
+          "title": "Mortgage advice",
+          "hours": "Sun - Sat, 9:00 - 19:00",
+          "location": "Dubai, UAE",
+          "description": "Independent advice across UAE lenders, from pre-approval to final offer, for residents and non-residents.",
+          "bullets": [
+            "Pre-approval within days",
+            "Rates compared across the major banks",
+            "Non-resident and self-employed cases",
+            "Valuation and offer letter coordination",
+            "Refinancing of existing loans"
+          ],
+          "summary": "Up to 80% loan-to-value for residents.",
+          "price": "Free consultation"
+        }
+      },
+      {
+        "category": "Invest",
+        "title": "Off-plan investment",
+        "description": "Launches and payment plans from Dubai's leading developers, with the yields laid out plainly.",
+        "image": "/images/hero-dubai-balcony.jpg",
+        "detail": {
+          "title": "Off-plan investment",
+          "hours": "Sun - Sat, 9:00 - 19:00",
+          "location": "Dubai, UAE",
+          "description": "Access to launches before they are public, with payment plans, expected yields and exit options laid out plainly.",
+          "bullets": [
+            "Priority allocation at launches",
+            "Developer track record and escrow checks",
+            "Payment plan and handover timeline comparison",
+            "Projected rental yield and resale analysis",
+            "Assignment and resale support"
+          ],
+          "summary": "Emaar, Sobha, Damac, Nakheel and more.",
+          "price": "No buyer fee"
+        }
+      },
+      {
+        "category": "Value",
+        "title": "Valuation",
+        "description": "Market appraisals for sale, rent or refinancing, backed by transactions from the last quarter.",
+        "image": "/images/deals-pool-terrace.jpg",
+        "detail": {
+          "title": "Valuation",
+          "hours": "Sun - Sat, 9:00 - 19:00",
+          "location": "Dubai, UAE",
+          "description": "A written appraisal built on comparable transactions from the last quarter, for a sale, a let or a bank.",
+          "bullets": [
+            "Comparable sales and rents from DLD data",
+            "Inspection and condition notes",
+            "Written report within three working days",
+            "Rental yield estimate",
+            "Advice on presenting the property"
+          ],
+          "summary": "Sale, rental and refinancing valuations.",
+          "price": "Free for clients"
+        }
+      },
+      {
+        "category": "Reside",
+        "title": "Golden Visa support",
+        "description": "Property-backed residency for you and your family, with the paperwork done alongside the purchase.",
+        "image": "/images/hero-side-bedroom.jpg",
+        "detail": {
+          "title": "Golden Visa support",
+          "hours": "Sun - Sat, 9:00 - 19:00",
+          "location": "Dubai, UAE",
+          "description": "The ten-year visa on a qualifying property, handled alongside the purchase so nothing is done twice.",
+          "bullets": [
+            "Eligibility check on the property and the buyer",
+            "Title deed and valuation certificate",
+            "Medical, Emirates ID and biometrics appointments",
+            "Family and dependant applications",
+            "Renewal tracking"
+          ],
+          "summary": "Qualifying properties from AED 2m.",
+          "price": "From AED 5,000 per applicant"
+        }
+      },
+      {
+        "category": "Finish",
+        "title": "Interior fit-out",
+        "description": "Furnishing and finishing by ArcSphere's own studio, ready for you or your first tenant.",
+        "image": "/images/hero-side-living.jpg",
+        "detail": {
+          "title": "Interior fit-out",
+          "hours": "Sun - Sat, 9:00 - 19:00",
+          "location": "Dubai, UAE",
+          "description": "From a furniture package to a full refit by the studio ArcSphere grew out of, ready for you or your first tenant.",
+          "bullets": [
+            "Furniture packages for rental-ready units",
+            "Kitchen, bathroom and flooring upgrades",
+            "Developer snagging and defect follow-up",
+            "Fixed-price quotes and timelines",
+            "Handover clean and styling"
+          ],
+          "summary": "Studios to villas.",
+          "price": "From AED 25,000"
+        }
+      }
+    ]
+  },
+  "partners": {
+    "enabled": true,
+    "eyebrow": "Developers we work with",
+    "items": [
+      {
+        "id": "partner_emaar",
+        "name": "Emaar",
+        "logo": null,
+        "enabled": true,
+        "archived": false
+      },
+      {
+        "id": "partner_meraas",
+        "name": "Meraas",
+        "logo": null,
+        "enabled": true,
+        "archived": false
+      },
+      {
+        "id": "partner_damac",
+        "name": "DAMAC",
+        "logo": null,
+        "enabled": true,
+        "archived": false
+      },
+      {
+        "id": "partner_nakheel",
+        "name": "Nakheel",
+        "logo": null,
+        "enabled": true,
+        "archived": false
+      },
+      {
+        "id": "partner_sobha",
+        "name": "Sobha",
+        "logo": null,
+        "enabled": true,
+        "archived": false
+      },
+      {
+        "id": "partner_dubai-properties",
+        "name": "Dubai Properties",
+        "logo": null,
+        "enabled": true,
+        "archived": false
+      },
+      {
+        "id": "partner_ellington",
+        "name": "Ellington",
+        "logo": null,
+        "enabled": true,
+        "archived": false
+      },
+      {
+        "id": "partner_binghatti",
+        "name": "Binghatti",
+        "logo": null,
+        "enabled": true,
+        "archived": false
+      },
+      {
+        "id": "partner_azizi",
+        "name": "Azizi",
+        "logo": null,
+        "enabled": true,
+        "archived": false
+      },
+      {
+        "id": "partner_danube",
+        "name": "Danube",
+        "logo": null,
+        "enabled": true,
+        "archived": false
+      }
+    ]
+  },
+  "statement": {
+    "enabled": true,
+    "word": "ArcSphere",
+    "heading": {
+      "lead": "Dubai addresses chosen for",
+      "italic": "how you",
+      "tail": "live."
+    },
+    "paragraph": "A Dubai agency for homes, offices, warehouses and villas. We show the thinking behind every shortlist, including the trade-offs we would make ourselves.",
+    "cta": {
+      "label": "See our work",
+      "href": "#work"
+    },
+    "secondary": {
+      "label": "Let\u2019s talk",
+      "href": "#contact"
+    },
+    "image": "/project/statement-portrait.png"
+  },
+  "visit": {
+    "heading": "Ready to see it for yourself?",
+    "paragraph": "From studios to villas, walk the property with us and take your time.",
+    "cta": {
+      "label": "Book a visit",
+      "href": "#hot-deals"
+    },
+    "images": [
+      {
+        "src": "/images/deals-feature.jpg",
+        "alt": "Photograph of the property"
+      },
+      {
+        "src": "/images/hero-side-living.jpg",
+        "alt": "Living room"
+      },
+      {
+        "src": "/images/deals-pool-terrace.jpg",
+        "alt": "Pool terrace with a sunken lounge"
+      },
+      {
+        "src": "/images/hero-dubai-balcony.jpg",
+        "alt": "Balcony over Dubai"
+      },
+      {
+        "src": "/images/deals-piano-lounge.jpg",
+        "alt": "Piano lounge with glazed doors onto the water"
+      },
+      {
+        "src": "/images/hero-side-bedroom.jpg",
+        "alt": "Bedroom"
+      },
+      {
+        "src": "/images/deals-dining.jpg",
+        "alt": "Dining room under a ring chandelier"
+      },
+      {
+        "src": "/images/deals-bedroom.jpg",
+        "alt": "Master bedroom with an upholstered headboard wall"
+      }
+    ]
+  },
+  "footer": {
+    "collab": {
+      "text": "Want to talk",
+      "italic": "property?"
+    },
+    "marquee": "Let\u2019s find your place",
+    "outline": "ArcSphere",
+    "copyright": "\u00a9 2026 ArcSphere Real Estate LLC. All rights reserved."
+  },
+  "contact": {
+    "phone": "+971 4 000 0000",
+    "whatsapp": "+971 50 000 0000",
+    "email": "hello@arcspherestudio.ae",
+    "address": "Marina Plaza, Level 12, Dubai Marina, Dubai",
+    "hours": "Sunday to Saturday, 9:00 to 19:00 GST",
+    "socials": [
+      {
+        "name": "InstagramLogo",
+        "label": "Instagram",
+        "href": "https://www.instagram.com/"
+      },
+      {
+        "name": "LinkedinLogo",
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/"
+      },
+      {
+        "name": "XLogo",
+        "label": "X",
+        "href": "https://x.com/"
+      }
+    ]
+  },
+  "media": [
+    {
+      "id": "project-home-window-mug",
+      "src": "/images/project-home-window-mug.jpg",
+      "alt": "A woman with a warm drink on the couch beside a window",
+      "archived": false
+    },
+    {
+      "id": "project-home-kitchen-couple",
+      "src": "/images/project-home-kitchen-couple.jpg",
+      "alt": "A couple cooking and talking together in their kitchen",
+      "archived": false
+    },
+    {
+      "id": "project-home-doorway-reading",
+      "src": "/images/project-home-doorway-reading.jpg",
+      "alt": "A woman reading in a doorway while coffee is made in the kitchen behind",
+      "archived": false
+    },
+    {
+      "id": "project-home-board-game",
+      "src": "/images/project-home-board-game.jpg",
+      "alt": "A family around a board game on the living room floor",
+      "archived": false
+    },
+    {
+      "id": "project-home-bright-room",
+      "src": "/images/project-home-bright-room.jpg",
+      "alt": "Parents and children playing in a bright, open living room",
+      "archived": false
+    },
+    {
+      "id": "project-home-sofa-dusk",
+      "src": "/images/project-home-sofa-dusk.jpg",
+      "alt": "A family together on a sofa by the window as the light goes",
+      "archived": false
+    },
+    {
+      "src": "/images/hero-dubai-balcony.jpg",
+      "alt": "Balcony over Dubai Marina at dusk",
+      "archived": false,
+      "addedAt": "2026-09-20T00:00:00.000Z",
+      "source": "seed"
+    },
+    {
+      "src": "/images/hero-side-bedroom.jpg",
+      "alt": "Bedroom with sea view",
+      "archived": false,
+      "addedAt": "2026-09-20T00:00:00.000Z",
+      "source": "seed"
+    },
+    {
+      "src": "/images/hero-side-living.jpg",
+      "alt": "Living room with curved sofa",
+      "archived": false,
+      "addedAt": "2026-09-20T00:00:00.000Z",
+      "source": "seed"
+    },
+    {
+      "src": "/images/deals-feature.jpg",
+      "alt": "White villa with palms",
+      "archived": false,
+      "addedAt": "2026-09-20T00:00:00.000Z",
+      "source": "seed"
+    },
+    {
+      "src": "/images/deals-bedroom.jpg",
+      "alt": "Master bedroom with an upholstered headboard wall",
+      "archived": false,
+      "addedAt": "2026-09-20T00:00:00.000Z",
+      "source": "seed"
+    },
+    {
+      "src": "/images/deals-dining.jpg",
+      "alt": "Dining room under a ring chandelier",
+      "archived": false,
+      "addedAt": "2026-09-20T00:00:00.000Z",
+      "source": "seed"
+    },
+    {
+      "src": "/images/deals-piano-lounge.jpg",
+      "alt": "Piano lounge with glazed doors onto the water",
+      "archived": false,
+      "addedAt": "2026-09-20T00:00:00.000Z",
+      "source": "seed"
+    },
+    {
+      "src": "/images/deals-pool-terrace.jpg",
+      "alt": "Pool terrace with a sunken lounge",
+      "archived": false,
+      "addedAt": "2026-09-20T00:00:00.000Z",
+      "source": "seed"
+    },
+    {
+      "src": "/images/gallery-vale-house.png",
+      "alt": "Sunlit dining corner with a timber sideboard",
+      "archived": false,
+      "addedAt": "2026-09-20T00:00:00.000Z",
+      "source": "seed"
+    },
+    {
+      "src": "/images/gallery-meridian.png",
+      "alt": "Arched alcove above a dark dining table",
+      "archived": false,
+      "addedAt": "2026-09-20T00:00:00.000Z",
+      "source": "seed"
+    },
+    {
+      "src": "/images/gallery-birch-lane.png",
+      "alt": "Living room with a leather sofa",
+      "archived": false,
+      "addedAt": "2026-09-20T00:00:00.000Z",
+      "source": "seed"
+    },
+    {
+      "src": "/images/gallery-croft-end.png",
+      "alt": "Bright apartment with floor-to-ceiling glazing",
+      "archived": false,
+      "addedAt": "2026-09-20T00:00:00.000Z",
+      "source": "seed"
+    },
+    {
+      "src": "/images/gallery-the-granary.png",
+      "alt": "Dark stone kitchen with a marble island",
+      "archived": false,
+      "addedAt": "2026-09-20T00:00:00.000Z",
+      "source": "seed"
+    },
+    {
+      "src": "/images/gallery-studio-six.png",
+      "alt": "Pale studio corner with open shelving",
+      "archived": false,
+      "addedAt": "2026-09-20T00:00:00.000Z",
+      "source": "seed"
+    },
+    {
+      "src": "/images/hero-main.png",
+      "alt": "Interior with a view",
+      "archived": false,
+      "addedAt": "2026-09-20T00:00:00.000Z",
+      "source": "seed"
+    },
+    {
+      "src": "/images/hero-left.png",
+      "alt": "Interior detail",
+      "archived": false,
+      "addedAt": "2026-09-20T00:00:00.000Z",
+      "source": "seed"
+    },
+    {
+      "src": "/images/hero-right.jpg",
+      "alt": "Interior detail",
+      "archived": false,
+      "addedAt": "2026-09-20T00:00:00.000Z",
+      "source": "seed"
+    },
+    {
+      "src": "/images/expertise-residential.jpg",
+      "alt": "Residential interior",
+      "archived": false,
+      "addedAt": "2026-09-20T00:00:00.000Z",
+      "source": "seed"
+    },
+    {
+      "src": "/images/expertise-commercial.jpg",
+      "alt": "Commercial interior",
+      "archived": false,
+      "addedAt": "2026-09-20T00:00:00.000Z",
+      "source": "seed"
+    },
+    {
+      "src": "/images/project-serenity-villa.jpg",
+      "alt": "Villa exterior",
+      "archived": false,
+      "addedAt": "2026-09-20T00:00:00.000Z",
+      "source": "seed"
+    },
+    {
+      "src": "/images/project-minimalist-apartment.png",
+      "alt": "Minimalist apartment",
+      "archived": false,
+      "addedAt": "2026-09-20T00:00:00.000Z",
+      "source": "seed"
+    },
+    {
+      "src": "/images/project-corporate-office.png",
+      "alt": "Corporate office",
+      "archived": false,
+      "addedAt": "2026-09-20T00:00:00.000Z",
+      "source": "seed"
+    },
+    {
+      "src": "/images/footer-image.jpg",
+      "alt": "Interior",
+      "archived": false,
+      "addedAt": "2026-09-20T00:00:00.000Z",
+      "source": "seed"
+    }
+  ],
+  "properties": [
+    {
+      "id": "p_marina-residence-2br",
+      "archived": false,
+      "order": 1,
+      "updatedAt": "2026-09-20T00:00:00.000Z",
+      "slug": "marina-residence-2br",
+      "name": "Marina Residence",
+      "category": "Residential",
+      "community": "Dubai Marina",
+      "type": "Apartment",
+      "status": "Ready",
+      "priceAed": 2950000,
+      "areaSqft": 1450,
+      "bedrooms": 2,
+      "bathrooms": 3,
+      "unitsAvailable": 4,
+      "handover": "Ready",
+      "developer": "Emaar",
+      "images": [
+        "/images/deals-bedroom.jpg",
+        "/images/hero-side-living.jpg",
+        "/images/hero-dubai-balcony.jpg"
+      ],
+      "highlights": [
+        "Full marina view",
+        "Wraparound terrace",
+        "Two parking bays",
+        "Chiller-free"
+      ],
+      "description": "A corner two-bedroom on a high floor with the marina on two sides, a wraparound terrace and a fitted kitchen open to the living room.",
+      "featured": true
+    },
+    {
+      "id": "p_downtown-loft-1br",
+      "archived": false,
+      "order": 2,
+      "updatedAt": "2026-09-20T00:00:00.000Z",
+      "slug": "downtown-loft-1br",
+      "name": "Creek Loft",
+      "category": "Residential",
+      "community": "Downtown Dubai",
+      "type": "Apartment",
+      "status": "Ready",
+      "priceAed": 1950000,
+      "areaSqft": 780,
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "unitsAvailable": 2,
+      "handover": "Ready",
+      "developer": "Emaar",
+      "images": [
+        "/images/gallery-croft-end.png",
+        "/images/gallery-birch-lane.png"
+      ],
+      "highlights": [
+        "Double-height glazing",
+        "Burj view from the bedroom",
+        "Furnished"
+      ],
+      "description": "A double-height one-bedroom loft with floor-to-ceiling glazing towards the Burj, furnished and ready to move into.",
+      "featured": true
+    },
+    {
+      "id": "p_hills-penthouse",
+      "archived": false,
+      "order": 3,
+      "updatedAt": "2026-09-20T00:00:00.000Z",
+      "slug": "hills-penthouse",
+      "name": "Hills Penthouse",
+      "category": "Residential",
+      "community": "Dubai Hills Estate",
+      "type": "Penthouse",
+      "status": "Off-plan",
+      "priceAed": 9800000,
+      "areaSqft": 3900,
+      "bedrooms": 4,
+      "bathrooms": 5,
+      "unitsAvailable": 1,
+      "handover": "Q4 2027",
+      "developer": "Emaar",
+      "images": [
+        "/images/deals-piano-lounge.jpg",
+        "/images/deals-dining.jpg"
+      ],
+      "highlights": [
+        "Rooftop garden",
+        "Golf course view",
+        "Private lift lobby",
+        "60/40 payment plan"
+      ],
+      "description": "A top-floor penthouse over the golf course with a rooftop garden and a private lift lobby, on a 60/40 plan to handover.",
+      "featured": true
+    },
+    {
+      "id": "p_jvc-studio",
+      "archived": false,
+      "order": 4,
+      "updatedAt": "2026-09-20T00:00:00.000Z",
+      "slug": "jvc-studio",
+      "name": "Studio One",
+      "category": "Residential",
+      "community": "Jumeirah Village Circle",
+      "type": "Apartment",
+      "status": "Ready",
+      "priceAed": 620000,
+      "areaSqft": 420,
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "unitsAvailable": 6,
+      "handover": "Ready",
+      "developer": "Binghatti",
+      "images": [
+        "/images/gallery-studio-six.png",
+        "/images/gallery-vale-house.png"
+      ],
+      "highlights": [
+        "Smart storage",
+        "Park view",
+        "8% gross yield"
+      ],
+      "description": "A compact studio with built-in storage over the park, let at an 8% gross yield.",
+      "featured": true
+    },
+    {
+      "id": "p_business-bay-office",
+      "archived": false,
+      "order": 1,
+      "updatedAt": "2026-09-20T00:00:00.000Z",
+      "slug": "business-bay-office",
+      "name": "Bay Office Floor",
+      "category": "Commercial",
+      "community": "Business Bay",
+      "type": "Office",
+      "status": "Ready",
+      "priceAed": 3150000,
+      "areaSqft": 1800,
+      "bedrooms": null,
+      "bathrooms": 2,
+      "unitsAvailable": 3,
+      "handover": "Ready",
+      "developer": "DAMAC",
+      "images": [
+        "/images/project-corporate-office.png",
+        "/images/expertise-commercial.jpg"
+      ],
+      "highlights": [
+        "Fitted and partitioned",
+        "Canal view",
+        "Four parking bays",
+        "Grade A tower"
+      ],
+      "description": "A fitted office floor in a Grade A tower on the canal, partitioned into a boardroom, six offices and an open plan.",
+      "featured": true
+    },
+    {
+      "id": "p_difc-office",
+      "archived": false,
+      "order": 2,
+      "updatedAt": "2026-09-20T00:00:00.000Z",
+      "slug": "difc-office",
+      "name": "Gate Avenue Suite",
+      "category": "Commercial",
+      "community": "DIFC",
+      "type": "Office",
+      "status": "Ready",
+      "priceAed": 6400000,
+      "areaSqft": 2450,
+      "bedrooms": null,
+      "bathrooms": 2,
+      "unitsAvailable": 1,
+      "handover": "Ready",
+      "developer": "DIFC",
+      "images": [
+        "/images/expertise-commercial.jpg",
+        "/images/gallery-meridian.png"
+      ],
+      "highlights": [
+        "DIFC licence eligible",
+        "Shell and core",
+        "Direct Gate Avenue access"
+      ],
+      "description": "A shell-and-core suite within the DIFC free zone with direct access to Gate Avenue.",
+      "featured": true
+    },
+    {
+      "id": "p_jbr-retail",
+      "archived": false,
+      "order": 3,
+      "updatedAt": "2026-09-20T00:00:00.000Z",
+      "slug": "jbr-retail",
+      "name": "The Walk Retail Unit",
+      "category": "Commercial",
+      "community": "Jumeirah Beach Residence",
+      "type": "Retail",
+      "status": "Ready",
+      "priceAed": 4200000,
+      "areaSqft": 1200,
+      "bedrooms": null,
+      "bathrooms": 1,
+      "unitsAvailable": 1,
+      "handover": "Ready",
+      "developer": "Dubai Properties",
+      "images": [
+        "/images/gallery-vale-house.png",
+        "/images/project-minimalist-apartment.png"
+      ],
+      "highlights": [
+        "Beachfront footfall",
+        "Outdoor seating licence",
+        "Corner unit"
+      ],
+      "description": "A corner retail unit on The Walk with an outdoor seating licence and beachfront footfall.",
+      "featured": false
+    },
+    {
+      "id": "p_al-quoz-warehouse",
+      "archived": false,
+      "order": 1,
+      "updatedAt": "2026-09-20T00:00:00.000Z",
+      "slug": "al-quoz-warehouse",
+      "name": "Al Quoz Warehouse",
+      "category": "Warehouse",
+      "community": "Al Quoz Industrial 3",
+      "type": "Warehouse",
+      "status": "Ready",
+      "priceAed": 9500000,
+      "areaSqft": 12000,
+      "bedrooms": null,
+      "bathrooms": 2,
+      "unitsAvailable": 1,
+      "handover": "Ready",
+      "developer": "Private",
+      "images": [
+        "/images/project-corporate-office.png",
+        "/images/gallery-the-granary.png"
+      ],
+      "highlights": [
+        "9m eaves",
+        "Two loading docks",
+        "Mezzanine office",
+        "3-phase power"
+      ],
+      "description": "A 12,000 sq ft warehouse with 9m eaves, two loading docks and a mezzanine office, minutes from Sheikh Zayed Road.",
+      "featured": true
+    },
+    {
+      "id": "p_jafza-logistics",
+      "archived": false,
+      "order": 2,
+      "updatedAt": "2026-09-20T00:00:00.000Z",
+      "slug": "jafza-logistics",
+      "name": "JAFZA Logistics Unit",
+      "category": "Warehouse",
+      "community": "Jebel Ali Free Zone",
+      "type": "Warehouse",
+      "status": "Off-plan",
+      "priceAed": 14000000,
+      "areaSqft": 25000,
+      "bedrooms": null,
+      "bathrooms": 4,
+      "unitsAvailable": 2,
+      "handover": "Q2 2027",
+      "developer": "DP World",
+      "images": [
+        "/images/gallery-the-granary.png",
+        "/images/expertise-commercial.jpg"
+      ],
+      "highlights": [
+        "Free zone licence",
+        "Temperature-controlled bay",
+        "Port adjacent"
+      ],
+      "description": "A temperature-controlled logistics unit adjacent to the port, with a free-zone licence included.",
+      "featured": true
+    },
+    {
+      "id": "p_palm-villa",
+      "archived": false,
+      "order": 1,
+      "updatedAt": "2026-09-20T00:00:00.000Z",
+      "slug": "palm-villa",
+      "name": "Palm Villa",
+      "category": "Villas",
+      "community": "Palm Jumeirah",
+      "type": "Villa",
+      "status": "Ready",
+      "priceAed": 28500000,
+      "areaSqft": 7200,
+      "bedrooms": 5,
+      "bathrooms": 6,
+      "unitsAvailable": 1,
+      "handover": "Ready",
+      "developer": "Nakheel",
+      "images": [
+        "/images/deals-pool-terrace.jpg",
+        "/images/deals-feature.jpg",
+        "/images/deals-piano-lounge.jpg"
+      ],
+      "highlights": [
+        "Private beach",
+        "Infinity pool",
+        "Staff quarters",
+        "Upgraded interiors"
+      ],
+      "description": "A garden-home villa on the fronds with a private beach, an infinity pool and fully upgraded interiors.",
+      "featured": true
+    },
+    {
+      "id": "p_ranches-villa",
+      "archived": false,
+      "order": 2,
+      "updatedAt": "2026-09-20T00:00:00.000Z",
+      "slug": "ranches-villa",
+      "name": "Ranches Family Villa",
+      "category": "Villas",
+      "community": "Arabian Ranches III",
+      "type": "Villa",
+      "status": "Ready",
+      "priceAed": 6800000,
+      "areaSqft": 3800,
+      "bedrooms": 4,
+      "bathrooms": 5,
+      "unitsAvailable": 2,
+      "handover": "Ready",
+      "developer": "Emaar",
+      "images": [
+        "/images/deals-feature.jpg",
+        "/images/deals-dining.jpg"
+      ],
+      "highlights": [
+        "Single row",
+        "Landscaped garden",
+        "Maid's room",
+        "Near the school"
+      ],
+      "description": "A single-row four-bedroom on a landscaped plot, a short walk from the community school.",
+      "featured": true
+    },
+    {
+      "id": "p_damac-hills-villa",
+      "archived": false,
+      "order": 3,
+      "updatedAt": "2026-09-20T00:00:00.000Z",
+      "slug": "damac-hills-villa",
+      "name": "Hills Golf Villa",
+      "category": "Villas",
+      "community": "DAMAC Hills",
+      "type": "Villa",
+      "status": "Off-plan",
+      "priceAed": 9200000,
+      "areaSqft": 5100,
+      "bedrooms": 5,
+      "bathrooms": 6,
+      "unitsAvailable": 3,
+      "handover": "Q1 2028",
+      "developer": "DAMAC",
+      "images": [
+        "/images/project-serenity-villa.jpg",
+        "/images/deals-pool-terrace.jpg"
+      ],
+      "highlights": [
+        "Golf course frontage",
+        "Private pool",
+        "80/20 payment plan"
+      ],
+      "description": "A five-bedroom on the golf course with a private pool, on an 80/20 plan with handover in 2028.",
+      "featured": true
+    },
+    {
+      "id": "p_creek-townhouse",
+      "archived": false,
+      "order": 4,
+      "updatedAt": "2026-09-20T00:00:00.000Z",
+      "slug": "creek-townhouse",
+      "name": "Canal Townhouse",
+      "category": "Villas",
+      "community": "Dubai Creek Harbour",
+      "type": "Townhouse",
+      "status": "Off-plan",
+      "priceAed": 4600000,
+      "areaSqft": 2650,
+      "bedrooms": 3,
+      "bathrooms": 4,
+      "unitsAvailable": 5,
+      "handover": "Q3 2027",
+      "developer": "Emaar",
+      "images": [
+        "/images/hero-side-living.jpg",
+        "/images/gallery-croft-end.png"
+      ],
+      "highlights": [
+        "Waterfront",
+        "Own mooring",
+        "Roof terrace"
+      ],
+      "description": "A three-storey townhouse on the water with its own mooring and a roof terrace towards the creek.",
+      "featured": false
+    }
+  ]
+}

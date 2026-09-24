@@ -1,0 +1,336 @@
+<div> [0,0,0,0] contents
+  <div "Footer" #footer> [12,8440,1416,1367] block/relative
+    <footer "Desktop"> [12,8440,1416,1367] flex/relative/column
+      backgroundColor:rgb(226, 218, 207) | padding:110px 0px 0px | flexDirection:column | justifyContent:center | alignItems:center | gap:40px | borderRadius:12px | overflow:clip
+      <div "Container Text"> [12,8550,1416,393] flex/relative
+        padding:0px 40px | justifyContent:center | alignItems:center | gap:10px | overflow:clip
+        <div "Wrapper"> [52,8550,1336,393] flex/relative/column
+          flexDirection:column | justifyContent:flex-start | alignItems:flex-start | gap:108px | flex:1 0 0px
+          <div "Text"> [52,8550,1336,239] flex/relative
+            justifyContent:space-between | alignItems:flex-start | overflow:clip
+            <div "Left Text"> [52,8550,672,239] flex/relative/column
+              maxWidth:672px | flexDirection:column | justifyContent:flex-start | alignItems:flex-start | gap:64px | flex:1 0 0px
+              <div "Open to new projects and collaborations that shape meaningful spaces."> [52,8550,672,144] flex/relative/column
+                whiteSpace:pre-wrap | flexDirection:column | justifyContent:flex-start
+                <h3> [52,8550,672,144] block
+                  TEXT: "Open to new projects and collaborations that shape meaningful spaces." ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:48px | letterSpacing:-1.6px | color:rgb(79, 71, 66) | textTransform:uppercase | whiteSpace:pre-wrap
+              <div "Contact Us"> [52,8758,125,31] flex/relative
+                justifyContent:flex-start | alignItems:center
+                <div> [52,8758,125,31] block/relative
+                  <a "Variant 1" href=./> [52,8758,125,31] flex/relative
+                    justifyContent:center | alignItems:center | gap:6px | overflow:clip | cursor:pointer
+                    <div> [52,8758,125,31] flex/relative/column
+                      padding:2px 2px 6px | flexDirection:column | justifyContent:flex-start | alignItems:center | gap:8px | cursor:pointer
+                      <div> [54,8760,121,23] flex/relative/column
+                        whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                        <p> [54,8760,121,23] block
+                          TEXT: "get in touch" ff="Inter Display"
+                          fontSize:18px | fontWeight:500 | lineHeight:23.4px | letterSpacing:-0.2px | color:rgb(79, 71, 66) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                      <div "underline"> [-398,8787,125,3] block/absolute
+                        backgroundColor:rgb(73, 66, 61) | top:28.8906px | right:450px | left:-450px | cursor:pointer
+            <div "footer-links"> [996,8550,392,172] flex/relative
+              justifyContent:flex-start | alignItems:flex-start | gap:48px | overflow:clip
+              <div> [996,8550,72,172] flex/relative/column
+                flexDirection:column | justifyContent:center | alignItems:flex-start | gap:18px | overflow:clip
+                <div> [996,8550,72,172] flex/relative/column
+                  flexDirection:column | justifyContent:center | alignItems:flex-start | gap:8px | overflow:clip
+                  <div> [996,8550,43,22] block/relative
+                    <a "Primary" href=./> [996,8550,43,22] flex/relative
+                      padding:2px | justifyContent:flex-start | alignItems:flex-start | gap:10px | overflow:clip | cursor:pointer
+                      <div "text-wrapper"> [998,8552,39,45] flex/relative/column
+                        padding:2px 0px | flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | cursor:pointer
+                        <div> [998,8554,39,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [998,8554,39,15] block
+                            TEXT: "home" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                        <div> [998,8579,39,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [998,8579,39,15] block
+                            TEXT: "home" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                  <div> [996,8580,49,22] block/relative
+                    <a "Primary" href=./#about-section> [996,8580,49,22] flex/relative
+                      padding:2px | justifyContent:flex-start | alignItems:flex-start | gap:10px | overflow:clip | cursor:pointer
+                      <div "text-wrapper"> [998,8582,45,45] flex/relative/column
+                        padding:2px 0px | flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | cursor:pointer
+                        <div> [998,8584,45,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [998,8584,45,15] block
+                            TEXT: "about" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                        <div> [998,8609,45,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [998,8609,45,15] block
+                            TEXT: "about" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                  <div> [996,8610,66,22] block/relative
+                    <a "Primary" href=./#services> [996,8610,66,22] flex/relative
+                      padding:2px | justifyContent:flex-start | alignItems:flex-start | gap:10px | overflow:clip | cursor:pointer
+                      <div "text-wrapper"> [998,8612,62,45] flex/relative/column
+                        padding:2px 0px | flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | cursor:pointer
+                        <div> [998,8614,62,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [998,8614,62,15] block
+                            TEXT: "services" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                        <div> [998,8639,62,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [998,8639,62,15] block
+                            TEXT: "services" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                  <div> [996,8640,72,22] block/relative
+                    <a "Primary" href=./projects> [996,8640,72,22] flex/relative
+                      padding:2px | justifyContent:flex-start | alignItems:flex-start | gap:10px | overflow:clip | cursor:pointer
+                      <div "text-wrapper"> [998,8642,68,45] flex/relative/column
+                        padding:2px 0px | flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | cursor:pointer
+                        <div> [998,8644,68,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [998,8644,68,15] block
+                            TEXT: "projects" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                        <div> [998,8669,68,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [998,8669,68,15] block
+                            TEXT: "projects" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                  <div> [996,8670,65,22] block/relative
+                    <a "Primary" href=./> [996,8670,65,22] flex/relative
+                      padding:2px | justifyContent:flex-start | alignItems:flex-start | gap:10px | overflow:clip | cursor:pointer
+                      <div "text-wrapper"> [998,8672,61,45] flex/relative/column
+                        padding:2px 0px | flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | cursor:pointer
+                        <div> [998,8674,61,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [998,8674,61,15] block
+                            TEXT: "process" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                        <div> [998,8699,61,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [998,8699,61,15] block
+                            TEXT: "process" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                  <div> [996,8700,67,22] block/relative
+                    <a "Primary" href=./> [996,8700,67,22] flex/relative
+                      padding:2px | justifyContent:flex-start | alignItems:flex-start | gap:10px | overflow:clip | cursor:pointer
+                      <div "text-wrapper"> [998,8702,63,45] flex/relative/column
+                        padding:2px 0px | flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | cursor:pointer
+                        <div> [998,8704,63,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [998,8704,63,15] block
+                            TEXT: "contact" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                        <div> [998,8729,63,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [998,8729,63,15] block
+                            TEXT: "contact" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+              <div> [1116,8550,80,112] flex/relative/column
+                flexDirection:column | justifyContent:center | alignItems:flex-start | gap:18px | overflow:clip
+                <div> [1116,8550,80,112] flex/relative/column
+                  flexDirection:column | justifyContent:center | alignItems:flex-start | gap:8px | overflow:clip
+                  <div> [1116,8550,74,22] block/relative
+                    <a "Primary"> [1116,8550,74,22] flex/relative
+                      padding:2px | justifyContent:flex-start | alignItems:flex-start | gap:10px | overflow:clip | cursor:pointer
+                      <div "text-wrapper"> [1118,8552,70,45] flex/relative/column
+                        padding:2px 0px | flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | cursor:pointer
+                        <div> [1118,8554,70,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [1118,8554,70,15] block
+                            TEXT: "pinterest" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                        <div> [1118,8579,70,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [1118,8579,70,15] block
+                            TEXT: "pinterest" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                  <div> [1116,8580,62,22] block/relative
+                    <a "Primary"> [1116,8580,62,22] flex/relative
+                      padding:2px | justifyContent:flex-start | alignItems:flex-start | gap:10px | overflow:clip | cursor:pointer
+                      <div "text-wrapper"> [1118,8582,58,45] flex/relative/column
+                        padding:2px 0px | flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | cursor:pointer
+                        <div> [1118,8584,58,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [1118,8584,58,15] block
+                            TEXT: "linkedin" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                        <div> [1118,8609,58,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [1118,8609,58,15] block
+                            TEXT: "linkedin" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                  <div> [1116,8610,80,22] block/relative
+                    <a "Primary"> [1116,8610,80,22] flex/relative
+                      padding:2px | justifyContent:flex-start | alignItems:flex-start | gap:10px | overflow:clip | cursor:pointer
+                      <div "text-wrapper"> [1118,8612,76,45] flex/relative/column
+                        padding:2px 0px | flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | cursor:pointer
+                        <div> [1118,8614,76,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [1118,8614,76,15] block
+                            TEXT: "instagram" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                        <div> [1118,8639,76,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [1118,8639,76,15] block
+                            TEXT: "instagram" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                  <div> [1116,8640,66,22] block/relative
+                    <a "Primary"> [1116,8640,66,22] flex/relative
+                      padding:2px | justifyContent:flex-start | alignItems:flex-start | gap:10px | overflow:clip | cursor:pointer
+                      <div "text-wrapper"> [1118,8642,62,45] flex/relative/column
+                        padding:2px 0px | flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | cursor:pointer
+                        <div> [1118,8644,62,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [1118,8644,62,15] block
+                            TEXT: "behance" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                        <div> [1118,8669,62,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [1118,8669,62,15] block
+                            TEXT: "behance" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+              <div> [1244,8550,144,82] flex/relative/column
+                flexDirection:column | justifyContent:center | alignItems:flex-start | gap:18px | overflow:clip
+                <div> [1244,8550,144,82] flex/relative/column
+                  flexDirection:column | justifyContent:center | alignItems:flex-start | gap:8px | overflow:clip
+                  <div> [1244,8550,108,22] block/relative
+                    <a "Primary"> [1244,8550,108,22] flex/relative
+                      padding:2px | justifyContent:flex-start | alignItems:flex-start | gap:10px | overflow:clip | cursor:pointer
+                      <div "text-wrapper"> [1246,8552,104,45] flex/relative/column
+                        padding:2px 0px | flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | cursor:pointer
+                        <div> [1246,8554,104,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [1246,8554,104,15] block
+                            TEXT: "Privacy Policy" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                        <div> [1246,8579,104,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [1246,8579,104,15] block
+                            TEXT: "Privacy Policy" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                  <div> [1244,8580,103,22] block/relative
+                    <a "Primary"> [1244,8580,103,22] flex/relative
+                      padding:2px | justifyContent:flex-start | alignItems:flex-start | gap:10px | overflow:clip | cursor:pointer
+                      <div "text-wrapper"> [1246,8582,99,45] flex/relative/column
+                        padding:2px 0px | flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | cursor:pointer
+                        <div> [1246,8584,99,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [1246,8584,99,15] block
+                            TEXT: "Cookie Policy" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                        <div> [1246,8609,99,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [1246,8609,99,15] block
+                            TEXT: "Cookie Policy" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                  <div> [1244,8610,144,22] block/relative
+                    <a "Primary"> [1244,8610,144,22] flex/relative
+                      padding:2px | justifyContent:flex-start | alignItems:flex-start | gap:10px | overflow:clip | cursor:pointer
+                      <div "text-wrapper"> [1246,8612,140,45] flex/relative/column
+                        padding:2px 0px | flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | cursor:pointer
+                        <div> [1246,8614,140,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [1246,8614,140,15] block
+                            TEXT: "Terms & Conditions" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                        <div> [1246,8639,140,15] flex/relative/column
+                          whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                          <p> [1246,8639,140,15] block
+                            TEXT: "Terms & Conditions" ff="Inter Display"
+                            fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgba(79, 71, 66, 0.8) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+          <div "Footer"> [52,8897,1336,46] flex/relative/column
+            flexDirection:column | justifyContent:flex-start | alignItems:center | gap:16px
+            <div "Divider"> [52,8897,1336,1] block/relative
+              backgroundColor:rgb(240, 235, 230)
+            <div "Footer"> [52,8914,1336,29] flex/relative
+              justifyContent:space-between | alignItems:center | overflow:clip
+              <div "icons-group"> [52,8905,180,48] flex/relative
+                justifyContent:center | alignItems:center | gap:8px | overflow:clip
+                <div> [52,8905,48,48] block/relative
+                  <div "Variant 1"> [52,8905,48,48] flex/relative
+                    padding:12px | justifyContent:flex-start | alignItems:center | gap:12px | borderRadius:15px | overflow:hidden | cursor:pointer
+                    <div> [64,8917,24,24] block/relative
+                      backgroundColor:rgb(76, 68, 63) | cursor:pointer | aspectRatio:1 / 1
+                <div> [108,8917,2,24] block/relative
+                  backgroundImage:url("data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 xmlns:xlink=%22http://www.w3.org/1999/xlink%22 viewBox=%220 0 2 24%22 overflow=%22visible%22><path d=%22M 0 0 L 2 0 L 2 24 L 0 24 Z%22 fill=%22%23CCC%22></path></svg>") | backgroundSize:100% 100%
+                <div> [118,8905,48,48] block/relative
+                  <div "Variant 1"> [118,8905,48,48] flex/relative
+                    padding:12px | justifyContent:flex-start | alignItems:center | gap:12px | borderRadius:15px | overflow:hidden | cursor:pointer
+                    <div> [130,8917,24,24] block/relative
+                      backgroundColor:rgb(76, 68, 63) | cursor:pointer | aspectRatio:1 / 1
+                <div> [174,8917,2,24] block/relative
+                  backgroundImage:url("data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 xmlns:xlink=%22http://www.w3.org/1999/xlink%22 viewBox=%220 0 2 24%22 overflow=%22visible%22><path d=%22M 0 0 L 2 0 L 2 24 L 0 24 Z%22 fill=%22%23CCC%22></path></svg>") | backgroundSize:100% 100%
+                <div> [184,8905,48,48] block/relative
+                  <div "Variant 1"> [184,8905,48,48] flex/relative
+                    padding:12px | justifyContent:flex-start | alignItems:center | gap:12px | borderRadius:15px | overflow:hidden | cursor:pointer
+                    <div> [196,8917,24,24] block/relative
+                      backgroundColor:rgb(76, 68, 63) | cursor:pointer | aspectRatio:1 / 1
+              <div> [1023,8919,365,21] flex/relative/column
+                whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                <p> [1023,8919,365,21] block
+                  TEXT: "© 2026 Your Architecture Studio. All rights reserved." ff="Inter Display"
+                  fontSize:16px | fontWeight:500 | lineHeight:20.8px | letterSpacing:-0.3px | color:rgba(85, 77, 72, 0.6) | textTransform:capitalize | whiteSpace:pre | cursor:pointer
+      <div "Running Text"> [12,8983,1416,310] flex/relative
+        padding:80px 0px 0px | justifyContent:center | alignItems:center | gap:10px | overflow:clip
+        <div> [12,9063,1416,230] block/relative
+          flex:1 0 0px
+          <section> [12,9063,1416,230] flex
+            maxWidth:100% | maxHeight:100% | alignItems:center | overflow:hidden
+            <ul> [-128,9063,1416,230] flex/relative
+              maxWidth:100% | maxHeight:100% | alignItems:center | gap:20px | transform:matrix(1, 0, 0, 1, -139.908, 0)
+              <li> [-128,9063,1880,231] list-item
+                <div "Running Text"> [-128,9063,1880,231] flex/relative/column
+                  padding:4px | flexDirection:column | justifyContent:center | alignItems:center | gap:10px | overflow:clip
+                  <div "ARKANASTUDIO"> [-124,9063,1872,230] flex/relative/column
+                    whiteSpace:pre | flexDirection:column | justifyContent:flex-start
+                    <p> [-124,9063,1872,230] block
+                      TEXT: "ArcSphere Studio" ff="Inter Display"
+                      fontSize:240px | fontWeight:800 | lineHeight:230.4px | letterSpacing:-9.6px | color:rgb(79, 71, 66) | whiteSpace:pre
+              <li> [1772,9063,1880,231] list-item
+                <div "Running Text"> [1772,9063,1880,231] flex/relative/column
+                  padding:4px | flexDirection:column | justifyContent:center | alignItems:center | gap:10px | overflow:clip
+                  <div "ARKANASTUDIO"> [1776,9063,1872,230] flex/relative/column
+                    whiteSpace:pre | flexDirection:column | justifyContent:flex-start
+                    <p> [1776,9063,1872,230] block
+                      TEXT: "ArcSphere Studio" ff="Inter Display"
+                      fontSize:240px | fontWeight:800 | lineHeight:230.4px | letterSpacing:-9.6px | color:rgb(79, 71, 66) | whiteSpace:pre
+              <li> [3671,9063,1880,231] list-item
+                <div "Running Text"> [3671,9063,1880,231] flex/relative/column
+                  padding:4px | flexDirection:column | justifyContent:center | alignItems:center | gap:10px | overflow:clip
+                  <div "ARKANASTUDIO"> [3675,9063,1872,230] flex/relative/column
+                    whiteSpace:pre | flexDirection:column | justifyContent:flex-start
+                    <p> [3675,9063,1872,230] block
+                      TEXT: "ArcSphere Studio" ff="Inter Display"
+                      fontSize:240px | fontWeight:800 | lineHeight:230.4px | letterSpacing:-9.6px | color:rgb(79, 71, 66) | whiteSpace:pre
+              <li> [5571,9063,1880,231] list-item
+                <div "Running Text"> [5571,9063,1880,231] flex/relative/column
+                  padding:4px | flexDirection:column | justifyContent:center | alignItems:center | gap:10px | overflow:clip
+                  <div "ARKANASTUDIO"> [5575,9063,1872,230] flex/relative/column
+                    whiteSpace:pre | flexDirection:column | justifyContent:flex-start
+                    <p> [5575,9063,1872,230] block
+                      TEXT: "ArcSphere Studio" ff="Inter Display"
+                      fontSize:240px | fontWeight:800 | lineHeight:230.4px | letterSpacing:-9.6px | color:rgb(79, 71, 66) | whiteSpace:pre
+              <li> [7471,9063,1880,231] list-item
+                <div "Running Text"> [7471,9063,1880,231] flex/relative/column
+                  padding:4px | flexDirection:column | justifyContent:center | alignItems:center | gap:10px | overflow:clip
+                  <div "ARKANASTUDIO"> [7475,9063,1872,230] flex/relative/column
+                    whiteSpace:pre | flexDirection:column | justifyContent:flex-start
+                    <p> [7475,9063,1872,230] block
+                      TEXT: "ArcSphere Studio" ff="Inter Display"
+                      fontSize:240px | fontWeight:800 | lineHeight:230.4px | letterSpacing:-9.6px | color:rgb(79, 71, 66) | whiteSpace:pre
+              <li> [9370,9063,1880,231] list-item
+                <div "Running Text"> [9370,9063,1880,231] flex/relative/column
+                  padding:4px | flexDirection:column | justifyContent:center | alignItems:center | gap:10px | overflow:clip
+                  <div "ARKANASTUDIO"> [9374,9063,1872,230] flex/relative/column
+                    whiteSpace:pre | flexDirection:column | justifyContent:flex-start
+                    <p> [9374,9063,1872,230] block
+                      TEXT: "ArcSphere Studio" ff="Inter Display"
+                      fontSize:240px | fontWeight:800 | lineHeight:230.4px | letterSpacing:-9.6px | color:rgb(79, 71, 66) | whiteSpace:pre
+      <div "Video"> [12,9333,1416,474] flex/relative
+        justifyContent:center | alignItems:center | gap:10px | overflow:clip
+        <div "img/video"> [12,9333,1416,474] block/relative
+          flex:1 0 0px | aspectRatio:2.98755 / 1
+          <div> [12,9333,1416,474] block/absolute
+            <img> [12,9333,1416,474] block
+              IMG: 3GG8FlJkc5UJfOGjTcx5PwNKKs.jpg alt=""
+              overflow:clip | objectFit:cover | aspectRatio:auto 1728 / 624

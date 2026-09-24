@@ -1,0 +1,383 @@
+<div> [0,0,0,0] contents
+  <div> [62,7591,1317,737] block/relative
+    <div "Variant 1"> [62,7591,1317,737] flex/relative
+      justifyContent:space-between | alignItems:flex-start
+      <div "Left"> [62,7591,658,737] flex/relative/column
+        flexDirection:column | justifyContent:space-between | alignItems:flex-start | flex:1 0 0px
+        <div "Heading"> [62,7591,658,175] flex/relative/column
+          flexDirection:column | justifyContent:flex-start | alignItems:flex-start | gap:12px | overflow:clip
+          <div> [62,7591,395,112] flex/relative/column
+            whiteSpace:pre-wrap | flexDirection:column | justifyContent:flex-start
+            <h2> [62,7591,395,112] block
+              letterSpacing:-1.2px | textTransform:capitalize | whiteSpace:pre-wrap
+              <span> [62,7594,99,49] inline
+                letterSpacing:-1.2px | textTransform:capitalize
+                <span> [62,7591,21,56] inline-block
+                  TEXT: "L" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+                <span> [82,7591,22,56] inline-block
+                  TEXT: "E" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+                <span> [104,7591,24,56] inline-block
+                  TEXT: "T" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+                <span> [128,7591,9,56] inline-block
+                  TEXT: "'" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+                <span> [137,7591,24,56] inline-block
+                  TEXT: "S" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+              <span> [169,7594,95,49] inline
+                letterSpacing:-1.2px | textTransform:capitalize
+                <span> [169,7591,24,56] inline-block
+                  TEXT: "T" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+                <span> [193,7591,26,56] inline-block
+                  TEXT: "A" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+                <span> [219,7591,21,56] inline-block
+                  TEXT: "L" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+                <span> [239,7591,25,56] inline-block
+                  TEXT: "K" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+              <span> [272,7594,129,49] inline
+                letterSpacing:-1.2px | textTransform:capitalize
+                <span> [272,7591,26,56] inline-block
+                  TEXT: "A" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+                <span> [298,7591,24,56] inline-block
+                  TEXT: "B" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+                <span> [323,7591,29,56] inline-block
+                  TEXT: "O" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+                <span> [351,7591,27,56] inline-block
+                  TEXT: "U" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+                <span> [378,7591,24,56] inline-block
+                  TEXT: "T" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+              <span> [62,7650,105,49] inline
+                letterSpacing:-1.2px | textTransform:capitalize
+                <span> [62,7647,25,56] inline-block
+                  TEXT: "Y" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+                <span> [87,7647,29,56] inline-block
+                  TEXT: "O" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+                <span> [115,7647,27,56] inline-block
+                  TEXT: "U" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+                <span> [142,7647,24,56] inline-block
+                  TEXT: "R" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+              <span> [175,7650,195,49] inline
+                letterSpacing:-1.2px | textTransform:capitalize
+                <span> [175,7647,24,56] inline-block
+                  TEXT: "P" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+                <span> [199,7647,24,56] inline-block
+                  TEXT: "R" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+                <span> [223,7647,29,56] inline-block
+                  TEXT: "O" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+                <span> [252,7647,21,56] inline-block
+                  TEXT: "J" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+                <span> [272,7647,22,56] inline-block
+                  TEXT: "E" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+                <span> [295,7647,28,56] inline-block
+                  TEXT: "C" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+                <span> [322,7647,24,56] inline-block
+                  TEXT: "T" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+                <span> [346,7647,24,56] inline-block
+                  TEXT: "S" ff="Inter Display"
+                  fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textTransform:capitalize | filter:blur(0px)
+          <div "Every collaboration begins with a conversation. We’d love to hear about your project, idea, or partnership."> [62,7715,658,51] flex/relative/column
+            flexDirection:column | justifyContent:flex-start
+            <p> [62,7715,658,51] block
+              TEXT: "Every collaboration begins with a conversation. We’d love to hear about your project, idea, or partnership." ff="Inter Display"
+              fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textTransform:capitalize
+        <div "Contact Info"> [62,8195,658,133] flex/relative/column
+          flexDirection:column | justifyContent:center | alignItems:flex-start | gap:24px
+          <div> [62,8195,658,51] flex/relative
+            justifyContent:center | alignItems:center | gap:10px | overflow:clip
+            <div "Phone Number"> [62,8195,324,51] flex/relative/column
+              flexDirection:column | justifyContent:center | alignItems:flex-start | gap:6px | flex:1 0 0px
+              <div "Phone Number"> [62,8195,107,24] flex/relative/column
+                whiteSpace:pre | flexDirection:column | justifyContent:flex-start
+                <p> [62,8195,107,24] block
+                  TEXT: "Phone Number" ff="Inter Display"
+                  fontSize:16px | fontWeight:500 | lineHeight:24px | color:rgb(79, 71, 66) | whiteSpace:pre-wrap
+              <div "Button"> [62,8225,106,21] block/relative
+                <a "Default"> [62,8225,106,21] flex/relative/column
+                  flexDirection:column | justifyContent:center | alignItems:center | gap:2px | overflow:hidden | cursor:pointer
+                  <div "Label"> [62,8225,106,18] flex/relative/column
+                    whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                    <p> [62,8225,106,18] block
+                      TEXT: "+62 812 3456 7890" ff="Inter Display"
+                      fontSize:12px | fontWeight:500 | lineHeight:18px | color:rgb(79, 71, 66) | whiteSpace:pre | cursor:pointer
+                  <div "Underline Wrap"> [62,8245,106,1] block/relative
+                    overflow:hidden | cursor:pointer
+                    <div "Line"> [52,8245,1,1] block/absolute
+                      backgroundColor:rgb(79, 71, 66) | overflow:hidden | right:114.555px | left:-10px | cursor:pointer
+            <div "Email"> [396,8195,324,51] flex/relative/column
+              flexDirection:column | justifyContent:center | alignItems:flex-start | gap:6px | flex:1 0 0px
+              <div "Email"> [396,8195,39,24] flex/relative/column
+                whiteSpace:pre | flexDirection:column | justifyContent:flex-start
+                <p> [396,8195,39,24] block
+                  TEXT: "Email" ff="Inter Display"
+                  fontSize:16px | fontWeight:500 | lineHeight:24px | color:rgb(79, 71, 66) | whiteSpace:pre-wrap
+              <div "Button"> [396,8225,139,21] block/relative
+                <a "Default" href=mailto:hello@arkana.studio> [396,8225,139,21] flex/relative/column
+                  flexDirection:column | justifyContent:center | alignItems:center | gap:2px | overflow:hidden | cursor:pointer
+                  <div "Label"> [396,8225,139,18] flex/relative/column
+                    whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                    <p> [396,8225,139,18] block
+                      TEXT: "hello@arcspherestudio.ae" ff="Inter Display"
+                      fontSize:12px | fontWeight:500 | lineHeight:18px | color:rgb(79, 71, 66) | whiteSpace:pre | cursor:pointer
+                  <div "Underline Wrap"> [396,8245,139,1] block/relative
+                    overflow:hidden | cursor:pointer
+                    <div "Line"> [386,8245,1,1] block/absolute
+                      backgroundColor:rgb(79, 71, 66) | overflow:hidden | right:147.5px | left:-10px | cursor:pointer
+          <div> [62,8270,658,58] flex/relative
+            justifyContent:center | alignItems:center | gap:10px | overflow:clip
+            <div "Social Media"> [62,8270,324,58] flex/relative/column
+              flexDirection:column | justifyContent:center | alignItems:flex-start | gap:6px | flex:1 0 0px
+              <div "Social Media"> [62,8270,91,24] flex/relative/column
+                whiteSpace:pre | flexDirection:column | justifyContent:flex-start
+                <p> [62,8270,91,24] block
+                  TEXT: "Social Media" ff="Inter Display"
+                  fontSize:16px | fontWeight:500 | lineHeight:24px | color:rgb(79, 71, 66) | whiteSpace:pre-wrap
+              <div "Logo Icon"> [62,8300,148,28] flex/relative
+                justifyContent:flex-start | alignItems:flex-start | gap:12px
+                <a "InstagramLogo" href=https://instagram.com> [62,8300,28,28] block/relative
+                  cursor:pointer | aspectRatio:1 / 1
+                  <div "Vector"> [65,8303,23,23] block/absolute
+                    top:3px | right:2px | bottom:2px | left:3px | cursor:pointer
+                    <div> [65,8303,23,23] block
+                      cursor:pointer
+                      <svg> [65,8303,23,23] block
+                        SVG: <svg style="width:100%;height:100%;"><use href="#svg9035771421"></use></svg>
+                        overflow:hidden | cursor:pointer
+                <a "LinkedinLogo" href=https://linkedin.com> [102,8300,28,28] block/relative
+                  cursor:pointer | aspectRatio:1 / 1
+                  <div "Vector"> [104,8303,23,23] block/absolute
+                    top:2.5px | right:2.5px | bottom:2.5px | left:2.5px | cursor:pointer
+                    <div> [104,8303,23,23] block
+                      cursor:pointer
+                      <svg> [104,8303,23,23] block
+                        SVG: <svg style="width:100%;height:100%;"><use href="#svg11644242967"></use></svg>
+                        overflow:hidden | cursor:pointer
+                <a "PinterestLogo" href=https://pinterest.com> [142,8300,28,28] block/relative
+                  cursor:pointer | aspectRatio:1 / 1
+                  <div "Vector"> [145,8302,23,23] block/absolute
+                    top:2px | right:2px | bottom:3px | left:3px | cursor:pointer
+                    <div> [145,8302,23,23] block
+                      cursor:pointer
+                      <svg> [145,8302,23,23] block
+                        SVG: <svg style="width:100%;height:100%;"><use href="#svg9129627201"></use></svg>
+                        overflow:hidden | cursor:pointer
+                <a "Behance" href=https://behance.com> [182,8300,28,28] block/relative
+                  overflow:clip | cursor:pointer
+                  <div "BehanceLogo"> [182,8300,28,28] block/absolute
+                    cursor:pointer
+                    <div> [182,8300,28,28] block
+                      cursor:pointer
+                      <svg> [182,8300,28,28] block
+                        SVG: <svg style="width:100%;height:100%;"><use href="#svg9337057605"></use></svg>
+                        overflow:hidden | cursor:pointer
+            <div "Address"> [396,8276,324,46] flex/relative/column
+              flexDirection:column | justifyContent:center | alignItems:flex-start | gap:6px | flex:1 0 0px
+              <div "Address"> [396,8276,59,24] flex/relative/column
+                whiteSpace:pre | flexDirection:column | justifyContent:flex-start
+                <p> [396,8276,59,24] block
+                  TEXT: "Address" ff="Inter Display"
+                  fontSize:16px | fontWeight:500 | lineHeight:24px | color:rgb(79, 71, 66) | whiteSpace:pre-wrap
+              <div> [396,8306,324,16] flex/relative/column
+                whiteSpace:pre-wrap | flexDirection:column | justifyContent:flex-start
+                <p> [396,8306,324,16] block
+                  TEXT: "Dubai-based architecture and interior design studio" ff="Inter Display"
+                  fontSize:12px | fontWeight:500 | lineHeight:15.6px | letterSpacing:-0.3px | color:rgb(79, 71, 66) | textTransform:capitalize | whiteSpace:pre-wrap
+      <div "Right Side"> [720,7591,658,737] flex/relative/column
+        flexDirection:column | justifyContent:center | alignItems:flex-start | gap:56px | flex:1 0 0px | overflow:clip
+        <form> [720,7591,658,737] flex/relative/column
+          FORM: {"name":"","ariaLabel":null}
+          flexDirection:column | justifyContent:flex-start | alignItems:flex-start | gap:28px | overflow:hidden
+          <div "Enter Your Details"> [720,7591,150,24] flex/relative/column
+            whiteSpace:pre | flexDirection:column | justifyContent:flex-start
+            <p> [720,7591,150,24] block
+              TEXT: "Enter Your Details" ff="Inter Display"
+              fontSize:20px | fontWeight:500 | lineHeight:24px | letterSpacing:-0.4px | color:rgb(79, 71, 66) | whiteSpace:pre-wrap
+          <div "Form-List"> [720,7643,658,685] flex/relative/column
+            flexDirection:column | justifyContent:center | alignItems:flex-start | gap:24px
+            <div "Name"> [720,7643,658,55] flex/relative
+              padding:12px 0px 16px | alignItems:center | overflow:hidden | transition:background 0.3s cubic-bezier(0.44, 0, 0.56, 1), box-shadow 0.3s cubic-bezier(0.44, 0, 0.56, 1)
+              <input> [720,7655,658,27] block
+                FORM: {"type":"text","name":"Name","placeholder":"Full Name","value":"","required":true,"ariaLabel":null}
+                letterSpacing:-0.3px | flex:1 1 0% | flexBasis:0% | overflow:clip | cursor:text
+            <div "Email"> [720,7722,658,55] flex/relative
+              padding:12px 0px 16px | alignItems:center | overflow:hidden | transition:background 0.3s cubic-bezier(0.44, 0, 0.56, 1), box-shadow 0.3s cubic-bezier(0.44, 0, 0.56, 1)
+              <input> [720,7734,658,27] block
+                FORM: {"type":"email","name":"Email","placeholder":"Email","value":"","required":true,"ariaLabel":null}
+                letterSpacing:-0.3px | flex:1 1 0% | flexBasis:0% | overflow:clip | cursor:text
+            <div "Phone Number"> [720,7801,658,55] flex/relative
+              padding:12px 0px 16px | alignItems:center | overflow:hidden | transition:background 0.3s cubic-bezier(0.44, 0, 0.56, 1), box-shadow 0.3s cubic-bezier(0.44, 0, 0.56, 1)
+              <input> [720,7813,658,27] block
+                FORM: {"type":"tel","name":"Phone Number","placeholder":"Phone Number","value":"","required":true,"ariaLabel":null}
+                letterSpacing:-0.3px | flex:1 1 0% | flexBasis:0% | overflow:clip | cursor:text
+            <label> [720,7880,658,48] flex/relative/column
+              FORM: {"ariaLabel":null}
+              flexDirection:column | justifyContent:flex-start | alignItems:flex-start | gap:10px | cursor:default
+              <div> [720,7880,658,48] block/relative
+                overflow:hidden | transition:background, box-shadow | cursor:default
+                <select> [720,7880,658,48] inline-block
+                  FORM: {"type":"select-one","name":"Location","value":"Architectural","required":true,"ariaLabel":null} opts=["Select Service...","Architectural","Interior Design","Renovation & Remodeling","3D Visualization","Space Planning","Construction Consultation"]
+                  padding:12px 0px 16px | alignItems:center | overflow:clip | cursor:default
+                  <option> [0,0,0,0] block
+                    TEXT: "Select Service..." ff=Inter
+                    fontSize:17px | fontWeight:400 | lineHeight:20.4px | color:rgba(0, 0, 0, 0.4) | padding:0px 2px 1px | minWidth:24px | minHeight:24px | alignItems:center | gap:8.5px | cursor:default
+                  <option> [0,0,0,0] block
+                    TEXT: "Architectural" ff=Inter
+                    fontSize:17px | fontWeight:400 | lineHeight:20.4px | color:rgb(0, 0, 0) | padding:0px 2px 1px | minWidth:24px | minHeight:24px | alignItems:center | gap:8.5px | cursor:default
+                  <option> [0,0,0,0] block
+                    TEXT: "Interior Design" ff=Inter
+                    fontSize:17px | fontWeight:400 | lineHeight:20.4px | color:rgb(0, 0, 0) | padding:0px 2px 1px | minWidth:24px | minHeight:24px | alignItems:center | gap:8.5px | cursor:default
+                  <option> [0,0,0,0] block
+                    TEXT: "Renovation & Remodeling" ff=Inter
+                    fontSize:17px | fontWeight:400 | lineHeight:20.4px | color:rgb(0, 0, 0) | padding:0px 2px 1px | minWidth:24px | minHeight:24px | alignItems:center | gap:8.5px | cursor:default
+                  <option> [0,0,0,0] block
+                    TEXT: "3D Visualization" ff=Inter
+                    fontSize:17px | fontWeight:400 | lineHeight:20.4px | color:rgb(0, 0, 0) | padding:0px 2px 1px | minWidth:24px | minHeight:24px | alignItems:center | gap:8.5px | cursor:default
+                  <option> [0,0,0,0] block
+                    TEXT: "Space Planning" ff=Inter
+                    fontSize:17px | fontWeight:400 | lineHeight:20.4px | color:rgb(0, 0, 0) | padding:0px 2px 1px | minWidth:24px | minHeight:24px | alignItems:center | gap:8.5px | cursor:default
+                  <option> [0,0,0,0] block
+                    TEXT: "Construction Consultation" ff=Inter
+                    fontSize:17px | fontWeight:400 | lineHeight:20.4px | color:rgb(0, 0, 0) | padding:0px 2px 1px | minWidth:24px | minHeight:24px | alignItems:center | gap:8.5px | cursor:default
+            <div "Attending"> [720,7952,658,76] block/relative
+              <section> [720,7952,658,76] flex/relative/column
+                backgroundColor:rgba(255, 255, 255, 0) | flexDirection:column | justifyContent:flex-start | gap:16px
+                <div> [720,7952,658,20] block/relative
+                  letterSpacing:-0.17px
+                  <span> [720,7952,99,20] inline-block
+                    TEXT: "Project Type" ff=Inter
+                    fontSize:17px | fontWeight:400 | lineHeight:20.4px | letterSpacing:-0.17px | color:rgb(107, 107, 107) | maxWidth:100%
+                <div> [720,7989,658,40] flex/relative
+                  flexWrap:wrap | gap:16px
+                  <button> [720,7989,321,40] flex/relative
+                    FORM: {"type":"button","name":"","value":"","ariaLabel":null}
+                    letterSpacing:-0.14px | textAlign:center | backgroundColor:rgba(79, 71, 66, 0.12) | padding:0px 14px | justifyContent:center | alignItems:center | flex:0 0 calc(50% - 8px) | flexBasis:calc(50% - 8px) | borderRadius:999px | border:1px solid rgba(79, 71, 66, 0.16) | borderTop:1px solid rgba(79, 71, 66, 0.16) | borderBottom:1px solid rgba(79, 71, 66, 0.16) | borderLeft:1px solid rgba(79, 71, 66, 0.16) | borderRight:1px solid rgba(79, 71, 66, 0.16) | transition:background-color 0.18s, border-color 0.18s, color 0.18s, transform 0.12s | cursor:pointer
+                    <input> [881,8010,1,1] block/absolute
+                      FORM: {"type":"radio","name":"Project Type","placeholder":"","value":"Residential","required":false,"ariaLabel":null}
+                      margin:3px 3px 0px 5px | top:17px | right:155.109px | bottom:17px | left:155.109px | cursor:default
+                    <span> [845,8002,72,14] block
+                      TEXT: "Residential" ff=Inter
+                      fontSize:14px | fontWeight:500 | lineHeight:14px | letterSpacing:-0.14px | color:rgb(79, 71, 66) | textAlign:center | maxWidth:100% | overflow:hidden | cursor:pointer
+                  <button> [1057,7989,321,40] flex/relative
+                    FORM: {"type":"button","name":"","value":"","ariaLabel":null}
+                    letterSpacing:-0.14px | textAlign:center | backgroundColor:rgba(79, 71, 66, 0.12) | padding:0px 14px | justifyContent:center | alignItems:center | flex:0 0 calc(50% - 8px) | flexBasis:calc(50% - 8px) | borderRadius:999px | border:1px solid rgba(79, 71, 66, 0.16) | borderTop:1px solid rgba(79, 71, 66, 0.16) | borderBottom:1px solid rgba(79, 71, 66, 0.16) | borderLeft:1px solid rgba(79, 71, 66, 0.16) | borderRight:1px solid rgba(79, 71, 66, 0.16) | transition:background-color 0.18s, border-color 0.18s, color 0.18s, transform 0.12s | cursor:pointer
+                    <input> [1218,8010,1,1] block/absolute
+                      FORM: {"type":"radio","name":"Project Type","placeholder":"","value":"Commercial","required":false,"ariaLabel":null}
+                      margin:3px 3px 0px 5px | top:17px | right:155.109px | bottom:17px | left:155.109px | cursor:default
+                    <span> [1179,8002,79,14] block
+                      TEXT: "Commercial" ff=Inter
+                      fontSize:14px | fontWeight:500 | lineHeight:14px | letterSpacing:-0.14px | color:rgb(79, 71, 66) | textAlign:center | maxWidth:100% | overflow:hidden | cursor:pointer
+            <div "Your Location"> [720,8053,658,55] flex/relative
+              padding:12px 0px 16px | alignItems:center | overflow:hidden | transition:background 0.3s cubic-bezier(0.44, 0, 0.56, 1), box-shadow 0.3s cubic-bezier(0.44, 0, 0.56, 1)
+              <input> [720,8065,658,27] block
+                FORM: {"type":"text","name":"Location","placeholder":"Your Location","value":"","required":true,"ariaLabel":null}
+                letterSpacing:-0.3px | flex:1 1 0% | flexBasis:0% | overflow:clip | cursor:text
+            <div "Attending"> [720,8132,658,132] block/relative
+              <section> [720,8132,658,132] flex/relative/column
+                backgroundColor:rgba(255, 255, 255, 0) | flexDirection:column | justifyContent:flex-start | gap:16px
+                <div> [720,8132,658,20] block/relative
+                  letterSpacing:-0.17px
+                  <span> [720,8132,103,20] inline-block
+                    TEXT: "Project Scale" ff=Inter
+                    fontSize:17px | fontWeight:400 | lineHeight:20.4px | letterSpacing:-0.17px | color:rgb(107, 107, 107) | maxWidth:100%
+                <div> [720,8168,658,96] flex/relative
+                  flexWrap:wrap | gap:16px
+                  <button> [720,8168,321,40] flex/relative
+                    FORM: {"type":"button","name":"","value":"","ariaLabel":null}
+                    letterSpacing:-0.14px | textAlign:center | backgroundColor:rgba(79, 71, 66, 0.12) | padding:0px 14px | justifyContent:center | alignItems:center | flex:0 0 calc(50% - 8px) | flexBasis:calc(50% - 8px) | borderRadius:999px | border:1px solid rgba(79, 71, 66, 0.16) | borderTop:1px solid rgba(79, 71, 66, 0.16) | borderBottom:1px solid rgba(79, 71, 66, 0.16) | borderLeft:1px solid rgba(79, 71, 66, 0.16) | borderRight:1px solid rgba(79, 71, 66, 0.16) | transition:background-color 0.18s, border-color 0.18s, color 0.18s, transform 0.12s | cursor:pointer
+                    <input> [881,8189,1,1] block/absolute
+                      FORM: {"type":"radio","name":"Project Scale","placeholder":"","value":"< 2,500 sq ft","required":false,"ariaLabel":null}
+                      margin:3px 3px 0px 5px | top:17px | right:155.109px | bottom:17px | left:155.109px | cursor:default
+                    <span> [839,8181,84,14] block
+                      TEXT: "< 2,500 sq ft" ff=Inter
+                      fontSize:14px | fontWeight:500 | lineHeight:14px | letterSpacing:-0.14px | color:rgb(79, 71, 66) | textAlign:center | maxWidth:100% | overflow:hidden | cursor:pointer
+                  <button> [1057,8168,321,40] flex/relative
+                    FORM: {"type":"button","name":"","value":"","ariaLabel":null}
+                    letterSpacing:-0.14px | textAlign:center | backgroundColor:rgba(79, 71, 66, 0.12) | padding:0px 14px | justifyContent:center | alignItems:center | flex:0 0 calc(50% - 8px) | flexBasis:calc(50% - 8px) | borderRadius:999px | border:1px solid rgba(79, 71, 66, 0.16) | borderTop:1px solid rgba(79, 71, 66, 0.16) | borderBottom:1px solid rgba(79, 71, 66, 0.16) | borderLeft:1px solid rgba(79, 71, 66, 0.16) | borderRight:1px solid rgba(79, 71, 66, 0.16) | transition:background-color 0.18s, border-color 0.18s, color 0.18s, transform 0.12s | cursor:pointer
+                    <input> [1218,8189,1,1] block/absolute
+                      FORM: {"type":"radio","name":"Project Scale","placeholder":"","value":"2,500 – 10,000 sq ft","required":false,"ariaLabel":null}
+                      margin:3px 3px 0px 5px | top:17px | right:155.109px | bottom:17px | left:155.109px | cursor:default
+                    <span> [1153,8181,130,14] block
+                      TEXT: "2,500 – 10,000 sq ft" ff=Inter
+                      fontSize:14px | fontWeight:500 | lineHeight:14px | letterSpacing:-0.14px | color:rgb(79, 71, 66) | textAlign:center | maxWidth:100% | overflow:hidden | cursor:pointer
+                  <button> [720,8224,321,40] flex/relative
+                    FORM: {"type":"button","name":"","value":"","ariaLabel":null}
+                    letterSpacing:-0.14px | textAlign:center | backgroundColor:rgba(79, 71, 66, 0.12) | padding:0px 14px | justifyContent:center | alignItems:center | flex:0 0 calc(50% - 8px) | flexBasis:calc(50% - 8px) | borderRadius:999px | border:1px solid rgba(79, 71, 66, 0.16) | borderTop:1px solid rgba(79, 71, 66, 0.16) | borderBottom:1px solid rgba(79, 71, 66, 0.16) | borderLeft:1px solid rgba(79, 71, 66, 0.16) | borderRight:1px solid rgba(79, 71, 66, 0.16) | transition:background-color 0.18s, border-color 0.18s, color 0.18s, transform 0.12s | cursor:pointer
+                    <input> [881,8245,1,1] block/absolute
+                      FORM: {"type":"radio","name":"Project Scale","placeholder":"","value":"10,000 – 50,000 sq ft","required":false,"ariaLabel":null}
+                      margin:3px 3px 0px 5px | top:17px | right:155.109px | bottom:17px | left:155.109px | cursor:default
+                    <span> [811,8237,139,14] block
+                      TEXT: "10,000 – 50,000 sq ft" ff=Inter
+                      fontSize:14px | fontWeight:500 | lineHeight:14px | letterSpacing:-0.14px | color:rgb(79, 71, 66) | textAlign:center | maxWidth:100% | overflow:hidden | cursor:pointer
+                  <button> [1057,8224,321,40] flex/relative
+                    FORM: {"type":"button","name":"","value":"","ariaLabel":null}
+                    letterSpacing:-0.14px | textAlign:center | backgroundColor:rgba(79, 71, 66, 0.12) | padding:0px 14px | justifyContent:center | alignItems:center | flex:0 0 calc(50% - 8px) | flexBasis:calc(50% - 8px) | borderRadius:999px | border:1px solid rgba(79, 71, 66, 0.16) | borderTop:1px solid rgba(79, 71, 66, 0.16) | borderBottom:1px solid rgba(79, 71, 66, 0.16) | borderLeft:1px solid rgba(79, 71, 66, 0.16) | borderRight:1px solid rgba(79, 71, 66, 0.16) | transition:background-color 0.18s, border-color 0.18s, color 0.18s, transform 0.12s | cursor:pointer
+                    <input> [1218,8245,1,1] block/absolute
+                      FORM: {"type":"radio","name":"Project Scale","placeholder":"","value":"> 50,000 sq ft","required":false,"ariaLabel":null}
+                      margin:3px 3px 0px 5px | top:17px | right:155.109px | bottom:17px | left:155.109px | cursor:default
+                    <span> [1172,8237,93,14] block
+                      TEXT: "> 50,000 sq ft" ff=Inter
+                      fontSize:14px | fontWeight:500 | lineHeight:14px | letterSpacing:-0.14px | color:rgb(79, 71, 66) | textAlign:center | maxWidth:100% | overflow:hidden | cursor:pointer
+            <div> [720,8288,658,40] block/relative
+              <button "Default"> [720,8288,658,40] flex/relative
+                FORM: {"type":"submit","name":"","value":"","ariaLabel":null}
+                textAlign:center | backgroundColor:rgb(79, 71, 66) | justifyContent:center | alignItems:center | borderRadius:10px | cursor:pointer
+                <div> [1026,8300,46,17] flex/relative/column
+                  textAlign:center | whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                  <p> [1026,8300,46,17] block
+                    TEXT: "Submit" ff="Inter Display"
+                    fontSize:14px | fontWeight:600 | lineHeight:16.8px | color:rgb(255, 255, 255) | whiteSpace:pre | cursor:pointer
+          <input> [787,7601,0,0] block/absolute
+            FORM: {"type":"text","name":"website","placeholder":"","value":"","required":false,"ariaLabel":null}
+            backgroundColor:rgb(255, 255, 255) | padding:1px 2px | border:2px inset rgb(118, 118, 118) | borderTop:2px inset rgb(118, 118, 118) | borderBottom:2px inset rgb(118, 118, 118) | borderLeft:2px inset rgb(118, 118, 118) | borderRight:2px inset rgb(118, 118, 118) | overflow:clip | right:525.438px | bottom:717.195px | transform:matrix(0, 0, 0, 0, 0, 0) | cursor:text
+          <input> [787,7601,0,0] block/absolute
+            FORM: {"type":"text","name":"company","placeholder":"","value":"","required":false,"ariaLabel":null}
+            backgroundColor:rgb(255, 255, 255) | padding:1px 2px | border:2px inset rgb(118, 118, 118) | borderTop:2px inset rgb(118, 118, 118) | borderBottom:2px inset rgb(118, 118, 118) | borderLeft:2px inset rgb(118, 118, 118) | borderRight:2px inset rgb(118, 118, 118) | overflow:clip | right:525.438px | bottom:717.195px | transform:matrix(0, 0, 0, 0, 0, 0) | cursor:text
+          <input> [787,7601,0,0] block/absolute
+            FORM: {"type":"text","name":"message","placeholder":"","value":"","required":false,"ariaLabel":null}
+            backgroundColor:rgb(255, 255, 255) | padding:1px 2px | border:2px inset rgb(118, 118, 118) | borderTop:2px inset rgb(118, 118, 118) | borderBottom:2px inset rgb(118, 118, 118) | borderLeft:2px inset rgb(118, 118, 118) | borderRight:2px inset rgb(118, 118, 118) | overflow:clip | right:525.438px | bottom:717.195px | transform:matrix(0, 0, 0, 0, 0, 0) | cursor:text
+          <input> [787,7601,0,0] block/absolute
+            FORM: {"type":"text","name":"subject","placeholder":"","value":"","required":false,"ariaLabel":null}
+            backgroundColor:rgb(255, 255, 255) | padding:1px 2px | border:2px inset rgb(118, 118, 118) | borderTop:2px inset rgb(118, 118, 118) | borderBottom:2px inset rgb(118, 118, 118) | borderLeft:2px inset rgb(118, 118, 118) | borderRight:2px inset rgb(118, 118, 118) | overflow:clip | right:525.438px | bottom:717.195px | transform:matrix(0, 0, 0, 0, 0, 0) | cursor:text
+          <input> [787,7601,0,0] block/absolute
+            FORM: {"type":"text","name":"title","placeholder":"","value":"","required":false,"ariaLabel":null}
+            backgroundColor:rgb(255, 255, 255) | padding:1px 2px | border:2px inset rgb(118, 118, 118) | borderTop:2px inset rgb(118, 118, 118) | borderBottom:2px inset rgb(118, 118, 118) | borderLeft:2px inset rgb(118, 118, 118) | borderRight:2px inset rgb(118, 118, 118) | overflow:clip | right:525.438px | bottom:717.195px | transform:matrix(0, 0, 0, 0, 0, 0) | cursor:text
+          <input> [787,7601,0,0] block/absolute
+            FORM: {"type":"text","name":"description","placeholder":"","value":"","required":false,"ariaLabel":null}
+            backgroundColor:rgb(255, 255, 255) | padding:1px 2px | border:2px inset rgb(118, 118, 118) | borderTop:2px inset rgb(118, 118, 118) | borderBottom:2px inset rgb(118, 118, 118) | borderLeft:2px inset rgb(118, 118, 118) | borderRight:2px inset rgb(118, 118, 118) | overflow:clip | right:525.438px | bottom:717.195px | transform:matrix(0, 0, 0, 0, 0, 0) | cursor:text
+          <input> [787,7601,0,0] block/absolute
+            FORM: {"type":"text","name":"feedback","placeholder":"","value":"","required":false,"ariaLabel":null}
+            backgroundColor:rgb(255, 255, 255) | padding:1px 2px | border:2px inset rgb(118, 118, 118) | borderTop:2px inset rgb(118, 118, 118) | borderBottom:2px inset rgb(118, 118, 118) | borderLeft:2px inset rgb(118, 118, 118) | borderRight:2px inset rgb(118, 118, 118) | overflow:clip | right:525.438px | bottom:717.195px | transform:matrix(0, 0, 0, 0, 0, 0) | cursor:text
+          <input> [787,7601,0,0] block/absolute
+            FORM: {"type":"text","name":"notes","placeholder":"","value":"","required":false,"ariaLabel":null}
+            backgroundColor:rgb(255, 255, 255) | padding:1px 2px | border:2px inset rgb(118, 118, 118) | borderTop:2px inset rgb(118, 118, 118) | borderBottom:2px inset rgb(118, 118, 118) | borderLeft:2px inset rgb(118, 118, 118) | borderRight:2px inset rgb(118, 118, 118) | overflow:clip | right:525.438px | bottom:717.195px | transform:matrix(0, 0, 0, 0, 0, 0) | cursor:text
+          <input> [787,7601,0,0] block/absolute
+            FORM: {"type":"text","name":"details","placeholder":"","value":"","required":false,"ariaLabel":null}
+            backgroundColor:rgb(255, 255, 255) | padding:1px 2px | border:2px inset rgb(118, 118, 118) | borderTop:2px inset rgb(118, 118, 118) | borderBottom:2px inset rgb(118, 118, 118) | borderLeft:2px inset rgb(118, 118, 118) | borderRight:2px inset rgb(118, 118, 118) | overflow:clip | right:525.438px | bottom:717.195px | transform:matrix(0, 0, 0, 0, 0, 0) | cursor:text
+          <input> [787,7601,0,0] block/absolute
+            FORM: {"type":"text","name":"remarks","placeholder":"","value":"","required":false,"ariaLabel":null}
+            backgroundColor:rgb(255, 255, 255) | padding:1px 2px | border:2px inset rgb(118, 118, 118) | borderTop:2px inset rgb(118, 118, 118) | borderBottom:2px inset rgb(118, 118, 118) | borderLeft:2px inset rgb(118, 118, 118) | borderRight:2px inset rgb(118, 118, 118) | overflow:clip | right:525.438px | bottom:717.195px | transform:matrix(0, 0, 0, 0, 0, 0) | cursor:text
+          <input> [787,7601,0,0] block/absolute
+            FORM: {"type":"text","name":"comments","placeholder":"","value":"","required":false,"ariaLabel":null}
+            backgroundColor:rgb(255, 255, 255) | padding:1px 2px | border:2px inset rgb(118, 118, 118) | borderTop:2px inset rgb(118, 118, 118) | borderBottom:2px inset rgb(118, 118, 118) | borderLeft:2px inset rgb(118, 118, 118) | borderRight:2px inset rgb(118, 118, 118) | overflow:clip | right:525.438px | bottom:717.195px | transform:matrix(0, 0, 0, 0, 0, 0) | cursor:text

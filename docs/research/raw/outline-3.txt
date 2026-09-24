@@ -1,0 +1,455 @@
+<div "services-section" #services> [62,3200,1317,1255] flex/relative/column
+  flexDirection:column | justifyContent:center | alignItems:center | gap:56px | overflow:clip
+  <div "section-heading"> [457,3200,527,119] flex/relative/column
+    flexDirection:column | justifyContent:center | alignItems:center | gap:12px | overflow:clip
+    <div> [457,3200,527,56] flex/relative/column
+      whiteSpace:pre-wrap | flexDirection:column | justifyContent:flex-start
+      <h2> [457,3200,527,56] block
+        letterSpacing:-1.2px | textAlign:center | textTransform:capitalize | whiteSpace:pre-wrap
+        <span> [586,3204,80,49] inline
+          letterSpacing:-1.2px | textAlign:center | textTransform:capitalize
+          <span> [586,3200,29,56] inline-block
+            TEXT: "O" ff="Inter Display"
+            fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [615,3200,27,56] inline-block
+            TEXT: "u" ff="Inter Display"
+            fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [642,3200,24,56] inline-block
+            TEXT: "r" ff="Inter Display"
+            fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+        <span> [675,3204,179,49] inline
+          letterSpacing:-1.2px | textAlign:center | textTransform:capitalize
+          <span> [675,3200,24,56] inline-block
+            TEXT: "S" ff="Inter Display"
+            fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [699,3200,22,56] inline-block
+            TEXT: "e" ff="Inter Display"
+            fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [721,3200,24,56] inline-block
+            TEXT: "r" ff="Inter Display"
+            fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [745,3200,26,56] inline-block
+            TEXT: "v" ff="Inter Display"
+            fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [771,3200,8,56] inline-block
+            TEXT: "i" ff="Inter Display"
+            fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [780,3200,28,56] inline-block
+            TEXT: "c" ff="Inter Display"
+            fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [807,3200,22,56] inline-block
+            TEXT: "e" ff="Inter Display"
+            fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [830,3200,24,56] inline-block
+            TEXT: "s" ff="Inter Display"
+            fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+    <div> [509,3268,421,51] flex/relative/column
+      whiteSpace:pre-wrap | flexDirection:column | justifyContent:flex-start
+      <p> [509,3268,421,51] block
+        letterSpacing:-0.32px | textAlign:center | textTransform:capitalize | whiteSpace:pre-wrap
+        <span> [529,3271,97,20] inline
+          letterSpacing:-0.32px | textAlign:center | textTransform:capitalize
+          <span> [529,3268,9,26] inline-block
+            TEXT: "E" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [538,3268,11,26] inline-block
+            TEXT: "n" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [550,3268,11,26] inline-block
+            TEXT: "d" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [560,3268,7,26] inline-block
+            TEXT: "-" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [567,3268,10,26] inline-block
+            TEXT: "t" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [577,3268,12,26] inline-block
+            TEXT: "o" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [588,3268,7,26] inline-block
+            TEXT: "-" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [595,3268,9,26] inline-block
+            TEXT: "e" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [604,3268,11,26] inline-block
+            TEXT: "n" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [615,3268,11,26] inline-block
+            TEXT: "d" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+        <span> [629,3271,56,20] inline
+          letterSpacing:-0.32px | textAlign:center | textTransform:capitalize
+          <span> [629,3268,11,26] inline-block
+            TEXT: "d" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [640,3268,9,26] inline-block
+            TEXT: "e" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [649,3268,10,26] inline-block
+            TEXT: "s" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [659,3268,4,26] inline-block
+            TEXT: "i" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [663,3268,11,26] inline-block
+            TEXT: "g" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [674,3268,11,26] inline-block
+            TEXT: "n" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+        <span> [689,3271,73,20] inline
+          letterSpacing:-0.32px | textAlign:center | textTransform:capitalize
+          <span> [689,3268,10,26] inline-block
+            TEXT: "s" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [698,3268,9,26] inline-block
+            TEXT: "e" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [707,3268,10,26] inline-block
+            TEXT: "r" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [717,3268,10,26] inline-block
+            TEXT: "v" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [728,3268,4,26] inline-block
+            TEXT: "i" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [731,3268,11,26] inline-block
+            TEXT: "c" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [743,3268,9,26] inline-block
+            TEXT: "e" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [752,3268,10,26] inline-block
+            TEXT: "s" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+        <span> [765,3271,44,20] inline
+          letterSpacing:-0.32px | textAlign:center | textTransform:capitalize
+          <span> [765,3268,9,26] inline-block
+            TEXT: "f" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [774,3268,10,26] inline-block
+            TEXT: "r" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [784,3268,12,26] inline-block
+            TEXT: "o" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [795,3268,14,26] inline-block
+            TEXT: "m" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+        <span> [812,3271,74,20] inline
+          letterSpacing:-0.32px | textAlign:center | textTransform:capitalize
+          <span> [812,3268,11,26] inline-block
+            TEXT: "c" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [824,3268,12,26] inline-block
+            TEXT: "o" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [835,3268,11,26] inline-block
+            TEXT: "n" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [846,3268,11,26] inline-block
+            TEXT: "c" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [858,3268,9,26] inline-block
+            TEXT: "e" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [867,3268,10,26] inline-block
+            TEXT: "p" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [876,3268,10,26] inline-block
+            TEXT: "t" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+        <span> [889,3271,21,20] inline
+          letterSpacing:-0.32px | textAlign:center | textTransform:capitalize
+          <span> [889,3268,10,26] inline-block
+            TEXT: "t" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [899,3268,12,26] inline-block
+            TEXT: "o" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+        <span> [669,3297,103,20] inline
+          letterSpacing:-0.32px | textAlign:center | textTransform:capitalize
+          <span> [669,3294,11,26] inline-block
+            TEXT: "c" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [680,3294,12,26] inline-block
+            TEXT: "o" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [692,3294,14,26] inline-block
+            TEXT: "m" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [705,3294,10,26] inline-block
+            TEXT: "p" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [715,3294,8,26] inline-block
+            TEXT: "l" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [723,3294,9,26] inline-block
+            TEXT: "e" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [732,3294,10,26] inline-block
+            TEXT: "t" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [742,3294,4,26] inline-block
+            TEXT: "i" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [745,3294,12,26] inline-block
+            TEXT: "o" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [757,3294,11,26] inline-block
+            TEXT: "n" ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+          <span> [768,3294,3,26] inline-block
+            TEXT: "." ff="Inter Display"
+            fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+  <ul "service_list"> [62,3375,1317,1080] flex/relative/column
+    flexDirection:column | justifyContent:flex-start | alignItems:center | overflow:hidden
+    <div> [0,0,0,0] contents
+      <li #1xwjblo> [62,3375,1317,180] list-item/relative
+        <div "new variation"> [62,3375,1317,180] flex/relative
+          justifyContent:flex-end | alignItems:center | overflow:clip | cursor:pointer
+          <div "service_img"> [-218,3375,269,180] flex/absolute
+            justifyContent:center | alignItems:center | gap:10px | overflow:clip | top:90px | right:1327.88px | bottom:-90.0391px | left:-280px | transform:matrix(1, 0, 0, 1, 0, -90.0195) | cursor:pointer
+            <figure "img"> [-218,3375,269,180] block/relative
+              cursor:pointer | aspectRatio:1.49412 / 1
+              <div> [-218,3375,269,180] block/absolute
+                cursor:pointer
+                <img> [-218,3375,269,180] block
+                  IMG: xILzBC4T9dkW9g4SA2OKFCeCpWY.png alt=""
+                  overflow:clip | cursor:pointer | objectFit:cover | aspectRatio:auto 258 / 199
+          <div "service_text"> [62,3375,1317,180] flex/relative
+            padding:40px | justifyContent:space-between | alignItems:flex-start | flex:1 0 0px | overflow:clip | cursor:pointer
+            <div "content"> [102,3415,661,78] flex/relative/column
+              flexDirection:column | justifyContent:flex-start | alignItems:flex-start | gap:10px | overflow:clip | cursor:pointer
+              <div> [102,3415,661,44] flex/relative
+                justifyContent:center | alignItems:center | gap:10px | cursor:pointer
+                <div> [102,3415,661,44] flex/relative/column
+                  whiteSpace:pre-wrap | flexDirection:column | justifyContent:flex-start | flex:1 0 0px | cursor:pointer
+                  <h3> [102,3415,661,44] block
+                    TEXT: "Architectural" ff="Inter Display"
+                    fontSize:34px | fontWeight:400 | lineHeight:44.2px | letterSpacing:-0.4px | color:rgb(69, 62, 58) | textAlign:left | whiteSpace:pre-wrap | cursor:pointer
+              <div> [102,3470,661,23] flex/relative/column
+                whiteSpace:pre-wrap | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                <p> [102,3470,661,23] block
+                  TEXT: "Designing modern buildings that combine aesthetics, efficiency, and long-term value." ff="Inter Display"
+                  fontSize:18px | fontWeight:400 | lineHeight:23.4px | letterSpacing:-0.3px | color:rgb(69, 62, 58) | textAlign:left | whiteSpace:pre-wrap | cursor:pointer
+            <div "num"> [967,3415,371,100] flex/relative
+              maxWidth:30% | justifyContent:flex-end | alignItems:flex-start | gap:10px | flex:1 0 0px | overflow:clip | cursor:pointer
+              <div> [1306,3415,32,32] block/relative
+                cursor:pointer
+                <a "Default"> [1300,3409,44,44] flex/relative
+                  padding:8px | justifyContent:flex-start | alignItems:flex-start | gap:10px | borderRadius:50px | overflow:clip | transform:matrix(0.544639, 0.838671, -0.838671, 0.544639, 0, 0) | cursor:pointer
+                  <div "icon-container"> [1290,3420,44,36] flex/relative/column
+                    flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | cursor:pointer
+                    <div> [1311,3420,22,22] block/relative
+                      backgroundColor:rgb(79, 71, 66) | cursor:pointer | aspectRatio:1 / 1
+                    <div> [1290,3435,22,22] block/relative
+                      backgroundColor:rgb(79, 71, 66) | cursor:pointer | aspectRatio:1 / 1
+    <div> [0,0,0,0] contents
+      <li #1x3puqc> [62,3555,1317,180] list-item/relative
+        <div "new variation"> [62,3555,1317,180] flex/relative
+          justifyContent:flex-end | alignItems:center | overflow:clip | cursor:pointer
+          <div "service_img"> [-218,3555,269,180] flex/absolute
+            justifyContent:center | alignItems:center | gap:10px | overflow:clip | top:90px | right:1327.88px | bottom:-90.0391px | left:-280px | transform:matrix(1, 0, 0, 1, 0, -90.0195) | cursor:pointer
+            <figure "img"> [-218,3555,269,180] block/relative
+              cursor:pointer | aspectRatio:1.49412 / 1
+              <div> [-218,3555,269,180] block/absolute
+                cursor:pointer
+                <img> [-218,3555,269,180] block
+                  IMG: XvAPBw1t0Xzlyw7rz6xXH45yg.png alt=""
+                  overflow:clip | cursor:pointer | objectFit:cover | aspectRatio:auto 1377 / 768
+          <div "service_text"> [62,3555,1317,180] flex/relative
+            padding:40px | justifyContent:space-between | alignItems:flex-start | flex:1 0 0px | overflow:clip | cursor:pointer
+            <div "content"> [102,3595,661,78] flex/relative/column
+              flexDirection:column | justifyContent:flex-start | alignItems:flex-start | gap:10px | overflow:clip | cursor:pointer
+              <div> [102,3595,661,44] flex/relative
+                justifyContent:center | alignItems:center | gap:10px | cursor:pointer
+                <div> [102,3595,661,44] flex/relative/column
+                  whiteSpace:pre-wrap | flexDirection:column | justifyContent:flex-start | flex:1 0 0px | cursor:pointer
+                  <h3> [102,3595,661,44] block
+                    TEXT: "Interior Design" ff="Inter Display"
+                    fontSize:34px | fontWeight:400 | lineHeight:44.2px | letterSpacing:-0.4px | color:rgb(69, 62, 58) | textAlign:left | whiteSpace:pre-wrap | cursor:pointer
+              <div> [102,3650,661,23] flex/relative/column
+                whiteSpace:pre-wrap | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                <p> [102,3650,661,23] block
+                  TEXT: "Creating refined interiors through thoughtful materials, lighting, and spatial composition." ff="Inter Display"
+                  fontSize:18px | fontWeight:400 | lineHeight:23.4px | letterSpacing:-0.3px | color:rgb(69, 62, 58) | textAlign:left | whiteSpace:pre-wrap | cursor:pointer
+            <div "num"> [967,3595,371,100] flex/relative
+              maxWidth:30% | justifyContent:flex-end | alignItems:flex-start | gap:10px | flex:1 0 0px | overflow:clip | cursor:pointer
+              <div> [1306,3595,32,32] block/relative
+                cursor:pointer
+                <a "Default"> [1300,3589,44,44] flex/relative
+                  padding:8px | justifyContent:flex-start | alignItems:flex-start | gap:10px | borderRadius:50px | overflow:clip | transform:matrix(0.544639, 0.838671, -0.838671, 0.544639, 0, 0) | cursor:pointer
+                  <div "icon-container"> [1290,3600,44,36] flex/relative/column
+                    flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | cursor:pointer
+                    <div> [1311,3600,22,22] block/relative
+                      backgroundColor:rgb(79, 71, 66) | cursor:pointer | aspectRatio:1 / 1
+                    <div> [1290,3615,22,22] block/relative
+                      backgroundColor:rgb(79, 71, 66) | cursor:pointer | aspectRatio:1 / 1
+    <div> [0,0,0,0] contents
+      <li #1t178t0> [62,3735,1317,180] list-item/relative
+        <div "new variation"> [62,3735,1317,180] flex/relative
+          justifyContent:flex-end | alignItems:center | overflow:clip | cursor:pointer
+          <div "service_img"> [-218,3735,269,180] flex/absolute
+            justifyContent:center | alignItems:center | gap:10px | overflow:clip | top:90px | right:1327.88px | bottom:-90.0391px | left:-280px | transform:matrix(1, 0, 0, 1, 0, -90.0195) | cursor:pointer
+            <figure "img"> [-218,3735,269,180] block/relative
+              cursor:pointer | aspectRatio:1.49412 / 1
+              <div> [-218,3735,269,180] block/absolute
+                cursor:pointer
+                <img> [-218,3735,269,180] block
+                  IMG: 6YL1tAtmkIm3Mvy6fpHipVf7s.png alt=""
+                  overflow:clip | cursor:pointer | objectFit:cover | aspectRatio:auto 1376 / 768
+          <div "service_text"> [62,3735,1317,180] flex/relative
+            padding:40px | justifyContent:space-between | alignItems:flex-start | flex:1 0 0px | overflow:clip | cursor:pointer
+            <div "content"> [102,3775,661,78] flex/relative/column
+              flexDirection:column | justifyContent:flex-start | alignItems:flex-start | gap:10px | overflow:clip | cursor:pointer
+              <div> [102,3775,661,44] flex/relative
+                justifyContent:center | alignItems:center | gap:10px | cursor:pointer
+                <div> [102,3775,661,44] flex/relative/column
+                  whiteSpace:pre-wrap | flexDirection:column | justifyContent:flex-start | flex:1 0 0px | cursor:pointer
+                  <h3> [102,3775,661,44] block
+                    TEXT: "Renovation & Remodeling" ff="Inter Display"
+                    fontSize:34px | fontWeight:400 | lineHeight:44.2px | letterSpacing:-0.4px | color:rgb(69, 62, 58) | textAlign:left | whiteSpace:pre-wrap | cursor:pointer
+              <div> [102,3830,661,23] flex/relative/column
+                whiteSpace:pre-wrap | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                <p> [102,3830,661,23] block
+                  TEXT: "Transforming outdated spaces into modern and carefully designed environments" ff="Inter Display"
+                  fontSize:18px | fontWeight:400 | lineHeight:23.4px | letterSpacing:-0.3px | color:rgb(69, 62, 58) | textAlign:left | whiteSpace:pre-wrap | cursor:pointer
+            <div "num"> [967,3775,371,100] flex/relative
+              maxWidth:30% | justifyContent:flex-end | alignItems:flex-start | gap:10px | flex:1 0 0px | overflow:clip | cursor:pointer
+              <div> [1306,3775,32,32] block/relative
+                cursor:pointer
+                <a "Default"> [1300,3769,44,44] flex/relative
+                  padding:8px | justifyContent:flex-start | alignItems:flex-start | gap:10px | borderRadius:50px | overflow:clip | transform:matrix(0.544639, 0.838671, -0.838671, 0.544639, 0, 0) | cursor:pointer
+                  <div "icon-container"> [1290,3780,44,36] flex/relative/column
+                    flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | cursor:pointer
+                    <div> [1311,3780,22,22] block/relative
+                      backgroundColor:rgb(79, 71, 66) | cursor:pointer | aspectRatio:1 / 1
+                    <div> [1290,3795,22,22] block/relative
+                      backgroundColor:rgb(79, 71, 66) | cursor:pointer | aspectRatio:1 / 1
+    <div> [0,0,0,0] contents
+      <li #xp7qpz> [62,3915,1317,180] list-item/relative
+        <div "new variation"> [62,3915,1317,180] flex/relative
+          justifyContent:flex-end | alignItems:center | overflow:clip | cursor:pointer
+          <div "service_img"> [-218,3915,269,180] flex/absolute
+            justifyContent:center | alignItems:center | gap:10px | overflow:clip | top:90px | right:1327.88px | bottom:-90.0391px | left:-280px | transform:matrix(1, 0, 0, 1, 0, -90.0195) | cursor:pointer
+            <figure "img"> [-218,3915,269,180] block/relative
+              cursor:pointer | aspectRatio:1.49412 / 1
+              <div> [-218,3915,269,180] block/absolute
+                cursor:pointer
+                <img> [-218,3915,269,180] block
+                  IMG: HZFnCooJ4Nr7M2uNee0yvEoK7k.jpg alt=""
+                  overflow:clip | cursor:pointer | objectFit:cover | aspectRatio:auto 1080 / 1434
+          <div "service_text"> [62,3915,1317,180] flex/relative
+            padding:40px | justifyContent:space-between | alignItems:flex-start | flex:1 0 0px | overflow:clip | cursor:pointer
+            <div "content"> [102,3955,661,101] flex/relative/column
+              flexDirection:column | justifyContent:flex-start | alignItems:flex-start | gap:10px | overflow:clip | cursor:pointer
+              <div> [102,3955,661,44] flex/relative
+                justifyContent:center | alignItems:center | gap:10px | cursor:pointer
+                <div> [102,3955,661,44] flex/relative/column
+                  whiteSpace:pre-wrap | flexDirection:column | justifyContent:flex-start | flex:1 0 0px | cursor:pointer
+                  <h3> [102,3955,661,44] block
+                    TEXT: "3D Visualization" ff="Inter Display"
+                    fontSize:34px | fontWeight:400 | lineHeight:44.2px | letterSpacing:-0.4px | color:rgb(69, 62, 58) | textAlign:left | whiteSpace:pre-wrap | cursor:pointer
+              <div> [102,4010,661,47] flex/relative/column
+                whiteSpace:pre-wrap | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                <p> [102,4010,661,47] block
+                  TEXT: "High-quality visualizations that help clients clearly understand the design before construction begins." ff="Inter Display"
+                  fontSize:18px | fontWeight:400 | lineHeight:23.4px | letterSpacing:-0.3px | color:rgb(69, 62, 58) | textAlign:left | whiteSpace:pre-wrap | cursor:pointer
+            <div "num"> [967,3955,371,100] flex/relative
+              maxWidth:30% | justifyContent:flex-end | alignItems:flex-start | gap:10px | flex:1 0 0px | overflow:clip | cursor:pointer
+              <div> [1306,3955,32,32] block/relative
+                cursor:pointer
+                <a "Default"> [1300,3949,44,44] flex/relative
+                  padding:8px | justifyContent:flex-start | alignItems:flex-start | gap:10px | borderRadius:50px | overflow:clip | transform:matrix(0.544639, 0.838671, -0.838671, 0.544639, 0, 0) | cursor:pointer
+                  <div "icon-container"> [1290,3960,44,36] flex/relative/column
+                    flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | cursor:pointer
+                    <div> [1311,3960,22,22] block/relative
+                      backgroundColor:rgb(79, 71, 66) | cursor:pointer | aspectRatio:1 / 1
+                    <div> [1290,3975,22,22] block/relative
+                      backgroundColor:rgb(79, 71, 66) | cursor:pointer | aspectRatio:1 / 1
+    <div> [0,0,0,0] contents
+      <li #u931hh> [62,4095,1317,180] list-item/relative
+        <div "new variation"> [62,4095,1317,180] flex/relative
+          justifyContent:flex-end | alignItems:center | overflow:clip | cursor:pointer
+          <div "service_img"> [-218,4095,269,180] flex/absolute
+            justifyContent:center | alignItems:center | gap:10px | overflow:clip | top:90px | right:1327.88px | bottom:-90.0391px | left:-280px | transform:matrix(1, 0, 0, 1, 0, -90.0195) | cursor:pointer
+            <figure "img"> [-218,4095,269,180] block/relative
+              cursor:pointer | aspectRatio:1.49412 / 1
+              <div> [-218,4095,269,180] block/absolute
+                cursor:pointer
+                <img> [-218,4095,269,180] block
+                  IMG: yJOuZOIs8ZL0On3JA5nIXentk.jpg alt=""
+                  overflow:clip | cursor:pointer | objectFit:cover | aspectRatio:auto 864 / 864
+          <div "service_text"> [62,4095,1317,180] flex/relative
+            padding:40px | justifyContent:space-between | alignItems:flex-start | flex:1 0 0px | overflow:clip | cursor:pointer
+            <div "content"> [102,4135,661,78] flex/relative/column
+              flexDirection:column | justifyContent:flex-start | alignItems:flex-start | gap:10px | overflow:clip | cursor:pointer
+              <div> [102,4135,661,44] flex/relative
+                justifyContent:center | alignItems:center | gap:10px | cursor:pointer
+                <div> [102,4135,661,44] flex/relative/column
+                  whiteSpace:pre-wrap | flexDirection:column | justifyContent:flex-start | flex:1 0 0px | cursor:pointer
+                  <h3> [102,4135,661,44] block
+                    TEXT: "Space Planning" ff="Inter Display"
+                    fontSize:34px | fontWeight:400 | lineHeight:44.2px | letterSpacing:-0.4px | color:rgb(69, 62, 58) | textAlign:left | whiteSpace:pre-wrap | cursor:pointer
+              <div> [102,4190,661,23] flex/relative/column
+                whiteSpace:pre-wrap | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                <p> [102,4190,661,23] block
+                  TEXT: "Optimizing layouts to improve functionality, circulation, and spatial flow." ff="Inter Display"
+                  fontSize:18px | fontWeight:400 | lineHeight:23.4px | letterSpacing:-0.3px | color:rgb(69, 62, 58) | textAlign:left | whiteSpace:pre-wrap | cursor:pointer
+            <div "num"> [967,4135,371,100] flex/relative
+              maxWidth:30% | justifyContent:flex-end | alignItems:flex-start | gap:10px | flex:1 0 0px | overflow:clip | cursor:pointer
+              <div> [1306,4135,32,32] block/relative
+                cursor:pointer
+                <a "Default"> [1300,4129,44,44] flex/relative
+                  padding:8px | justifyContent:flex-start | alignItems:flex-start | gap:10px | borderRadius:50px | overflow:clip | transform:matrix(0.544639, 0.838671, -0.838671, 0.544639, 0, 0) | cursor:pointer
+                  <div "icon-container"> [1290,4140,44,36] flex/relative/column
+                    flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | cursor:pointer
+                    <div> [1311,4140,22,22] block/relative
+                      backgroundColor:rgb(79, 71, 66) | cursor:pointer | aspectRatio:1 / 1
+                    <div> [1290,4155,22,22] block/relative
+                      backgroundColor:rgb(79, 71, 66) | cursor:pointer | aspectRatio:1 / 1
+    <div> [0,0,0,0] contents
+      <li #ktx6oo> [62,4275,1317,180] list-item/relative
+        <div "new variation"> [62,4275,1317,180] flex/relative
+          justifyContent:flex-end | alignItems:center | overflow:clip | cursor:pointer
+          <div "service_img"> [-218,4275,269,180] flex/absolute
+            justifyContent:center | alignItems:center | gap:10px | overflow:clip | top:90px | right:1327.88px | bottom:-90.0391px | left:-280px | transform:matrix(1, 0, 0, 1, 0, -90.0195) | cursor:pointer
+            <figure "img"> [-218,4275,269,180] block/relative
+              cursor:pointer | aspectRatio:1.49412 / 1
+              <div> [-218,4275,269,180] block/absolute
+                cursor:pointer
+                <img> [-218,4275,269,180] block
+                  IMG: MhNlfvpNMNpvRZw6EG0mXPj9Qg.jpg alt=""
+                  overflow:clip | cursor:pointer | objectFit:cover | aspectRatio:auto 1080 / 1350
+          <div "service_text"> [62,4275,1317,180] flex/relative
+            padding:40px | justifyContent:space-between | alignItems:flex-start | flex:1 0 0px | overflow:clip | cursor:pointer
+            <div "content"> [102,4315,661,101] flex/relative/column
+              flexDirection:column | justifyContent:flex-start | alignItems:flex-start | gap:10px | overflow:clip | cursor:pointer
+              <div> [102,4315,661,44] flex/relative
+                justifyContent:center | alignItems:center | gap:10px | cursor:pointer
+                <div> [102,4315,661,44] flex/relative/column
+                  whiteSpace:pre-wrap | flexDirection:column | justifyContent:flex-start | flex:1 0 0px | cursor:pointer
+                  <h3> [102,4315,661,44] block
+                    TEXT: "Construction Consultation" ff="Inter Display"
+                    fontSize:34px | fontWeight:400 | lineHeight:44.2px | letterSpacing:-0.4px | color:rgb(69, 62, 58) | textAlign:left | whiteSpace:pre-wrap | cursor:pointer
+              <div> [102,4370,661,47] flex/relative/column
+                whiteSpace:pre-wrap | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                <p> [102,4370,661,47] block
+                  TEXT: "Professional guidance during construction to ensure the design vision is executed correctly." ff="Inter Display"
+                  fontSize:18px | fontWeight:400 | lineHeight:23.4px | letterSpacing:-0.3px | color:rgb(69, 62, 58) | textAlign:left | whiteSpace:pre-wrap | cursor:pointer
+            <div "num"> [967,4315,371,100] flex/relative
+              maxWidth:30% | justifyContent:flex-end | alignItems:flex-start | gap:10px | flex:1 0 0px | overflow:clip | cursor:pointer
+              <div> [1306,4315,32,32] block/relative
+                cursor:pointer
+                <a "Default"> [1300,4309,44,44] flex/relative
+                  padding:8px | justifyContent:flex-start | alignItems:flex-start | gap:10px | borderRadius:50px | overflow:clip | transform:matrix(0.544639, 0.838671, -0.838671, 0.544639, 0, 0) | cursor:pointer
+                  <div "icon-container"> [1290,4320,44,36] flex/relative/column
+                    flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | cursor:pointer
+                    <div> [1311,4320,22,22] block/relative
+                      backgroundColor:rgb(79, 71, 66) | cursor:pointer | aspectRatio:1 / 1
+                    <div> [1290,4335,22,22] block/relative
+                      backgroundColor:rgb(79, 71, 66) | cursor:pointer | aspectRatio:1 / 1

@@ -1,0 +1,263 @@
+<div "nav+hero section"> [12,12,1416,1314] flex/relative/column
+  flexDirection:column | justifyContent:flex-start | alignItems:center | gap:8px | overflow:clip
+  <div> [0,0,0,0] contents
+    <div> [12,12,1416,46] block/relative
+      <nav "desktop / light"> [12,12,1416,46] flex/relative
+        padding:12px | justifyContent:center | alignItems:center | gap:20px | backdropFilter:blur(3px)
+        <div "nav"> [24,18,1392,35] flex/relative
+          justifyContent:center | alignItems:center | gap:10px | flex:1 0 0px
+          <div "nav_wrapper"> [24,18,1392,35] flex/relative
+            justifyContent:center | alignItems:center | gap:20px | flex:1 0 0px
+            <div "nav-links-container"> [24,22,589,26] flex/relative
+              padding:2px | justifyContent:flex-start | alignItems:center | gap:32px | flex:1 0 0px | overflow:clip
+              <div> [26,24,116,22] block/relative
+                <a "Primary" href=./#design-process> [26,24,116,22] flex/relative
+                  padding:2px | justifyContent:flex-start | alignItems:flex-start | gap:10px | overflow:clip | cursor:pointer
+                  <div "text-wrapper"> [28,26,112,45] flex/relative/column
+                    padding:2px 0px | flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | cursor:pointer
+                    <div> [28,28,112,15] flex/relative/column
+                      whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                      <p> [28,28,112,15] block
+                        TEXT: "design process" ff="Inter Display"
+                        fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgb(79, 71, 66) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                    <div> [28,53,112,15] flex/relative/column
+                      whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                      <p> [28,53,112,15] block
+                        TEXT: "design process" ff="Inter Display"
+                        fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgb(79, 71, 66) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+              <div> [174,24,72,22] block/relative
+                <a "Primary" href=./projects> [174,24,72,22] flex/relative
+                  padding:2px | justifyContent:flex-start | alignItems:flex-start | gap:10px | overflow:clip | cursor:pointer
+                  <div "text-wrapper"> [176,26,68,45] flex/relative/column
+                    padding:2px 0px | flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | cursor:pointer
+                    <div> [176,28,68,15] flex/relative/column
+                      whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                      <p> [176,28,68,15] block
+                        TEXT: "projects" ff="Inter Display"
+                        fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgb(79, 71, 66) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                    <div> [176,53,68,15] flex/relative/column
+                      whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                      <p> [176,53,68,15] block
+                        TEXT: "projects" ff="Inter Display"
+                        fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgb(79, 71, 66) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+              <div> [278,24,66,22] block/relative
+                <a "Primary" href=./#services> [278,24,66,22] flex/relative
+                  padding:2px | justifyContent:flex-start | alignItems:flex-start | gap:10px | overflow:clip | cursor:pointer
+                  <div "text-wrapper"> [280,26,62,45] flex/relative/column
+                    padding:2px 0px | flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | cursor:pointer
+                    <div> [280,28,62,15] flex/relative/column
+                      whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                      <p> [280,28,62,15] block
+                        TEXT: "services" ff="Inter Display"
+                        fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgb(79, 71, 66) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                    <div> [280,53,62,15] flex/relative/column
+                      whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                      <p> [280,53,62,15] block
+                        TEXT: "services" ff="Inter Display"
+                        fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.4px | color:rgb(79, 71, 66) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+            <div "logo_wrapper"> [633,22,177,26] flex/relative
+              justifyContent:flex-start | alignItems:center | gap:20px
+              <a "logo" href=./> [633,22,177,26] flex/relative
+                justifyContent:flex-start | alignItems:center | gap:10px | overflow:hidden | cursor:pointer
+                <div "Logo"> [633,22,177,26] flex/relative/column
+                  whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                  <p> [633,22,177,26] block
+                    TEXT: "ArcSphere Studio" ff="Inter Display"
+                    fontSize:24px | fontWeight:400 | lineHeight:26.4px | letterSpacing:-0.4px | color:rgb(79, 71, 66) | whiteSpace:pre | cursor:pointer
+            <div "button_group"> [831,18,585,35] flex/relative
+              justifyContent:flex-end | alignItems:center | gap:10px | flex:1 0 0px
+              <div> [1298,18,118,35] block/relative
+                <a "NAv" href=./contact> [1298,18,118,35] flex/relative/column
+                  backgroundColor:rgb(79, 71, 66) | padding:6px 16px | flexDirection:column | justifyContent:center | alignItems:center | gap:10px | borderRadius:100px | overflow:hidden | cursor:pointer | backdropFilter:blur(5px)
+                  <div "text-inside"> [1314,24,86,23] flex/relative/column
+                    padding:3.5px 0px 3px | flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | overflow:hidden | cursor:pointer
+                    <div> [1314,27,86,17] flex/relative/column
+                      whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                      <p> [1314,27,86,17] block
+                        TEXT: "contact us" ff="Inter Display"
+                        fontSize:14px | fontWeight:500 | lineHeight:16.8px | letterSpacing:-0.2px | color:rgb(240, 235, 230) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                    <div> [1314,54,86,15] flex/relative/column
+                      whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                      <p> [1314,54,86,15] block
+                        TEXT: "contact us" ff="Inter Display"
+                        fontSize:14px | fontWeight:500 | lineHeight:15.4px | letterSpacing:-0.2px | color:rgb(240, 235, 230) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+  <header "hero-section" #hero> [12,66,1416,1260] flex/relative/column
+    flexDirection:column | justifyContent:flex-end | alignItems:center | gap:20px | overflow:clip
+    <div "hero"> [12,66,1416,1260] flex/relative/column
+      flexDirection:column | justifyContent:flex-start | alignItems:center
+      <div "hero_img-box"> [12,66,1416,810] flex/sticky
+        maxWidth:100% | justifyContent:center | alignItems:center | top:64px
+        <div "img-left"> [-323,296,250,350] flex/absolute
+          justifyContent:flex-start | alignItems:center | gap:10px | borderRadius:12px | overflow:hidden | top:405px | right:976px | bottom:-295px | left:-60px | zIndex:3 | transform:matrix(0.5, 0, 0, 0.5, -400, -350)
+          <figure "img-hero"> [-323,296,250,350] block/relative
+            flex:1 0 0px | borderRadius:12px
+            <div> [-323,296,250,350] block/absolute
+              borderRadius:12px
+              <img> [-323,296,250,350] block
+                IMG: JEOoI9AUjiorAUapWVh1gnkvdBI.png alt="Bathroom renovation"
+                borderRadius:12px | overflow:clip | objectFit:cover | aspectRatio:auto 1376 / 768
+        <div> [0,0,0,0] contents
+          <div "img-main"> [12,66,1416,810] flex/relative
+            justifyContent:center | alignItems:center | gap:10px | flex:1 0 0px | overflow:clip
+            <div "img-bg"> [12,66,1416,810] block/absolute
+              backgroundImage:linear-gradient(rgba(24, 24, 24, 0) 28%, rgba(24, 24, 24, 0.5) 92%) | borderRadius:12px
+            <div "img-bg"> [12,66,1416,810] block/absolute
+              backgroundColor:rgb(24, 24, 24) | borderRadius:12px | opacity:0.35
+            <div> [0,0,0,0] contents
+              <figure "img-hero"> [12,66,1416,810] block/relative
+                flex:1 0 0px | borderRadius:12px
+                <div> [12,66,1416,810] block/absolute
+                  borderRadius:12px
+                  <img> [12,66,1416,810] block
+                    IMG: vVqkA2phwOpc7kzAHksLgpPasxY.png alt="Bathroom renovation"
+                    borderRadius:12px | overflow:clip | objectFit:cover | aspectRatio:auto 1376 / 768
+        <div "img-right"> [1513,296,250,350] flex/absolute
+          justifyContent:center | alignItems:center | gap:10px | borderRadius:12px | overflow:clip | top:405px | right:-60px | bottom:-295px | left:976px | zIndex:3 | transform:matrix(0.5, 0, 0, 0.5, 400, -350)
+          <figure "img-hero"> [1513,296,250,350] block/relative
+            flex:1 0 0px | borderRadius:12px
+            <div> [1513,296,250,350] block/absolute
+              borderRadius:12px
+              <img> [1513,296,250,350] block
+                IMG: eJtReq8aEIEdVjdWqNPxJAANXJQ.jpg alt="Bathroom renovation"
+                borderRadius:12px | overflow:clip | objectFit:cover | aspectRatio:auto 1200 / 1361
+        <div> [0,0,0,0] contents
+          <div "hero_text-box"> [52,609,1336,207] flex/absolute/column
+            maxWidth:100% | flexDirection:column | justifyContent:flex-end | alignItems:flex-end | gap:30px | top:543px | right:40px | bottom:60px | left:40px
+            <div "text_wrapper"> [52,609,1336,176] flex/relative
+              justifyContent:space-between | alignItems:flex-end
+              <div "heading"> [52,609,750,176] flex/relative/column
+                maxWidth:750px | flexDirection:column | justifyContent:center | alignItems:flex-start | gap:10px | flex:1 0 0px
+                <div> [0,0,0,0] contents
+                  <div> [52,609,750,176] flex/relative/column
+                    whiteSpace:pre-wrap | flexDirection:column | justifyContent:flex-start
+                    <h1> [52,609,750,176] block
+                      letterSpacing:-3.2px | textAlign:left | whiteSpace:pre-wrap
+                      <span> [52,609,214,88] inline-block
+                        TEXT: "Where" ff="Inter Display"
+                        fontSize:80px | fontWeight:400 | lineHeight:88px | letterSpacing:-3.2px | color:rgb(240, 235, 230) | textAlign:left | whiteSpace:pre-wrap | filter:blur(0px)
+                      <span> [283,609,387,88] inline-block
+                        TEXT: "Architecture" ff="Inter Display"
+                        fontSize:80px | fontWeight:400 | lineHeight:88px | letterSpacing:-3.2px | color:rgb(240, 235, 230) | textAlign:left | whiteSpace:pre-wrap | filter:blur(0px)
+                      <span> [687,682,0,0] inline-block
+                        letterSpacing:-3.2px | textAlign:left | whiteSpace:pre-wrap | filter:blur(0px)
+                      <span> [704,682,0,0] inline-block
+                        letterSpacing:-3.2px | textAlign:left | whiteSpace:pre-wrap | filter:blur(0px)
+                      <span> [52,697,200,88] inline-block
+                        TEXT: "Meets" ff="Inter Display"
+                        fontSize:80px | fontWeight:400 | lineHeight:88px | letterSpacing:-3.2px | color:rgb(240, 235, 230) | textAlign:left | whiteSpace:pre-wrap | filter:blur(0px)
+                      <span> [269,697,357,88] inline-block
+                        TEXT: "Experience" ff="Inter Display"
+                        fontSize:80px | fontWeight:400 | lineHeight:88px | letterSpacing:-3.2px | color:rgb(240, 235, 230) | textAlign:left | whiteSpace:pre-wrap | filter:blur(0px)
+              <div> [0,0,0,0] contents
+                <div "btn" APPEAR> [1041,663,347,122] flex/relative/column
+                  maxWidth:26% | flexDirection:column | justifyContent:flex-start | alignItems:flex-start | gap:12px | flex:1 0 0px | zIndex:2
+                  <div "btn_wrapper"> [1041,663,347,122] flex/relative
+                    padding:8px 0px 0px | justifyContent:flex-end | alignItems:center | gap:15px
+                    <div "sub-heading"> [901,671,487,114] flex/relative/column
+                      padding:8px 0px 0px | flexDirection:column | justifyContent:center | alignItems:flex-start | gap:16px | overflow:clip
+                      <div> [901,679,487,42] flex/relative/column
+                        whiteSpace:pre-wrap | flexDirection:column | justifyContent:flex-start
+                        <p> [901,679,487,42] block
+                          letterSpacing:-0.3px | whiteSpace:pre-wrap
+                          <span> [901,679,42,21] inline-block
+                            TEXT: "Based" ff="Inter Display"
+                            fontSize:16px | fontWeight:400 | lineHeight:20.8px | letterSpacing:-0.3px | color:rgb(240, 235, 230) | whiteSpace:pre-wrap | filter:blur(0px)
+                          <span> [947,679,11,21] inline-block
+                            TEXT: "in" ff="Inter Display"
+                            fontSize:16px | fontWeight:400 | lineHeight:20.8px | letterSpacing:-0.3px | color:rgb(240, 235, 230) | whiteSpace:pre-wrap | filter:blur(0px)
+                          <span> [962,679,42,21] inline-block
+                            TEXT: "Dubai," ff="Inter Display"
+                            fontSize:16px | fontWeight:400 | lineHeight:20.8px | letterSpacing:-0.3px | color:rgb(240, 235, 230) | whiteSpace:pre-wrap | filter:blur(0px)
+                          <span> [1008,679,20,21] inline-block
+                            TEXT: "we" ff="Inter Display"
+                            fontSize:16px | fontWeight:400 | lineHeight:20.8px | letterSpacing:-0.3px | color:rgb(240, 235, 230) | whiteSpace:pre-wrap | filter:blur(0px)
+                          <span> [1031,679,45,21] inline-block
+                            TEXT: "design" ff="Inter Display"
+                            fontSize:16px | fontWeight:400 | lineHeight:20.8px | letterSpacing:-0.3px | color:rgb(240, 235, 230) | whiteSpace:pre-wrap | filter:blur(0px)
+                          <span> [1080,679,67,21] inline-block
+                            TEXT: "residential" ff="Inter Display"
+                            fontSize:16px | fontWeight:400 | lineHeight:20.8px | letterSpacing:-0.3px | color:rgb(240, 235, 230) | whiteSpace:pre-wrap | filter:blur(0px)
+                          <span> [1151,679,25,21] inline-block
+                            TEXT: "and" ff="Inter Display"
+                            fontSize:16px | fontWeight:400 | lineHeight:20.8px | letterSpacing:-0.3px | color:rgb(240, 235, 230) | whiteSpace:pre-wrap | filter:blur(0px)
+                          <span> [1180,679,78,21] inline-block
+                            TEXT: "commercial" ff="Inter Display"
+                            fontSize:16px | fontWeight:400 | lineHeight:20.8px | letterSpacing:-0.3px | color:rgb(240, 235, 230) | whiteSpace:pre-wrap | filter:blur(0px)
+                          <span> [1261,679,48,21] inline-block
+                            TEXT: "spaces" ff="Inter Display"
+                            fontSize:16px | fontWeight:400 | lineHeight:20.8px | letterSpacing:-0.3px | color:rgb(240, 235, 230) | whiteSpace:pre-wrap | filter:blur(0px)
+                          <span> [1313,679,26,21] inline-block
+                            TEXT: "that" ff="Inter Display"
+                            fontSize:16px | fontWeight:400 | lineHeight:20.8px | letterSpacing:-0.3px | color:rgb(240, 235, 230) | whiteSpace:pre-wrap | filter:blur(0px)
+                          <span> [901,700,48,21] inline-block
+                            TEXT: "elevate" ff="Inter Display"
+                            fontSize:16px | fontWeight:400 | lineHeight:20.8px | letterSpacing:-0.3px | color:rgb(240, 235, 230) | whiteSpace:pre-wrap | filter:blur(0px)
+                          <span> [952,700,28,21] inline-block
+                            TEXT: "how" ff="Inter Display"
+                            fontSize:16px | fontWeight:400 | lineHeight:20.8px | letterSpacing:-0.3px | color:rgb(240, 235, 230) | whiteSpace:pre-wrap | filter:blur(0px)
+                          <span> [984,700,46,21] inline-block
+                            TEXT: "people" ff="Inter Display"
+                            fontSize:16px | fontWeight:400 | lineHeight:20.8px | letterSpacing:-0.3px | color:rgb(240, 235, 230) | whiteSpace:pre-wrap | filter:blur(0px)
+                          <span> [1034,700,25,21] inline-block
+                            TEXT: "live," ff="Inter Display"
+                            fontSize:16px | fontWeight:400 | lineHeight:20.8px | letterSpacing:-0.3px | color:rgb(240, 235, 230) | whiteSpace:pre-wrap | filter:blur(0px)
+                          <span> [1062,700,36,21] inline-block
+                            TEXT: "work," ff="Inter Display"
+                            fontSize:16px | fontWeight:400 | lineHeight:20.8px | letterSpacing:-0.3px | color:rgb(240, 235, 230) | whiteSpace:pre-wrap | filter:blur(0px)
+                          <span> [1102,700,25,21] inline-block
+                            TEXT: "and" ff="Inter Display"
+                            fontSize:16px | fontWeight:400 | lineHeight:20.8px | letterSpacing:-0.3px | color:rgb(240, 235, 230) | whiteSpace:pre-wrap | filter:blur(0px)
+                          <span> [1131,700,50,21] inline-block
+                            TEXT: "interact" ff="Inter Display"
+                            fontSize:16px | fontWeight:400 | lineHeight:20.8px | letterSpacing:-0.3px | color:rgb(240, 235, 230) | whiteSpace:pre-wrap | filter:blur(0px)
+                          <span> [1184,700,28,21] inline-block
+                            TEXT: "with" ff="Inter Display"
+                            fontSize:16px | fontWeight:400 | lineHeight:20.8px | letterSpacing:-0.3px | color:rgb(240, 235, 230) | whiteSpace:pre-wrap | filter:blur(0px)
+                          <span> [1216,700,29,21] inline-block
+                            TEXT: "their" ff="Inter Display"
+                            fontSize:16px | fontWeight:400 | lineHeight:20.8px | letterSpacing:-0.3px | color:rgb(240, 235, 230) | whiteSpace:pre-wrap | filter:blur(0px)
+                          <span> [1249,700,83,21] inline-block
+                            TEXT: "environment" ff="Inter Display"
+                            fontSize:16px | fontWeight:400 | lineHeight:20.8px | letterSpacing:-0.3px | color:rgb(240, 235, 230) | whiteSpace:pre-wrap | filter:blur(0px)
+                      <div "buttons-container"> [901,737,386,48] flex/relative
+                        justifyContent:center | alignItems:center | gap:16px | overflow:clip
+                        <div> [901,737,164,48] block/relative
+                          <a "Variant 1" href=./projects> [901,737,164,48] flex/relative/column
+                            backgroundColor:rgb(240, 235, 230) | padding:10px 21px | flexDirection:column | justifyContent:center | alignItems:center | gap:10px | borderRadius:100px | overflow:hidden | cursor:pointer | backdropFilter:blur(5px)
+                            <div "text-inside"> [922,747,122,28] flex/relative/column
+                              padding:5px 0px | flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | overflow:hidden | cursor:pointer
+                              <div> [922,752,122,19] flex/relative/column
+                                whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                                <p> [922,752,122,19] block
+                                  TEXT: "View Projects" ff="Inter Display"
+                                  fontSize:16px | fontWeight:500 | lineHeight:19.2px | letterSpacing:-0.2px | color:rgb(79, 71, 66) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                              <div> [922,781,122,18] flex/relative/column
+                                whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                                <p> [922,781,122,18] block
+                                  TEXT: "View Projects" ff="Inter Display"
+                                  fontSize:16px | fontWeight:500 | lineHeight:17.6px | letterSpacing:-0.2px | color:rgb(79, 71, 66) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                        <div> [1081,737,205,48] block/relative
+                          <a "Variant 1" href=./contact> [1081,737,205,48] flex/relative/column
+                            backgroundColor:rgb(79, 71, 66) | padding:10px 21px | flexDirection:column | justifyContent:center | alignItems:center | gap:10px | borderRadius:100px | overflow:hidden | cursor:pointer | backdropFilter:blur(5px)
+                            <div "text-inside"> [1102,747,163,28] flex/relative/column
+                              padding:5px 0px | flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | overflow:hidden | cursor:pointer
+                              <div> [1102,752,163,19] flex/relative/column
+                                whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                                <p> [1102,752,163,19] block
+                                  TEXT: "book consultation" ff="Inter Display"
+                                  fontSize:16px | fontWeight:500 | lineHeight:19.2px | letterSpacing:-0.2px | color:rgb(240, 235, 230) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+                              <div> [1102,781,163,18] flex/relative/column
+                                whiteSpace:pre | flexDirection:column | justifyContent:flex-start | cursor:pointer
+                                <p> [1102,781,163,18] block
+                                  TEXT: "book consultation" ff="Inter Display"
+                                  fontSize:16px | fontWeight:500 | lineHeight:17.6px | letterSpacing:-0.2px | color:rgb(240, 235, 230) | textTransform:uppercase | whiteSpace:pre | cursor:pointer
+            <div "line_wrapper"> [52,815,1336,1] flex/relative
+              justifyContent:center | alignItems:center | overflow:clip
+              <div "line_right"> [52,815,668,1] flex/relative
+                justifyContent:center | alignItems:center | gap:10px | flex:1 0 0px | overflow:hidden
+                <div "line" APPEAR> [52,815,668,1] block/relative
+                  backgroundColor:rgb(240, 235, 230) | flex:1 0 0px
+              <div "line_left"> [720,815,668,1] flex/relative
+                justifyContent:center | alignItems:center | gap:10px | flex:1 0 0px | overflow:hidden
+                <div "line" APPEAR> [720,815,668,1] block/relative
+                  backgroundColor:rgb(240, 235, 230) | flex:1 0 0px

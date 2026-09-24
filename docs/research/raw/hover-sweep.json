@@ -1,0 +1,1236 @@
+{
+ "navLink": {
+  "target": {
+   "name": "Primary",
+   "cls": "framer-UQEbI framer-1doo2w6 framer-v-1doo2w6 frame",
+   "rect": [
+    174,
+    24,
+    72,
+    22
+   ]
+  },
+  "changes": []
+ },
+ "navCta": {
+  "target": {
+   "name": "NAv",
+   "cls": "framer-MZ6T4 framer-1ylpxfd framer-v-1ye9ddu frame",
+   "rect": [
+    1283,
+    18,
+    118,
+    35
+   ]
+  },
+  "changes": []
+ },
+ "heroBtn1": "ERR page.hover: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('[data-probe=\"heroBtn1\"]')\n    - locator resolved to <a tabindex=\"0\" href=\"./projects\" data-highlight=\"true\" data-probe=\"heroBtn1\" data-framer-name=\"Variant 1\" class=\"framer-MZ6T4 framer-1ylpxfd framer-v-1ylpxfd framer-mvooy\">…</a>\n  - attempting hover action\n    2 × waiting for element to be visible and stable\n      - element is visible and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div id=\"about-section\" class=\"framer-18emflw\" data-framer-name=\"about-section\">…</div> from <div class=\"framer-1qztcov\">…</div> subtree intercepts pointer events\n    - retrying hover action\n    - waiting 20ms\n    2 × waiting for element to be visible and stable\n      - element is visible and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div id=\"about-section\" class=\"framer-18emflw\" data-framer-name=\"about-section\">…</div> from <div class=\"framer-1qztcov\">…</div> subtree intercepts pointer events\n    - retrying hover action\n      - waiting 100ms\n    56 × waiting for element to be visible and stable\n       - element is visible and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div id=\"about-section\" class=\"framer-18emflw\" data-framer-name=\"about-section\">…</div> from <div class=\"framer-1qztcov\">…</div> subtree intercepts pointer events\n     - retrying hover action\n       - waiting 500ms\n",
+ "heroBtn2": "ERR page.hover: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('[data-probe=\"heroBtn2\"]')\n    - locator resolved to <a tabindex=\"0\" href=\"./contact\" data-highlight=\"true\" data-probe=\"heroBtn2\" data-framer-name=\"Variant 1\" class=\"framer-MZ6T4 framer-1ylpxfd framer-v-1ylpxfd framer-mvooy\">…</a>\n  - attempting hover action\n    2 × waiting for element to be visible and stable\n      - element is visible and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <img alt=\"\" width=\"810\" height=\"1035\" loading=\"lazy\" decoding=\"auto\" src=\"https://framerusercontent.com/images/GR6RzM6Itwx2wDtjwveRN43I.png?width=810&height=1035\" sizes=\"(min-width: 1440px) calc((100vw - 24px) * 0.2604), (min-width: 810px) and (max-width: 1439.98px) max(((100vw - 20px) * 0.93 - 24px) / 2, 1px), (max-width: 809.98px) calc((100vw - 16px) * 0.93)\" srcset=\"https://framerusercontent.com/images/GR6RzM6Itwx2wDtjwveRN43I.png?scale-down-to=1024&width=810&height=1035 801w,https://frameruserc…/> from <div class=\"framer-1qztcov\">…</div> subtree intercepts pointer events\n    - retrying hover action\n    - waiting 20ms\n    2 × waiting for element to be visible and stable\n      - element is visible and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <img alt=\"\" width=\"810\" height=\"1035\" loading=\"lazy\" decoding=\"auto\" src=\"https://framerusercontent.com/images/GR6RzM6Itwx2wDtjwveRN43I.png?width=810&height=1035\" sizes=\"(min-width: 1440px) calc((100vw - 24px) * 0.2604), (min-width: 810px) and (max-width: 1439.98px) max(((100vw - 20px) * 0.93 - 24px) / 2, 1px), (max-width: 809.98px) calc((100vw - 16px) * 0.93)\" srcset=\"https://framerusercontent.com/images/GR6RzM6Itwx2wDtjwveRN43I.png?scale-down-to=1024&width=810&height=1035 801w,https://frameruserc…/> from <div class=\"framer-1qztcov\">…</div> subtree intercepts pointer events\n    - retrying hover action\n      - waiting 100ms\n    56 × waiting for element to be visible and stable\n       - element is visible and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <img alt=\"\" width=\"810\" height=\"1035\" loading=\"lazy\" decoding=\"auto\" src=\"https://framerusercontent.com/images/GR6RzM6Itwx2wDtjwveRN43I.png?width=810&height=1035\" sizes=\"(min-width: 1440px) calc((100vw - 24px) * 0.2604), (min-width: 810px) and (max-width: 1439.98px) max(((100vw - 20px) * 0.93 - 24px) / 2, 1px), (max-width: 809.98px) calc((100vw - 16px) * 0.93)\" srcset=\"https://framerusercontent.com/images/GR6RzM6Itwx2wDtjwveRN43I.png?scale-down-to=1024&width=810&height=1035 801w,https://frameruserc…/> from <div class=\"framer-1qztcov\">…</div> subtree intercepts pointer events\n     - retrying hover action\n       - waiting 500ms\n",
+ "projectCard": {
+  "target": {
+   "name": "primary/small",
+   "cls": "framer-w4nfG framer-1bonj7q framer-v-sicwnp",
+   "rect": [
+    61,
+    2329,
+    424,
+    603
+   ]
+  },
+  "changes": [
+   {
+    "i": 2,
+    "tag": "a",
+    "name": "project-img",
+    "transition": "all",
+    "color": "rgb(0, 0, 0) -> rgb(0, 0, 238)",
+    "borderColor": "rgb(0, 0, 0) -> rgb(0, 0, 238)",
+    "width": "423.641px -> 436.344px",
+    "height": "511.797px -> 527.148px"
+   },
+   {
+    "i": 3,
+    "tag": "div",
+    "transition": "all",
+    "color": "rgb(0, 0, 0) -> rgb(0, 0, 238)",
+    "borderColor": "rgb(0, 0, 0) -> rgb(0, 0, 238)",
+    "width": "423.641px -> 436.344px",
+    "height": "511.797px -> 527.148px"
+   },
+   {
+    "i": 4,
+    "tag": "img",
+    "text": "",
+    "transition": "all",
+    "color": "rgb(0, 0, 0) -> rgb(0, 0, 238)",
+    "borderColor": "rgb(0, 0, 0) -> rgb(0, 0, 238)",
+    "width": "423.641px -> 436.344px",
+    "height": "511.797px -> 527.148px"
+   },
+   {
+    "i": 12,
+    "tag": "div",
+    "name": "underline",
+    "text": "",
+    "transition": "all",
+    "transform": "none -> matrix(1, 0, 0, 1, 0.648765, 0)",
+    "left": "-450px -> 0px",
+    "right": "450px -> 0px"
+   }
+  ]
+ },
+ "viewMoreBtn": {
+  "target": {
+   "name": "Variant 1",
+   "cls": "framer-OlMUc framer-u854oy framer-v-u854oy framer-",
+   "rect": [
+    625,
+    3059,
+    175,
+    29
+   ]
+  },
+  "changes": [
+   {
+    "i": 4,
+    "tag": "div",
+    "name": "underline",
+    "text": "",
+    "transition": "all",
+    "transform": "none -> matrix(1, 0, 0, 1, 0.645669, 0)",
+    "left": "-450px -> 0px",
+    "right": "450px -> 0px"
+   }
+  ]
+ },
+ "expertiseCard": {
+  "target": {
+   "name": "Desktop",
+   "cls": "framer-DkJO6 framer-1pnbqff framer-v-9dci45 framer",
+   "rect": [
+    61,
+    4743,
+    643,
+    603
+   ]
+  },
+  "changes": [
+   {
+    "i": 0,
+    "tag": "a",
+    "name": "Desktop",
+    "transition": "all",
+    "borderRadius": "8px -> 0px"
+   },
+   {
+    "i": 1,
+    "tag": "div",
+    "transition": "all",
+    "borderRadius": "8px -> 0px"
+   },
+   {
+    "i": 2,
+    "tag": "img",
+    "text": "",
+    "transition": "all",
+    "borderRadius": "8px -> 0px"
+   },
+   {
+    "i": 3,
+    "tag": "div",
+    "transition": "all",
+    "transform": "matrix(1, 0, 0, 1, -182.887, 0) -> matrix(1, 0, 0, 1, -175.48, 0)",
+    "width": "365.773px -> 350.961px",
+    "top": "-400px -> 229px",
+    "right": "-44.0391px -> -29.2266px",
+    "bottom": "856.602px -> 227.602px"
+   },
+   {
+    "i": 4,
+    "tag": "div",
+    "name": "title",
+    "transition": "all",
+    "width": "170.641px -> 159.758px"
+   },
+   {
+    "i": 5,
+    "tag": "p",
+    "text": "16+",
+    "transition": "all",
+    "width": "170.641px -> 159.758px"
+   },
+   {
+    "i": 6,
+    "tag": "div",
+    "name": "subtext",
+    "transition": "all",
+    "width": "365.773px -> 350.961px"
+   },
+   {
+    "i": 7,
+    "tag": "p",
+    "text": "Commercial Projects Done",
+    "transition": "all",
+    "width": "365.773px -> 350.961px"
+   },
+   {
+    "i": 8,
+    "tag": "div",
+    "name": "card-overlay",
+    "transition": "all",
+    "height": "146.805px -> 603px"
+   },
+   {
+    "i": 9,
+    "tag": "div",
+    "transition": "all",
+    "width": "642px -> 643.461px",
+    "height": "146.805px -> 64px",
+    "top": "0px -> 604px",
+    "bottom": "0px -> -65px"
+   },
+   {
+    "i": 10,
+    "tag": "div",
+    "name": "title",
+    "transition": "all",
+    "width": "331.133px -> 344.445px",
+    "height": "41.6016px -> 35.2031px"
+   },
+   {
+    "i": 11,
+    "tag": "p",
+    "text": "Commercial Design",
+    "transition": "all",
+    "width": "331.133px -> 344.445px",
+    "height": "41.6016px -> 35.2031px"
+   },
+   {
+    "i": 12,
+    "tag": "div",
+    "name": "subtext",
+    "transition": "all",
+    "height": "31.2031px -> 26.4062px"
+   },
+   {
+    "i": 13,
+    "tag": "p",
+    "text": "Functional and visually compel",
+    "transition": "all",
+    "height": "31.2031px -> 26.4062px"
+   }
+  ]
+ },
+ "processCard": {
+  "target": {
+   "name": "Variant 1",
+   "cls": "framer-c9ZvF framer-wmxs93 framer-v-wmxs93",
+   "rect": [
+    61,
+    5658,
+    320,
+    331
+   ]
+  },
+  "changes": [
+   {
+    "i": 3,
+    "tag": "div",
+    "name": "grid",
+    "transition": "all",
+    "width": "351.695px -> 319.727px",
+    "height": "364.094px -> 331px",
+    "left": "-15.7812px -> 0px",
+    "top": "366.906px -> 0px",
+    "right": "-16.1875px -> 0px",
+    "bottom": "-400px -> 0px"
+   },
+   {
+    "i": 4,
+    "tag": "div",
+    "transition": "all",
+    "left": "175.844px -> 159.859px",
+    "top": "182.047px -> 165.5px",
+    "right": "23.8516px -> 7.86719px",
+    "bottom": "-348.953px -> -365.5px"
+   },
+   {
+    "i": 5,
+    "tag": "div",
+    "text": "",
+    "transition": "all",
+    "backgroundColor": "rgb(240, 235, 230) -> rgba(240, 235, 230, 0.45)"
+   },
+   {
+    "i": 6,
+    "tag": "div",
+    "text": "",
+    "transition": "all",
+    "backgroundColor": "rgb(240, 235, 230) -> rgba(240, 235, 230, 0.45)"
+   },
+   {
+    "i": 7,
+    "tag": "div",
+    "transition": "all",
+    "left": "175.844px -> 159.859px",
+    "top": "182.047px -> 165.5px",
+    "right": "23.8516px -> 7.86719px",
+    "bottom": "-348.953px -> -365.5px"
+   },
+   {
+    "i": 8,
+    "tag": "div",
+    "text": "",
+    "transition": "all",
+    "backgroundColor": "rgb(240, 235, 230) -> rgba(240, 235, 230, 0.45)"
+   },
+   {
+    "i": 9,
+    "tag": "div",
+    "text": "",
+    "transition": "all",
+    "backgroundColor": "rgb(240, 235, 230) -> rgba(240, 235, 230, 0.45)"
+   },
+   {
+    "i": 10,
+    "tag": "div",
+    "text": "",
+    "transition": "all",
+    "transform": "matrix(1, 0, 0, 1, -153, -153) -> none",
+    "width": "306px -> 313px",
+    "height": "306px -> 313px",
+    "left": "175.844px -> 3.35938px",
+    "top": "182.047px -> 9px",
+    "right": "-130.148px -> 3.36719px",
+    "bottom": "-123.953px -> 9px"
+   },
+   {
+    "i": 11,
+    "tag": "div",
+    "transition": "all",
+    "width": "83.0156px -> 72.6406px",
+    "height": "19.2031px -> 16.7969px",
+    "left": "252.68px -> 231.086px",
+    "bottom": "328.891px -> 298.203px"
+   },
+   {
+    "i": 12,
+    "tag": "p",
+    "text": "RESEARCH",
+    "transition": "all",
+    "width": "83.0156px -> 72.6406px",
+    "height": "19.2031px -> 16.7969px"
+   },
+   {
+    "i": 13,
+    "tag": "div",
+    "transition": "all",
+    "top": "328.891px -> 295.797px",
+    "right": "319.742px -> 287.773px"
+   },
+   {
+    "i": 15,
+    "tag": "div",
+    "name": "Icon-container",
+    "transition": "all",
+    "transform": "matrix(1, 0, 0, 1, -159.863, 0) -> none",
+    "height": "72px -> 331px",
+    "left": "159.859px -> 0px",
+    "top": "0px -> -18px",
+    "right": "-159.859px -> 0px",
+    "bottom": "259px -> 18px"
+   },
+   {
+    "i": 19,
+    "tag": "div",
+    "name": "bottom-content",
+    "transition": "all",
+    "height": "89.5938px -> 155px"
+   },
+   {
+    "i": 23,
+    "tag": "div",
+    "name": "We begin by understanding your goals, requirements, and design vision.",
+    "transition": "all",
+    "transform": "none -> matrix(1, 0, 0, 1, -141, 0)",
+    "left": "0px -> 150.266px",
+    "top": "0px -> 184.203px",
+    "right": "0px -> -112.539px",
+    "bottom": "0px -> -58px"
+   }
+  ]
+ },
+ "footerLink": {
+  "target": {
+   "name": null,
+   "cls": "framer-text",
+   "rect": [
+    176,
+    28,
+    68,
+    15
+   ]
+  },
+  "changes": []
+ },
+ "submitBtn": {
+  "target": {
+   "name": null,
+   "cls": "",
+   "rect": [
+    712,
+    7989,
+    318,
+    40
+   ]
+  },
+  "changes": []
+ },
+ "svcItemTarget": {
+  "name": null,
+  "cls": "ssr-variant hidden-c3dmi hidden-hixcbz",
+  "rect": [
+   0,
+   7559,
+   0,
+   0
+  ]
+ },
+ "svcImgIdle": [
+  {
+   "rect": [
+    -219,
+    -3,
+    269,
+    180
+   ],
+   "pos": "absolute",
+   "opacity": "1",
+   "transform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "overflow": "clip",
+   "radius": "0px",
+   "style": "transform: translateY(-50%); opacity: 1;",
+   "parentName": "new variation",
+   "parentCls": "framer-cXmP0 framer-1bps2yc framer-v-1ky",
+   "parentPos": "relative",
+   "stripTransform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "stripStyle": "transform: translateY(-50%); opacity: 1;",
+   "imgs": [
+    {
+     "op": "1",
+     "top": -3,
+     "tr": "none"
+    }
+   ]
+  },
+  {
+   "rect": [
+    -219,
+    177,
+    269,
+    180
+   ],
+   "pos": "absolute",
+   "opacity": "1",
+   "transform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "overflow": "clip",
+   "radius": "0px",
+   "style": "transform: translateY(-50%); opacity: 1;",
+   "parentName": "new variation",
+   "parentCls": "framer-cXmP0 framer-1bps2yc framer-v-1ky",
+   "parentPos": "relative",
+   "stripTransform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "stripStyle": "transform: translateY(-50%); opacity: 1;",
+   "imgs": [
+    {
+     "op": "1",
+     "top": 177,
+     "tr": "none"
+    }
+   ]
+  },
+  {
+   "rect": [
+    -219,
+    357,
+    269,
+    180
+   ],
+   "pos": "absolute",
+   "opacity": "1",
+   "transform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "overflow": "clip",
+   "radius": "0px",
+   "style": "transform: translateY(-50%); opacity: 1;",
+   "parentName": "new variation",
+   "parentCls": "framer-cXmP0 framer-1bps2yc framer-v-1ky",
+   "parentPos": "relative",
+   "stripTransform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "stripStyle": "transform: translateY(-50%); opacity: 1;",
+   "imgs": [
+    {
+     "op": "1",
+     "top": 357,
+     "tr": "none"
+    }
+   ]
+  },
+  {
+   "rect": [
+    -219,
+    537,
+    269,
+    180
+   ],
+   "pos": "absolute",
+   "opacity": "1",
+   "transform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "overflow": "clip",
+   "radius": "0px",
+   "style": "transform: translateY(-50%); opacity: 1;",
+   "parentName": "new variation",
+   "parentCls": "framer-cXmP0 framer-1bps2yc framer-v-1ky",
+   "parentPos": "relative",
+   "stripTransform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "stripStyle": "transform: translateY(-50%); opacity: 1;",
+   "imgs": [
+    {
+     "op": "1",
+     "top": 537,
+     "tr": "none"
+    }
+   ]
+  },
+  {
+   "rect": [
+    -219,
+    717,
+    269,
+    180
+   ],
+   "pos": "absolute",
+   "opacity": "1",
+   "transform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "overflow": "clip",
+   "radius": "0px",
+   "style": "transform: translateY(-50%); opacity: 1;",
+   "parentName": "new variation",
+   "parentCls": "framer-cXmP0 framer-1bps2yc framer-v-1ky",
+   "parentPos": "relative",
+   "stripTransform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "stripStyle": "transform: translateY(-50%); opacity: 1;",
+   "imgs": [
+    {
+     "op": "1",
+     "top": 717,
+     "tr": "none"
+    }
+   ]
+  },
+  {
+   "rect": [
+    -219,
+    897,
+    269,
+    180
+   ],
+   "pos": "absolute",
+   "opacity": "1",
+   "transform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "overflow": "clip",
+   "radius": "0px",
+   "style": "transform: translateY(-50%); opacity: 1;",
+   "parentName": "new variation",
+   "parentCls": "framer-cXmP0 framer-1bps2yc framer-v-1ky",
+   "parentPos": "relative",
+   "stripTransform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "stripStyle": "transform: translateY(-50%); opacity: 1;",
+   "imgs": [
+    {
+     "op": "1",
+     "top": 897,
+     "tr": "none"
+    }
+   ]
+  }
+ ],
+ "svcImgHover1": [
+  {
+   "rect": [
+    61,
+    0,
+    269,
+    180
+   ],
+   "pos": "absolute",
+   "opacity": "1",
+   "transform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "overflow": "clip",
+   "radius": "0px",
+   "style": "transform: translateY(-50%); transform-origin: 50% 50% 0px;",
+   "parentName": "new/hover",
+   "parentCls": "framer-cXmP0 framer-1bps2yc framer-v-7ei",
+   "parentPos": "relative",
+   "stripTransform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "stripStyle": "transform: translateY(-50%); transform-origin: 50% 50% 0px;",
+   "imgs": [
+    {
+     "op": "1",
+     "top": 0,
+     "tr": "none"
+    }
+   ]
+  },
+  {
+   "rect": [
+    -219,
+    180,
+    269,
+    180
+   ],
+   "pos": "absolute",
+   "opacity": "1",
+   "transform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "overflow": "clip",
+   "radius": "0px",
+   "style": "transform: translateY(-50%); opacity: 1;",
+   "parentName": "new variation",
+   "parentCls": "framer-cXmP0 framer-1bps2yc framer-v-1ky",
+   "parentPos": "relative",
+   "stripTransform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "stripStyle": "transform: translateY(-50%); opacity: 1;",
+   "imgs": [
+    {
+     "op": "1",
+     "top": 180,
+     "tr": "none"
+    }
+   ]
+  },
+  {
+   "rect": [
+    -219,
+    360,
+    269,
+    180
+   ],
+   "pos": "absolute",
+   "opacity": "1",
+   "transform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "overflow": "clip",
+   "radius": "0px",
+   "style": "transform: translateY(-50%); opacity: 1;",
+   "parentName": "new variation",
+   "parentCls": "framer-cXmP0 framer-1bps2yc framer-v-1ky",
+   "parentPos": "relative",
+   "stripTransform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "stripStyle": "transform: translateY(-50%); opacity: 1;",
+   "imgs": [
+    {
+     "op": "1",
+     "top": 360,
+     "tr": "none"
+    }
+   ]
+  },
+  {
+   "rect": [
+    -219,
+    540,
+    269,
+    180
+   ],
+   "pos": "absolute",
+   "opacity": "1",
+   "transform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "overflow": "clip",
+   "radius": "0px",
+   "style": "transform: translateY(-50%); opacity: 1;",
+   "parentName": "new variation",
+   "parentCls": "framer-cXmP0 framer-1bps2yc framer-v-1ky",
+   "parentPos": "relative",
+   "stripTransform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "stripStyle": "transform: translateY(-50%); opacity: 1;",
+   "imgs": [
+    {
+     "op": "1",
+     "top": 540,
+     "tr": "none"
+    }
+   ]
+  },
+  {
+   "rect": [
+    -219,
+    720,
+    269,
+    180
+   ],
+   "pos": "absolute",
+   "opacity": "1",
+   "transform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "overflow": "clip",
+   "radius": "0px",
+   "style": "transform: translateY(-50%); opacity: 1;",
+   "parentName": "new variation",
+   "parentCls": "framer-cXmP0 framer-1bps2yc framer-v-1ky",
+   "parentPos": "relative",
+   "stripTransform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "stripStyle": "transform: translateY(-50%); opacity: 1;",
+   "imgs": [
+    {
+     "op": "1",
+     "top": 720,
+     "tr": "none"
+    }
+   ]
+  },
+  {
+   "rect": [
+    -219,
+    900,
+    269,
+    180
+   ],
+   "pos": "absolute",
+   "opacity": "1",
+   "transform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "overflow": "clip",
+   "radius": "0px",
+   "style": "transform: translateY(-50%); opacity: 1;",
+   "parentName": "new variation",
+   "parentCls": "framer-cXmP0 framer-1bps2yc framer-v-1ky",
+   "parentPos": "relative",
+   "stripTransform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "stripStyle": "transform: translateY(-50%); opacity: 1;",
+   "imgs": [
+    {
+     "op": "1",
+     "top": 900,
+     "tr": "none"
+    }
+   ]
+  }
+ ],
+ "svcItemHoverDiff": [
+  {
+   "i": 3,
+   "tag": "div",
+   "name": "service_img",
+   "transition": "all",
+   "left": "-280px -> 0px",
+   "right": "1313.93px -> 1033.93px"
+  },
+  {
+   "i": 7,
+   "tag": "div",
+   "name": "service_text",
+   "transition": "all",
+   "width": "1302.93px -> 1032.93px"
+  },
+  {
+   "i": 8,
+   "tag": "div",
+   "name": "content",
+   "transition": "all",
+   "height": "77.6016px -> 94px"
+  },
+  {
+   "i": 9,
+   "tag": "div",
+   "transition": "all",
+   "height": "44.2031px -> 40.7969px"
+  },
+  {
+   "i": 10,
+   "tag": "div",
+   "transition": "all",
+   "height": "44.2031px -> 40.7969px"
+  },
+  {
+   "i": 11,
+   "tag": "h3",
+   "text": "Architectural",
+   "transition": "all",
+   "color": "rgb(69, 62, 58) -> rgba(69, 62, 58, 0.8)",
+   "borderColor": "rgb(69, 62, 58) -> rgba(69, 62, 58, 0.8)",
+   "height": "44.2031px -> 40.7969px"
+  },
+  {
+   "i": 12,
+   "tag": "div",
+   "transition": "all",
+   "height": "23.3984px -> 43.2031px"
+  },
+  {
+   "i": 13,
+   "tag": "p",
+   "text": "Designing modern buildings tha",
+   "transition": "all",
+   "color": "rgb(69, 62, 58) -> rgba(69, 62, 58, 0.8)",
+   "borderColor": "rgb(69, 62, 58) -> rgba(69, 62, 58, 0.8)",
+   "height": "23.3984px -> 43.2031px"
+  },
+  {
+   "i": 14,
+   "tag": "div",
+   "name": "num",
+   "transition": "all",
+   "width": "366.875px -> 285.875px",
+   "height": "100px -> 32px"
+  },
+  {
+   "i": 16,
+   "tag": "a",
+   "name": "Default",
+   "transition": "all",
+   "borderRadius": "50px -> 156.25%"
+  }
+ ],
+ "svcImgHover1b": [
+  {
+   "rect": [
+    -219,
+    0,
+    269,
+    180
+   ],
+   "pos": "absolute",
+   "opacity": "1",
+   "transform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "overflow": "clip",
+   "radius": "0px",
+   "style": "transform: translateY(-50%); transform-origin: 50% 50% 0px;",
+   "parentName": "new variation",
+   "parentCls": "framer-cXmP0 framer-1bps2yc framer-v-1ky",
+   "parentPos": "relative",
+   "stripTransform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "stripStyle": "transform: translateY(-50%); transform-origin: 50% 50% 0px;",
+   "imgs": [
+    {
+     "op": "1",
+     "top": 0,
+     "tr": "none"
+    }
+   ]
+  },
+  {
+   "rect": [
+    -219,
+    180,
+    269,
+    180
+   ],
+   "pos": "absolute",
+   "opacity": "1",
+   "transform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "overflow": "clip",
+   "radius": "0px",
+   "style": "transform: translateY(-50%); opacity: 1;",
+   "parentName": "new variation",
+   "parentCls": "framer-cXmP0 framer-1bps2yc framer-v-1ky",
+   "parentPos": "relative",
+   "stripTransform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "stripStyle": "transform: translateY(-50%); opacity: 1;",
+   "imgs": [
+    {
+     "op": "1",
+     "top": 180,
+     "tr": "none"
+    }
+   ]
+  },
+  {
+   "rect": [
+    -219,
+    360,
+    269,
+    180
+   ],
+   "pos": "absolute",
+   "opacity": "1",
+   "transform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "overflow": "clip",
+   "radius": "0px",
+   "style": "transform: translateY(-50%); opacity: 1;",
+   "parentName": "new variation",
+   "parentCls": "framer-cXmP0 framer-1bps2yc framer-v-1ky",
+   "parentPos": "relative",
+   "stripTransform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "stripStyle": "transform: translateY(-50%); opacity: 1;",
+   "imgs": [
+    {
+     "op": "1",
+     "top": 360,
+     "tr": "none"
+    }
+   ]
+  },
+  {
+   "rect": [
+    -219,
+    540,
+    269,
+    180
+   ],
+   "pos": "absolute",
+   "opacity": "1",
+   "transform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "overflow": "clip",
+   "radius": "0px",
+   "style": "transform: translateY(-50%); opacity: 1;",
+   "parentName": "new variation",
+   "parentCls": "framer-cXmP0 framer-1bps2yc framer-v-1ky",
+   "parentPos": "relative",
+   "stripTransform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "stripStyle": "transform: translateY(-50%); opacity: 1;",
+   "imgs": [
+    {
+     "op": "1",
+     "top": 540,
+     "tr": "none"
+    }
+   ]
+  },
+  {
+   "rect": [
+    -219,
+    720,
+    269,
+    180
+   ],
+   "pos": "absolute",
+   "opacity": "1",
+   "transform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "overflow": "clip",
+   "radius": "0px",
+   "style": "transform: translateY(-50%); opacity: 1;",
+   "parentName": "new variation",
+   "parentCls": "framer-cXmP0 framer-1bps2yc framer-v-1ky",
+   "parentPos": "relative",
+   "stripTransform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "stripStyle": "transform: translateY(-50%); opacity: 1;",
+   "imgs": [
+    {
+     "op": "1",
+     "top": 720,
+     "tr": "none"
+    }
+   ]
+  },
+  {
+   "rect": [
+    -219,
+    900,
+    269,
+    180
+   ],
+   "pos": "absolute",
+   "opacity": "1",
+   "transform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "overflow": "clip",
+   "radius": "0px",
+   "style": "transform: translateY(-50%); opacity: 1;",
+   "parentName": "new variation",
+   "parentCls": "framer-cXmP0 framer-1bps2yc framer-v-1ky",
+   "parentPos": "relative",
+   "stripTransform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "stripStyle": "transform: translateY(-50%); opacity: 1;",
+   "imgs": [
+    {
+     "op": "1",
+     "top": 900,
+     "tr": "none"
+    }
+   ]
+  }
+ ],
+ "mouseAt": [
+  0,
+  0
+ ],
+ "svcImgHover3": [
+  {
+   "rect": [
+    -219,
+    0,
+    269,
+    180
+   ],
+   "pos": "absolute",
+   "opacity": "1",
+   "transform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "overflow": "clip",
+   "radius": "0px",
+   "style": "transform: translateY(-50%); transform-origin: 50% 50% 0px;",
+   "parentName": "new variation",
+   "parentCls": "framer-cXmP0 framer-1bps2yc framer-v-1ky",
+   "parentPos": "relative",
+   "stripTransform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "stripStyle": "transform: translateY(-50%); transform-origin: 50% 50% 0px;",
+   "imgs": [
+    {
+     "op": "1",
+     "top": 0,
+     "tr": "none"
+    }
+   ]
+  },
+  {
+   "rect": [
+    -219,
+    180,
+    269,
+    180
+   ],
+   "pos": "absolute",
+   "opacity": "1",
+   "transform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "overflow": "clip",
+   "radius": "0px",
+   "style": "transform: translateY(-50%); opacity: 1;",
+   "parentName": "new variation",
+   "parentCls": "framer-cXmP0 framer-1bps2yc framer-v-1ky",
+   "parentPos": "relative",
+   "stripTransform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "stripStyle": "transform: translateY(-50%); opacity: 1;",
+   "imgs": [
+    {
+     "op": "1",
+     "top": 180,
+     "tr": "none"
+    }
+   ]
+  },
+  {
+   "rect": [
+    61,
+    360,
+    269,
+    180
+   ],
+   "pos": "absolute",
+   "opacity": "1",
+   "transform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "overflow": "clip",
+   "radius": "0px",
+   "style": "transform: translateY(-50%); transform-origin: 50% 50% 0px;",
+   "parentName": "new/hover",
+   "parentCls": "framer-cXmP0 framer-1bps2yc framer-v-7ei",
+   "parentPos": "relative",
+   "stripTransform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "stripStyle": "transform: translateY(-50%); transform-origin: 50% 50% 0px;",
+   "imgs": [
+    {
+     "op": "1",
+     "top": 360,
+     "tr": "none"
+    }
+   ]
+  },
+  {
+   "rect": [
+    -219,
+    540,
+    269,
+    180
+   ],
+   "pos": "absolute",
+   "opacity": "1",
+   "transform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "overflow": "clip",
+   "radius": "0px",
+   "style": "transform: translateY(-50%); opacity: 1;",
+   "parentName": "new variation",
+   "parentCls": "framer-cXmP0 framer-1bps2yc framer-v-1ky",
+   "parentPos": "relative",
+   "stripTransform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "stripStyle": "transform: translateY(-50%); opacity: 1;",
+   "imgs": [
+    {
+     "op": "1",
+     "top": 540,
+     "tr": "none"
+    }
+   ]
+  },
+  {
+   "rect": [
+    -219,
+    720,
+    269,
+    180
+   ],
+   "pos": "absolute",
+   "opacity": "1",
+   "transform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "overflow": "clip",
+   "radius": "0px",
+   "style": "transform: translateY(-50%); opacity: 1;",
+   "parentName": "new variation",
+   "parentCls": "framer-cXmP0 framer-1bps2yc framer-v-1ky",
+   "parentPos": "relative",
+   "stripTransform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "stripStyle": "transform: translateY(-50%); opacity: 1;",
+   "imgs": [
+    {
+     "op": "1",
+     "top": 720,
+     "tr": "none"
+    }
+   ]
+  },
+  {
+   "rect": [
+    -219,
+    900,
+    269,
+    180
+   ],
+   "pos": "absolute",
+   "opacity": "1",
+   "transform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "overflow": "clip",
+   "radius": "0px",
+   "style": "transform: translateY(-50%); opacity: 1;",
+   "parentName": "new variation",
+   "parentCls": "framer-cXmP0 framer-1bps2yc framer-v-1ky",
+   "parentPos": "relative",
+   "stripTransform": "matrix(1, 0, 0, 1, 0, -90.0195)",
+   "stripStyle": "transform: translateY(-50%); opacity: 1;",
+   "imgs": [
+    {
+     "op": "1",
+     "top": 900,
+     "tr": "none"
+    }
+   ]
+  }
+ ],
+ "svcClick": {
+  "heightsBefore": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "heightsAfter": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "diff": [
+   {
+    "i": 1,
+    "tag": "li",
+    "transition": "all",
+    "width": "1302.93px -> 1316.88px"
+   },
+   {
+    "i": 2,
+    "tag": "div",
+    "name": "new variation",
+    "transition": "all",
+    "width": "1302.93px -> 1316.88px"
+   },
+   {
+    "i": 3,
+    "tag": "div",
+    "name": "service_img",
+    "transition": "all",
+    "right": "1313.93px -> 1327.88px"
+   },
+   {
+    "i": 7,
+    "tag": "div",
+    "name": "service_text",
+    "transition": "all",
+    "width": "1302.93px -> 1316.88px"
+   },
+   {
+    "i": 14,
+    "tag": "div",
+    "name": "num",
+    "transition": "all",
+    "width": "366.875px -> 371.062px"
+   }
+  ],
+  "textAfter": "ArchitecturalDesigning modern buildings that combine aesthetics, efficiency, and long-term value.",
+  "htmlAfter": "<div class=\"ssr-variant hidden-c3dmi hidden-hixcbz\" data-probe=\"svcItem\"><li class=\"framer-1xwjblo-container\" id=\"1xwjblo\"><div class=\"framer-cXmP0 framer-1bps2yc framer-v-1kynra0\" data-border=\"true\" data-framer-name=\"new variation\" data-highlight=\"true\" tabindex=\"0\" style=\"--border-bottom-width: 1px; --border-color: rgba(69, 62, 58, 0.5); --border-left-width: 0px; --border-right-width: 0px; --border-style: solid; --border-top-width: 0px; width: 100%; opacity: 1; transform: none; will-change: transform;\"><div class=\"framer-6ftn98\" data-framer-name=\"service_img\" style=\"transform: translateY(-50%); transform-origin: 50% 50% 0px;\"><figure as=\"figure\" class=\"framer-46dnb2\" data-framer-name=\"img\" style=\"transform: none; transform-origin: 50% 50% 0px;\"><div style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\" data-framer-background-image-wrapper=\"true\"><img decoding=\"auto\" loading=\"lazy\" width=\"258\" height=\"199\" src=\"https://framerusercontent.com/images/xILzBC4T9dkW9g4SA2OKFCeCpWY.png?width=258&amp;height=199\" alt=\"\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover\"></div></figure></div><div class=\"framer-1rx8ef1\" data-framer-name=\"service_text\" style=\"transform: none; transform-origin: 50% 50% 0px;\"><div class=\"framer-1oi6byv\" data-framer-name=\"content\" style=\"transform: none; transform-origin: 50% 50% 0px;\"><div class=\"framer-1134gew\" style=\"transform: none; transform-origin: 50% 50% 0px;\"><div class=\"framer-1u9t26p\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-a0htzi: rgb(69, 62, 58); --framer-paragraph-spacing: 0px; transform: none; will-change: auto; transform-origin: 50% 50% 0px;\"><h3 dir=\"auto\" class=\"framer-text\" style=\"--framer-font-size: 34px; --framer-letter-spacing: -0.4px; --framer-line-height: 130%; --framer-text-alignment: left; --framer-text-color: var(--extracted-a0htzi, rgb(69, 62, 58)); --font-selector: RlI7SW50ZXJEaXNwbGF5; --framer-font-family: &quot;Inter Display&quot;, &quot;Inter Display Placeholder&quot;, sans-serif;\">Architectural</h3></div></div><div class=\"framer-o5kfqz\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-r6o4lv: rgb(69, 62, 58); --framer-paragraph-spacing: 0px; transform: none; will-change: auto; transform-origin: 50% 50% 0px;\"><p dir=\"auto\" class=\"framer-text\" style=\"--framer-font-size: 18px; --framer-letter-spacing: -0.3px; --framer-line-height: 130%; --framer-text-alignment: left; --framer-text-color: var(--extracted-r6o4lv, rgb(69, 62, 58)); --font-selector: RlI7SW50ZXJEaXNwbGF5; --framer-font-family: &quot;Inter Display&quot;, &quot;Inter Display Placeholder&quot;, sans-serif;\">Designing modern buildings that combine aesthetics, efficiency, and long-term value.</p></div></div><div class=\"framer-w5vb8e\" data-framer-name=\"num\" style=\"transform: none; transform-origin: 50% 50% 0px;\"><div class=\"framer-f1b3f-container\" style=\"transform: none; transfo"
+ },
+ "revInitial": {
+  "texts": [
+   "What Our Clients Say",
+   "Real experiences from clients who trusted us with their spaces.",
+   "Game-Changing Experience",
+   "Working with Claryo brought clarity to decisions I’d delayed for months. Their structure and insights gave me the confid",
+   "Michael Turner",
+   "Founder & Business Consultant"
+  ],
+  "mainImg": "https://framerusercontent.com/images/uCxt73fPvlnB5kTHTnBcmT5QU.jpg?width=1200&height=1697",
+  "avatars": [
+   {
+    "op": "1",
+    "tr": "none",
+    "border": "0px none rgb(0, 0, 0)",
+    "outline": "rgb(0, 0, 0) none 3px",
+    "w": 272,
+    "style": "will-change: transform; opacity: 1; transform: none;",
+    "cursor": "auto",
+    "inner": [
+     {
+      "n": null,
+      "op": "1",
+      "bg": "rgba(0, 0, 0, 0)",
+      "br": "0px none rgb(0, 0, 0)",
+      "tr": "none"
+     },
+     {
+      "n": null,
+      "op": "1",
+      "bg": "rgba(0, 0, 0, 0)",
+      "br": "0px none rgb(0, 0, 0)",
+      "tr": "none"
+     },
+     {
+      "n": null,
+      "op": "1",
+      "bg": "rgba(0, 0, 0, 0)",
+      "br": "0px none rgb(0, 0, 0)",
+      "tr": "none"
+     },
+     {
+      "n": null,
+      "op": "0.7",
+      "bg": "rgba(0, 0, 0, 0)",
+      "br": "0px none rgb(0, 0, 0)",
+      "tr": "none"
+     },
+     {
+      "n": null,
+      "op": "1",
+      "bg": "rgba(0, 0, 0, 0)",
+      "br": "0px none rgb(0, 0, 0)",
+      "tr": "none"
+     },
+     {
+      "n": null,
+      "op": "1",
+      "bg": "rgba(0, 0, 0, 0)",
+      "br": "0px none rgb(0, 0, 0)",
+      "tr": "none"
+     }
+    ]
+   }
+  ]
+ },
+ "revAvatarCount": 1,
+ "revClicks": [],
+ "revErr": "elementHandle.click: Timeout 30000ms exceeded.\nCall log:\n  - attempting click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div class=\"framer-1wh102z\" data-framer-name=\"content\">…</div> from <div id=\"overlay\">…</div> subtree intercepts pointer events\n  - retrying click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div tabindex=\"0\" data-framer-portal-id=\"1xwjblo\" class=\"framer-HJnCY framer-9ZD4v framer-vjxT4 framer-yhtq59\"></div> from <div id=\"overlay\">…</div> subtree intercepts pointer events\n  - retrying click action\n    - waiting 20ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div class=\"framer-pngkib\" data-framer-name=\"content\">…</div> from <div id=\"overlay\">…</div> subtree intercepts pointer events\n  2 × retrying click action\n      - waiting 100ms\n      - waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div tabindex=\"0\" data-framer-portal-id=\"1xwjblo\" class=\"framer-HJnCY framer-9ZD4v framer-vjxT4 framer-yhtq59\"></div> from <div id=\"overlay\">…</div> subtree intercepts pointer events\n  13 × retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div tabindex=\"0\" data-framer-portal-id=\"1xwjblo\" class=\"framer-HJnCY framer-9ZD4v framer-vjxT4 framer-yhtq59\"></div> from <div id=\"overlay\">…</div> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div class=\"framer-pngkib\" data-framer-name=\"content\">…</div> from <div id=\"overlay\">…</div> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div tabindex=\"0\" data-framer-portal-id=\"1xwjblo\" class=\"framer-HJnCY framer-9ZD4v framer-vjxT4 framer-yhtq59\"></div> from <div id=\"overlay\">…</div> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div tabindex=\"0\" data-framer-portal-id=\"1xwjblo\" class=\"framer-HJnCY framer-9ZD4v framer-vjxT4 framer-yhtq59\"></div> from <div id=\"overlay\">…</div> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div tabindex=\"0\" data-framer-portal-id=\"1xwjblo\" class=\"framer-HJnCY framer-9ZD4v framer-vjxT4 framer-yhtq59\"></div> from <div id=\"overlay\">…</div> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div class=\"framer-pngkib\" data-framer-name=\"content\">…</div> from <div id=\"overlay\">…</div> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div tabindex=\"0\" data-framer-portal-id=\"1xwjblo\" class=\"framer-HJnCY framer-9ZD4v framer-vjxT4 framer-yhtq59\"></div> from <div id=\"overlay\">…</div> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n"
+}

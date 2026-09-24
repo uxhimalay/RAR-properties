@@ -1,0 +1,513 @@
+<div> [12,1438,1416,604] flex/relative/column
+  flexDirection:column | justifyContent:center | alignItems:center | gap:80px | overflow:clip
+  <div "about-section" #about-section> [62,1438,1317,493] flex/relative
+    justifyContent:space-between | alignItems:center | overflow:clip
+    <div "img-left"> [62,1438,369,493] flex/relative/column
+      flexDirection:column | justifyContent:flex-start | alignItems:center | gap:10px | overflow:clip
+      <div> [62,1438,369,394] block/relative
+        flex:0.8 0 0px | flexGrow:0.8 | borderRadius:8px
+        <div> [62,1438,369,394] block/absolute
+          borderRadius:8px
+          <img> [62,1438,369,394] block
+            IMG: wthfvP6tU9Aorh9kHe1fCtIJ6Lg.png alt=""
+            borderRadius:8px | overflow:clip | objectFit:cover | aspectRatio:auto 810 / 1002
+    <div "section-heading"> [488,1597,464,175] flex/relative/column
+      flexDirection:column | justifyContent:center | alignItems:center | gap:12px | overflow:clip
+      <div> [0,0,0,0] contents
+        <div> [488,1597,464,112] flex/relative/column
+          whiteSpace:pre-wrap | flexDirection:column | justifyContent:flex-start
+          <h2> [488,1597,464,112] block
+            letterSpacing:-1.2px | textAlign:center | textTransform:capitalize | whiteSpace:pre-wrap
+            <span> [526,1600,201,49] inline
+              letterSpacing:-1.2px | textAlign:center | textTransform:capitalize
+              <span> [526,1597,27,56] inline-block
+                TEXT: "D" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [553,1597,22,56] inline-block
+                TEXT: "e" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [575,1597,24,56] inline-block
+                TEXT: "s" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [599,1597,8,56] inline-block
+                TEXT: "i" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [607,1597,28,56] inline-block
+                TEXT: "g" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [636,1597,27,56] inline-block
+                TEXT: "n" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [663,1597,8,56] inline-block
+                TEXT: "i" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [671,1597,27,56] inline-block
+                TEXT: "n" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [699,1597,28,56] inline-block
+                TEXT: "g" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+            <span> [735,1600,179,49] inline
+              letterSpacing:-1.2px | textAlign:center | textTransform:capitalize
+              <span> [735,1597,24,56] inline-block
+                TEXT: "T" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [759,1597,8,56] inline-block
+                TEXT: "i" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [767,1597,34,56] inline-block
+                TEXT: "m" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [801,1597,22,56] inline-block
+                TEXT: "e" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [823,1597,21,56] inline-block
+                TEXT: "l" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [844,1597,22,56] inline-block
+                TEXT: "e" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [866,1597,24,56] inline-block
+                TEXT: "s" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [890,1597,24,56] inline-block
+                TEXT: "s" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+            <span> [503,1656,147,49] inline
+              letterSpacing:-1.2px | textAlign:center | textTransform:capitalize
+              <span> [503,1653,24,56] inline-block
+                TEXT: "S" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [527,1653,24,56] inline-block
+                TEXT: "p" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [551,1653,26,56] inline-block
+                TEXT: "a" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [576,1653,28,56] inline-block
+                TEXT: "c" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [604,1653,22,56] inline-block
+                TEXT: "e" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [626,1653,24,56] inline-block
+                TEXT: "s" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+            <span> [659,1656,97,49] inline
+              letterSpacing:-1.2px | textAlign:center | textTransform:capitalize
+              <span> [659,1653,37,56] inline-block
+                TEXT: "W" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [696,1653,8,56] inline-block
+                TEXT: "i" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [704,1653,24,56] inline-block
+                TEXT: "t" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [728,1653,27,56] inline-block
+                TEXT: "h" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+            <span> [764,1656,173,49] inline
+              letterSpacing:-1.2px | textAlign:center | textTransform:capitalize
+              <span> [764,1653,24,56] inline-block
+                TEXT: "P" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [787,1653,27,56] inline-block
+                TEXT: "u" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [814,1653,24,56] inline-block
+                TEXT: "r" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [838,1653,24,56] inline-block
+                TEXT: "p" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [862,1653,29,56] inline-block
+                TEXT: "o" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [891,1653,24,56] inline-block
+                TEXT: "s" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [915,1653,22,56] inline-block
+                TEXT: "e" ff="Inter Display"
+                fontSize:40px | fontWeight:500 | lineHeight:56px | letterSpacing:-1.2px | color:rgb(79, 71, 66) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+      <div> [0,0,0,0] contents
+        <div> [488,1721,464,51] flex/relative/column
+          whiteSpace:pre-wrap | flexDirection:column | justifyContent:flex-start
+          <p> [488,1721,464,51] block
+            letterSpacing:-0.32px | textAlign:center | textTransform:capitalize | whiteSpace:pre-wrap
+            <span> [513,1724,28,20] inline
+              letterSpacing:-0.32px | textAlign:center | textTransform:capitalize
+              <span> [513,1721,4,26] inline-block
+                letterSpacing:-0.32px | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [517,1721,15,26] inline-block
+                TEXT: "W" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [532,1721,9,26] inline-block
+                TEXT: "e" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+            <span> [544,1724,48,20] inline
+              letterSpacing:-0.32px | textAlign:center | textTransform:capitalize
+              <span> [544,1721,12,26] inline-block
+                TEXT: "o" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [556,1721,9,26] inline-block
+                TEXT: "f" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [565,1721,9,26] inline-block
+                TEXT: "f" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [574,1721,9,26] inline-block
+                TEXT: "e" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [583,1721,10,26] inline-block
+                TEXT: "r" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+            <span> [596,1724,10,20] inline
+              letterSpacing:-0.32px | textAlign:center | textTransform:capitalize
+              <span> [596,1721,10,26] inline-block
+                TEXT: "a" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+            <span> [610,1724,82,20] inline
+              letterSpacing:-0.32px | textAlign:center | textTransform:capitalize
+              <span> [610,1721,11,26] inline-block
+                TEXT: "c" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [621,1721,12,26] inline-block
+                TEXT: "o" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [633,1721,14,26] inline-block
+                TEXT: "m" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [647,1721,10,26] inline-block
+                TEXT: "p" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [656,1721,8,26] inline-block
+                TEXT: "l" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [664,1721,9,26] inline-block
+                TEXT: "e" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [674,1721,10,26] inline-block
+                TEXT: "t" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [683,1721,9,26] inline-block
+                TEXT: "e" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+            <span> [696,1724,52,20] inline
+              letterSpacing:-0.32px | textAlign:center | textTransform:capitalize
+              <span> [696,1721,10,26] inline-block
+                TEXT: "r" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [706,1721,10,26] inline-block
+                TEXT: "a" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [716,1721,11,26] inline-block
+                TEXT: "n" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [727,1721,11,26] inline-block
+                TEXT: "g" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [739,1721,9,26] inline-block
+                TEXT: "e" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+            <span> [751,1724,20,20] inline
+              letterSpacing:-0.32px | textAlign:center | textTransform:capitalize
+              <span> [751,1721,12,26] inline-block
+                TEXT: "o" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [763,1721,9,26] inline-block
+                TEXT: "f" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+            <span> [775,1724,116,20] inline
+              letterSpacing:-0.32px | textAlign:center | textTransform:capitalize
+              <span> [775,1721,10,26] inline-block
+                TEXT: "a" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [786,1721,10,26] inline-block
+                TEXT: "r" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [796,1721,11,26] inline-block
+                TEXT: "c" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [807,1721,11,26] inline-block
+                TEXT: "h" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [818,1721,4,26] inline-block
+                TEXT: "i" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [821,1721,10,26] inline-block
+                TEXT: "t" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [831,1721,9,26] inline-block
+                TEXT: "e" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [840,1721,11,26] inline-block
+                TEXT: "c" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [851,1721,10,26] inline-block
+                TEXT: "t" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [861,1721,11,26] inline-block
+                TEXT: "u" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [872,1721,10,26] inline-block
+                TEXT: "r" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [882,1721,9,26] inline-block
+                TEXT: "e" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+            <span> [894,1724,32,20] inline
+              letterSpacing:-0.32px | textAlign:center | textTransform:capitalize
+              <span> [894,1721,10,26] inline-block
+                TEXT: "a" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [905,1721,11,26] inline-block
+                TEXT: "n" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [916,1721,11,26] inline-block
+                TEXT: "d" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+            <span> [502,1750,68,20] inline
+              letterSpacing:-0.32px | textAlign:center | textTransform:capitalize
+              <span> [502,1747,4,26] inline-block
+                TEXT: "i" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [506,1747,11,26] inline-block
+                TEXT: "n" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [517,1747,10,26] inline-block
+                TEXT: "t" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [527,1747,9,26] inline-block
+                TEXT: "e" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [536,1747,10,26] inline-block
+                TEXT: "r" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [546,1747,4,26] inline-block
+                TEXT: "i" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [549,1747,12,26] inline-block
+                TEXT: "o" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [561,1747,10,26] inline-block
+                TEXT: "r" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+            <span> [574,1750,56,20] inline
+              letterSpacing:-0.32px | textAlign:center | textTransform:capitalize
+              <span> [574,1747,11,26] inline-block
+                TEXT: "d" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [585,1747,9,26] inline-block
+                TEXT: "e" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [594,1747,10,26] inline-block
+                TEXT: "s" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [604,1747,4,26] inline-block
+                TEXT: "i" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [607,1747,11,26] inline-block
+                TEXT: "g" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [619,1747,11,26] inline-block
+                TEXT: "n" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+            <span> [633,1750,73,20] inline
+              letterSpacing:-0.32px | textAlign:center | textTransform:capitalize
+              <span> [633,1747,10,26] inline-block
+                TEXT: "s" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [643,1747,9,26] inline-block
+                TEXT: "e" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [652,1747,10,26] inline-block
+                TEXT: "r" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [662,1747,10,26] inline-block
+                TEXT: "v" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [673,1747,4,26] inline-block
+                TEXT: "i" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [676,1747,11,26] inline-block
+                TEXT: "c" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [687,1747,9,26] inline-block
+                TEXT: "e" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [697,1747,10,26] inline-block
+                TEXT: "s" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+            <span> [710,1750,73,20] inline
+              letterSpacing:-0.32px | textAlign:center | textTransform:capitalize
+              <span> [710,1747,10,26] inline-block
+                TEXT: "t" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [719,1747,10,26] inline-block
+                TEXT: "a" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [730,1747,4,26] inline-block
+                TEXT: "i" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [733,1747,8,26] inline-block
+                TEXT: "l" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [742,1747,12,26] inline-block
+                TEXT: "o" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [753,1747,10,26] inline-block
+                TEXT: "r" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [763,1747,9,26] inline-block
+                TEXT: "e" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [772,1747,11,26] inline-block
+                TEXT: "d" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+            <span> [787,1750,21,20] inline
+              letterSpacing:-0.32px | textAlign:center | textTransform:capitalize
+              <span> [787,1747,10,26] inline-block
+                TEXT: "t" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [796,1747,12,26] inline-block
+                TEXT: "o" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+            <span> [811,1750,59,20] inline
+              letterSpacing:-0.32px | textAlign:center | textTransform:capitalize
+              <span> [811,1747,11,26] inline-block
+                TEXT: "c" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [823,1747,10,26] inline-block
+                TEXT: "r" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [833,1747,9,26] inline-block
+                TEXT: "e" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [842,1747,10,26] inline-block
+                TEXT: "a" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [852,1747,10,26] inline-block
+                TEXT: "t" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [862,1747,9,26] inline-block
+                TEXT: "e" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+            <span> [874,1750,63,20] inline
+              letterSpacing:-0.32px | textAlign:center | textTransform:capitalize
+              <span> [874,1747,10,26] inline-block
+                TEXT: "s" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [884,1747,10,26] inline-block
+                TEXT: "p" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [894,1747,10,26] inline-block
+                TEXT: "a" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [904,1747,11,26] inline-block
+                TEXT: "c" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [915,1747,9,26] inline-block
+                TEXT: "e" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [925,1747,10,26] inline-block
+                TEXT: "s" ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+              <span> [934,1747,3,26] inline-block
+                TEXT: "." ff="Inter Display"
+                fontSize:16px | fontWeight:500 | lineHeight:25.6px | letterSpacing:-0.32px | color:rgb(87, 80, 75) | textAlign:center | textTransform:capitalize | filter:blur(0px)
+    <div "img-right"> [1010,1438,369,493] flex/relative/column
+      flexDirection:column | justifyContent:flex-end | alignItems:center | gap:10px | overflow:clip
+      <div> [0,0,0,0] contents
+        <div> [1010,1537,369,394] block/relative
+          flex:0.8 0 0px | flexGrow:0.8 | borderRadius:8px
+          <div> [1010,1537,369,394] block/absolute
+            borderRadius:8px
+            <img> [1010,1537,369,394] block
+              IMG: GR6RzM6Itwx2wDtjwveRN43I.png alt=""
+              borderRadius:8px | overflow:clip | objectFit:cover | aspectRatio:auto 810 / 1035
+  <div> [0,0,0,0] contents
+    <div> [12,2011,1416,31] flex/relative
+      justifyContent:flex-start | alignItems:center | gap:48px | borderRadius:10px | overflow:clip
+      <ul> [-7,2011,1416,31] flex/relative
+        maxWidth:100% | maxHeight:100% | justifyContent:flex-start | alignItems:center | gap:48px | transform:matrix(1, 0, 0, 1, -18.604, 0)
+        <li> [-7,2011,291,31] list-item/relative
+          <div> [-7,2011,291,31] flex/relative/column
+            whiteSpace:pre | flexDirection:column | justifyContent:flex-start
+            <p> [-7,2011,291,31] block
+              TEXT: "Award winning designs" ff="Inter Display"
+              fontSize:24px | fontWeight:400 | lineHeight:31.2px | letterSpacing:-0.3px | color:rgb(79, 71, 66) | textTransform:uppercase | whiteSpace:pre
+        <li> [333,2015,24,24] list-item/relative
+          <svg> [333,2015,24,24] block/relative
+            SVG: <svg class="framer-MtfHw framer-1crta5j" role="presentation" viewBox="0 0 24 24"><use href="#3436826629"></use></svg>
+            overflow:hidden | aspectRatio:1 / 1
+        <li> [405,2011,306,31] list-item/relative
+          <div> [405,2011,306,31] flex/relative/column
+            whiteSpace:pre | flexDirection:column | justifyContent:flex-start
+            <p> [405,2011,306,31] block
+              TEXT: "100% Client satisfaction" ff="Inter Display"
+              fontSize:24px | fontWeight:400 | lineHeight:31.2px | letterSpacing:-0.3px | color:rgb(79, 71, 66) | textTransform:uppercase | whiteSpace:pre
+        <li> [759,2015,24,24] list-item/relative
+          <svg> [759,2015,24,24] block/relative
+            SVG: <svg class="framer-MtfHw framer-17iyqrq" role="presentation" viewBox="0 0 24 24"><use href="#3436826629"></use></svg>
+            overflow:hidden | aspectRatio:1 / 1
+        <li> [831,2011,321,31] list-item/relative
+          <div> [831,2011,321,31] flex/relative/column
+            whiteSpace:pre | flexDirection:column | justifyContent:flex-start
+            <p> [831,2011,321,31] block
+              TEXT: "150+ Projects Completed" ff="Inter Display"
+              fontSize:24px | fontWeight:400 | lineHeight:31.2px | letterSpacing:-0.3px | color:rgb(79, 71, 66) | textTransform:uppercase | whiteSpace:pre
+        <li> [1200,2015,24,24] list-item/relative
+          <svg> [1200,2015,24,24] block/relative
+            SVG: <svg class="framer-MtfHw framer-iijvke" role="presentation" viewBox="0 0 24 24"><use href="#3436826629"></use></svg>
+            overflow:hidden | aspectRatio:1 / 1
+        <li> [1272,2011,265,31] list-item/relative
+          <div> [1272,2011,265,31] flex/relative/column
+            whiteSpace:pre | flexDirection:column | justifyContent:flex-start
+            <p> [1272,2011,265,31] block
+              TEXT: "12+ Years Experience" ff="Inter Display"
+              fontSize:24px | fontWeight:400 | lineHeight:31.2px | letterSpacing:-0.3px | color:rgb(79, 71, 66) | textTransform:uppercase | whiteSpace:pre
+        <li> [1585,2015,24,24] list-item/relative
+          <svg> [1585,2015,24,24] block/relative
+            SVG: <svg class="framer-MtfHw framer-1jbg2w9" role="presentation" viewBox="0 0 24 24"><use href="#3436826629"></use></svg>
+            overflow:hidden | aspectRatio:1 / 1
+        <li> [1657,2011,291,31] list-item/relative
+          <div> [1657,2011,291,31] flex/relative/column
+            whiteSpace:pre | flexDirection:column | justifyContent:flex-start
+            <p> [1657,2011,291,31] block
+              TEXT: "Award winning designs" ff="Inter Display"
+              fontSize:24px | fontWeight:400 | lineHeight:31.2px | letterSpacing:-0.3px | color:rgb(79, 71, 66) | textTransform:uppercase | whiteSpace:pre
+        <li> [1996,2015,24,24] list-item/relative
+          <svg> [1996,2015,24,24] block/relative
+            SVG: <svg class="framer-MtfHw framer-1crta5j" role="presentation" viewBox="0 0 24 24"><use href="#3436826629"></use></svg>
+            overflow:hidden | aspectRatio:1 / 1
+        <li> [2068,2011,306,31] list-item/relative
+          <div> [2068,2011,306,31] flex/relative/column
+            whiteSpace:pre | flexDirection:column | justifyContent:flex-start
+            <p> [2068,2011,306,31] block
+              TEXT: "100% Client satisfaction" ff="Inter Display"
+              fontSize:24px | fontWeight:400 | lineHeight:31.2px | letterSpacing:-0.3px | color:rgb(79, 71, 66) | textTransform:uppercase | whiteSpace:pre
+        <li> [2423,2015,24,24] list-item/relative
+          <svg> [2423,2015,24,24] block/relative
+            SVG: <svg class="framer-MtfHw framer-17iyqrq" role="presentation" viewBox="0 0 24 24"><use href="#3436826629"></use></svg>
+            overflow:hidden | aspectRatio:1 / 1
+        <li> [2495,2011,321,31] list-item/relative
+          <div> [2495,2011,321,31] flex/relative/column
+            whiteSpace:pre | flexDirection:column | justifyContent:flex-start
+            <p> [2495,2011,321,31] block
+              TEXT: "150+ Projects Completed" ff="Inter Display"
+              fontSize:24px | fontWeight:400 | lineHeight:31.2px | letterSpacing:-0.3px | color:rgb(79, 71, 66) | textTransform:uppercase | whiteSpace:pre
+        <li> [2864,2015,24,24] list-item/relative
+          <svg> [2864,2015,24,24] block/relative
+            SVG: <svg class="framer-MtfHw framer-iijvke" role="presentation" viewBox="0 0 24 24"><use href="#3436826629"></use></svg>
+            overflow:hidden | aspectRatio:1 / 1
+        <li> [2936,2011,265,31] list-item/relative
+          <div> [2936,2011,265,31] flex/relative/column
+            whiteSpace:pre | flexDirection:column | justifyContent:flex-start
+            <p> [2936,2011,265,31] block
+              TEXT: "12+ Years Experience" ff="Inter Display"
+              fontSize:24px | fontWeight:400 | lineHeight:31.2px | letterSpacing:-0.3px | color:rgb(79, 71, 66) | textTransform:uppercase | whiteSpace:pre
+        <li> [3249,2015,24,24] list-item/relative
+          <svg> [3249,2015,24,24] block/relative
+            SVG: <svg class="framer-MtfHw framer-1jbg2w9" role="presentation" viewBox="0 0 24 24"><use href="#3436826629"></use></svg>
+            overflow:hidden | aspectRatio:1 / 1
