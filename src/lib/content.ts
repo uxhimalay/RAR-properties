@@ -34,7 +34,7 @@ export const HERO: HeroContent = {
   headline: ["RAR PROPERTIES", ""],
   labels: ["Based in Dubai", "RAR Properties"],
   paragraph:
-    "RAR Properties helps buyers, investors, and families discover and secure premier residential and commercial properties in and around Dubai.",
+    "RAR Properties helps buyers, investors, and families discover and secure the right residential and commercial properties in and around Dubai.",
   link: { label: "View our work", href: "#work" },
   cta: { label: "Book a visit", href: "#hot-deals" },
   mainImage: "/images/hero-dubai-balcony.jpg",

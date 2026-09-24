@@ -139,7 +139,7 @@ export function seedContent(): SiteContent {
     statement: {
       enabled: true,
       word: "Riyaz",
-      heading: { lead: "Helping you find premier properties in", italic: "and around", tail: "Dubai." },
+      heading: { lead: "Helping you find the right place in", italic: "and around", tail: "Dubai." },
       paragraph:
         "RAR Properties is a dedicated agency helping buyers, investors, and families find the right property in and around Dubai. From luxury villas and waterfront penthouses to prime commercial investments, we provide curated shortlists, verified market intelligence, and hands-on guidance from initial viewing to final deed.",
       cta: { label: "Explore properties", href: "/properties" },

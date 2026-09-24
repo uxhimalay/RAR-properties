@@ -10,7 +10,7 @@
       "Based in Dubai",
       "RAR Properties"
     ],
-    "paragraph": "RAR Properties helps buyers, investors, and families discover and secure premier residential and commercial properties in and around Dubai.",
+    "paragraph": "RAR Properties helps buyers, investors, and families discover and secure the right residential and commercial properties in and around Dubai.",
     "link": {
       "label": "Explore properties",
       "href": "/properties"
@@ -26,7 +26,7 @@
   "work": {
     "eyebrow": "Selected Work",
     "heading": "Shaped by How You Live",
-    "subtitle": "Helping you secure premier properties in and around Dubai.",
+    "subtitle": "Helping you discover and secure the right place in and around Dubai.",
     "link": {
       "label": "Explore by category",
       "href": "#categories"
@@ -378,7 +378,7 @@
     "enabled": true,
     "word": "Riyaz",
     "heading": {
-      "lead": "Helping you find premier properties in",
+      "lead": "Helping you find the right place in",
       "italic": "and around",
       "tail": "Dubai."
     },
